@@ -133,6 +133,30 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Explicit Clothing Modeling for an Animatable Full-Body Avatar.**<br>
+*Donglai Xiang, Fabian Andres Prada, Timur Bagautdinov, Weipeng Xu, Yuan Dong, He Wen, Jessica Hodgins, Chenglei Wu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14879)]
+
+**THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers.**<br>
+*Mihai Zanfir, Andrei Zanfir, Eduard Gabriel Bazavan, William T. Freeman, Rahul Sukthankar, Cristian Sminchisescu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.09336)]
+
+**SHARP: Shape-Aware Reconstruction of People In Loose Clothing.**<br>
+*Sai Sagar Jinka, Rohan Chacko, Astitva Srivastava, Avinash Sharma, P.J. Narayanan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04778)]
+
+**DeepSurfels: Learning Online Appearance Fusion.**<br>
+*Marko Mihajlovic, Silvan Weder, Marc Pollefeys, Martin R. Oswald.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.14240)] [[Project](https://onlinereconstruction.github.io/DeepSurfels)] [[Github](https://github.com/onlinereconstruction/deep_surfels)]
+
+**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
+*Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03798)]
+
+**Driving-Signal Aware Full-Body Avatars.**<br>
+*Timur Bagautdinov, Chenglei Wu, Tomas Simon, Fabian Prada, Takaaki Shiratori, Shih-En Wei, Weipeng Xu, Yaser Sheikh, Jason Saragih.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10441)]
+
 **StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision.**<br>
 *Yang Hong, [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/), Boyi Jiang, [Yudong Guo](https://yudongguo.github.io/), Ligang Liu, Hujun Bao.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05289)] [[Project](https://crishy1995.github.io/StereoPIFuProject/)] [[Github](https://github.com/CrisHY1995/StereoPIFu_Code)]
@@ -203,11 +227,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.06498)]
 
 **PVA: Pixel-aligned Volumetric Avatars.**<br>
 *Amit Raj, Michael Zollhoefer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02697)] [[Project](https://volumetric-avatars.github.io/)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.02697)] [[Project](https://volumetric-avatars.github.io/)]
 
 **ANR: Articulated Neural Rendering for Virtual Avatars.**<br>
 *Amit Raj, Julian Tanke, James Hays, Minh Vo, Carsten Stoll, Christoph Lassner.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12890)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.12890)] [[Project](https://anr-avatars.github.io/)]
 
 **RIN: Textured Human Model Recovery and Imitation with a Single Image.**<br>
 *Haoxi Ran, Guangfu Wang, Li Lu.*<br>
@@ -428,6 +452,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**VOGUE: Try-On by StyleGAN Interpolation Optimization.**<br>
+*[Kathleen M Lewis](https://katiemlewis.github.io/), [Srivatsan Varadharajan](https://www.linkedin.com/in/srivatsan-varadharajan-9a570818), [Ira Kemelmacher-Shlizerman](https://sites.google.com/view/irakemelmacher/home).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.02285)] [[Project](https://vogue-try-on.github.io/)] [[Github](https://github.com/Charmve/VOGUE-Try-On)]
 
 **Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing.**<br>
 *Aiyu Cui, Daniel McKee, Svetlana Lazebnik.*<br>
