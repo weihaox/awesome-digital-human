@@ -37,6 +37,15 @@ Highavenue: Turn yourself into a 3D model.
 
 ## 3D People Dressing and Clothing Draping
 
+**Deep Detail Enhancement for Any Garment.**<br>
+*Meng Zhang, Tuanfeng Wang, Duygu Ceylan, Niloy J. Mitra.*<br>
+Eurographics 2021. [[PDF](https://arxiv.org/pdf/2008.04367.pdf)]
+
+
+**Dynamic Neural Garments.**<br>
+*[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](http://www.duygu-ceylan.com/), [Tuanfeng Wang](http://geometry.cs.ucl.ac.uk/tuanfeng/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2021/DynamicNeuralGarments/)]
+
 **Point-Based Modeling of Human Clothing.**<br>
 *Ilya Zakharkin, Kirill Mazur, Artur Grigoriev, Victor Lempitsky.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08230)]
@@ -132,6 +141,14 @@ ACM Transactions on Graphics (TOG) 2012.
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**Real-time Deep Dynamic Characters.**<br>
+*Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
+SIGGRAPH 2021. [[PDF](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-ddc/data/paper.pdf)] [[Project](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-ddc/)]
+
+**A Deeper Look into DeepCap.**<br>
+*[Marc Habermann](http://people.mpi-inf.mpg.de/~mhaberma/), [Weipeng Xu](http://people.mpi-inf.mpg.de/~wxu/), [Michael Zollhoefer](https://zollhoefer.com/), [Gerard Pons-Moll](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/gerard-pons-moll/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
+TPAMI 2021. [[PDF](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/data/paper.pdf)] [[Github](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/)] [[Data](https://gvv-assets.mpi-inf.mpg.de/)]
 
 **Explicit Clothing Modeling for an Animatable Full-Body Avatar.**<br>
 *Donglai Xiang, Fabian Andres Prada, Timur Bagautdinov, Weipeng Xu, Yuan Dong, He Wen, Jessica Hodgins, Chenglei Wu.*<br>
@@ -314,8 +331,8 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15340)] [[Project](http://www.liuye
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
 
 **Reconstructing NBA Players.**<br>
-*Luyang Zhu, Konstantinos Rematas, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)] [[Github](https://github.com/luyangzhu/NBA-Players)]
+*[Luyang Zhu](https://homes.cs.washington.edu/~lyzhu/), [Konstantinos Rematas](http://www.krematas.com/), [Brian Curless](https://homes.cs.washington.edu/~curless/), [Steve Seitz](https://homes.cs.washington.edu/~seitz/), [Ira Kemelmacher-Shlizerman](https://sites.google.com/view/irakemelmacher/home).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)] [[Github](https://github.com/luyangzhu/NBA-Players)] [[Project](http://grail.cs.washington.edu/projects/nba_players/)]
 
 **IPNet: Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
 *Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
@@ -592,3 +609,10 @@ Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https
 
 - **THUmanDataset**. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) is a 3D real-world human model dataset containing approximately 7000 models.
 
+## Applications
+
+### Fitness Training
+
+**AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training.**<br>
+*Mihai Fieraru, Mihai Zanfir, Silviu-Cristian Pirlea, Vlad Olaru, Cristian Sminchisescu.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru_AIFit_Automatic_3D_Human-Interpretable_Feedback_Models_for_Fitness_Training_CVPR_2021_paper.pdf)] [[Project](http://vision.imar.ro/fit3d/)]
