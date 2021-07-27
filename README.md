@@ -452,6 +452,10 @@ Oppo shared on ISMAR 2019.
 
 ## Garment Design
 
+**Knitting 4D Garment with Elasticity Controlled for Body Motion.**<br>
+*[Zishun Liu](https://github.com/zishun), Xingjian Han, Yuchen Zhang, Xiangjia Chen, Yukun Lai, Eugeni L. Doubrovski, Emily Whiting, Charlie C.L. Wang.*<br>
+TOG 2021. [[PDF](https://1drv.ms/b/s!AsZuzkRqeoh6gsUNhZKQ0bRp-BDaJQ?e=XIegdJ)] [[Project](https://zishun.github.io/projects/Knitting4D/)]
+
 **Garment Design with Generative Adversarial Networks.**<br>
 *Chenxi Yuan, Mohsen Moghaddam.*<br>
 AdvML 2020, KDD workshop. [[PDF](https://arxiv.org/abs/2007.10947)] 
@@ -469,6 +473,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**TryOnGAN: Body-aware Try-on via Layered Interpolation.**<br>
+*[Kathleen M Lewis](https://katiemlewis.github.io/), [Srivatsan Varadharajan](https://www.linkedin.com/in/srivatsan-varadharajan-9a570818), [Ira Kemelmacher-Shlizerman](https://www.irakemelmacher.com/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2101.02285)] [[Project](https://tryongan.github.io/tryongan/)] [[Demo](https://tryongan.github.io/tryongan/demo_rewrite.html)]
 
 **VOGUE: Try-On by StyleGAN Interpolation Optimization.**<br>
 *[Kathleen M Lewis](https://katiemlewis.github.io/), [Srivatsan Varadharajan](https://www.linkedin.com/in/srivatsan-varadharajan-9a570818), [Ira Kemelmacher-Shlizerman](https://sites.google.com/view/irakemelmacher/home).*<br>
