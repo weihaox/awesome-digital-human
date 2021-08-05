@@ -35,6 +35,10 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction.**<br>
+*Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.12512)] [[Project](https://crisalixsa.github.io/h3d-net/)] [[H3DS Dataset](https://docs.google.com/forms/d/e/1FAIpQLScbs-m-Me85KeMqJ2WnCwvToeSRIHC8sJckhxX3eknQu8ItRQ/viewform)]
+
 **Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
 *Andrei Burov, Matthias Nießner, Justus Thies.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03978)] [[Video](https://youtu.be/4wbSi9Sqdm4)] [[Github](https://github.com/andreiburov/DSFN)]
@@ -106,6 +110,10 @@ TPAMI 2021. [[PDF](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-d
 **SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks.**<br>
 *Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03313)] [[Github](https://www.cs.cmu.edu/~aayushb/SST/)]
+
+**Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement.**<br>
+*Huiwen Luo, Koki Nagano, Han-Wei Kung, [Qingguo Xu](https://qingguo-xu.com/), Zejian Wang, Lingyu Wei, Liwen Hu, Hao Li.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2106.11423)]
 
 **DeepSurfels: Learning Online Appearance Fusion.**<br>
 *Marko Mihajlovic, Silvan Weder, Marc Pollefeys, Martin R. Oswald.*<br>
@@ -466,6 +474,11 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 *[Bin Ren](https://scholar.google.com/citations?user=Md9maLYAAAAJ&hl=en), Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)] [[Github](https://github.com/Amazingren/CIT)]
 
+**WAS-VTON: Warping Architecture Search for Virtual Try-on Network.**<br>
+*Zhenyu Xie, Xujie Zhang, Fuwei Zhao, Haoye Dong, Michael C. Kampffmeyer, Haonan Yan, Xiaodan Liang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00386)] 
+
+
 **Shape Controllable Virtual Try-on for Underwear Models.**<br>
 *Xin Gao, Zhenjiang Liu, Zunlei Feng, Chengji Shen, Kairi Ou, Haihong Tang, Mingli Song.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.13156)]
@@ -629,9 +642,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-- **SMPL**. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de/), [SMPL+H](http://mano.is.tue.mpg.de/) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de/), [Gender Neural Model](http://smplify.is.tue.mpg.de/)) model, go to this project website and register to get access to the downloads section. [[Github](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl)]
+- `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de/), [SMPL+H](http://mano.is.tue.mpg.de/) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de/), [Gender Neural Model](http://smplify.is.tue.mpg.de/)) model, go to this project website and register to get access to the downloads section. [[Github](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl)]
 
-- **THUmanDataset**. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) is a 3D real-world human model dataset containing approximately 7000 models.
+- `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) is a 3D real-world human model dataset containing approximately 7000 models.
+
+- ` AGORA`. AGORA, proposed at CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.pdf), consists of 4240 scans spanning more than 350 unique subjects, all paired with SMPL-X fits.
 
 ## Applications
 
