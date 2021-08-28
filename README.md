@@ -35,6 +35,10 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing.**<br>
+*Garvita Tiwari, Nikolaos Sarafianos, Tony Tung, Gerard Pons-Moll.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.08807)]
+
 **H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction.**<br>
 *Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.12512)] [[Project](https://crisalixsa.github.io/h3d-net/)] [[H3DS Dataset](https://docs.google.com/forms/d/e/1FAIpQLScbs-m-Me85KeMqJ2WnCwvToeSRIHC8sJckhxX3eknQu8ItRQ/viewform)]
@@ -79,9 +83,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12024)] [[Github](https://github.c
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 
+**imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose.**<br>
+*Thiemo Alldieck, Hongyi Xu, Cristian Sminchisescu.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.10842)] 
+
 **DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras.**<br>
 *Yang Zheng, Ruizhi Shao, Yuxiang Zhang, [Zerong Zheng](https://zhengzerong.github.io/), [Tao Yu](https://ytrock.com/), [Yebin Liu](http://www.liuyebin.com/student.html).*<br>
 ICCV 2021. [[PDF](http://www.liuyebin.com/dmc/assets/main.pdf)] [[Project](http://www.liuyebin.com/dmc/dmc.html)]
+
+**M3D-VTON: A Monocular-to-3D Virtual Try-On Network.**<br>
+*Fuwei Zhao, Zhenyu Xie, Michael Kampffmeyer, Haoye Dong, Songfang Han, Tianxiang Zheng, Tao Zhang, Xiaodan Liang.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.05126)]
 
 **Animatable Neural Radiance Fields for Human Body Modeling.**<br>
 *[Sida Peng](https://pengsida.net/), Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
@@ -98,6 +110,10 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2105.01794)] [[Project](https://people.mp
 **Learning Skeletal Articulations with Neural Blend Shapes.**<br>
 *Peizhuo Li, Kfir Aberman, Rana Hanocka, Libin Liu, Olga Sorkine-Hornung, Baoquan Chen.*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2105.02451)] [[Video](https://youtu.be/antc20EFh6k)] [[Project](https://peizhuoli.github.io/neural-blend-shapes/)]
+
+**Detailed Avatar Recovery from Single Image.**<br>
+*Hao Zhu, Xinxin Zuo, Haotian Yang, Sen Wang, Xun Cao, Ruigang Yang.*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2108.02931)]
 
 **RSC-Net: 3D Human Pose, Shape and Texture from Low-Resolution Images and Videos.**<br>
 *Xiangyu Xu, Hao Chen, Francesc Moreno-Noguer, Laszlo A. Jeni, Fernando De la Torre.*<br>
