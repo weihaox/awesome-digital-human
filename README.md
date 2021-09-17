@@ -35,9 +35,9 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
-**Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing.**<br>
-*Garvita Tiwari, Nikolaos Sarafianos, Tony Tung, Gerard Pons-Moll.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2108.08807)]
+**Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering.**<br>
+*Youngjoong Kwon, Dahun Kim, Duygu Ceylan, Henry Fuchs.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.07448)]
 
 **H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction.**<br>
 *Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
@@ -82,6 +82,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12024)] [[Github](https://github.c
 **PeelNet: Textured 3D reconstruction of human body using single view RGB image.**<br>
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
+
+**Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing.**<br>
+*[Garvita Tiwari](https://virtualhumans.mpi-inf.mpg.de/people/Tiwari.html), Nikolaos Sarafianos, [Tony Tung](https://sites.google.com/site/tony2ng/), Gerard Pons-Moll.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08807)] [[Project](https://virtualhumans.mpi-inf.mpg.de/neuralgif/)]
+
+**The Power of Points for Modeling Humans in Clothing.**<br>
+*Qianli Ma, Jinlong Yang, Siyu Tang, Michael J. Black.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2109.01137)] [[Project](https://qianlim.github.io/POP)] [[Github](https://github.com/qianlim/POP)]
 
 **imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose.**<br>
 *Thiemo Alldieck, Hongyi Xu, Cristian Sminchisescu.*<br>
@@ -493,6 +501,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)] [[Github](https://github.c
 **WAS-VTON: Warping Architecture Search for Virtual Try-on Network.**<br>
 *Zhenyu Xie, Xujie Zhang, Fuwei Zhao, Haoye Dong, Michael C. Kampffmeyer, Haonan Yan, Xiaodan Liang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00386)] 
+
+**ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors.**<br>
+*Ayush Chopra, Rishabh Jain, Mayur Hemani, Balaji Krishnamurthy.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2109.07001)]
 
 
 **Shape Controllable Virtual Try-on for Underwear Models.**<br>
