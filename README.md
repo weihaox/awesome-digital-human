@@ -83,6 +83,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12024)] [[Github](https://github.c
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 
+**MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images.**<br>
+*[Shaofei Wang](https://taconite.github.io/), Marko Mihajlovic, Qianli Ma, Andreas Geiger, Siyu Tang.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neuralbodies.github.io/metavatar/)]
+
+**SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes.**<br>
+*[Xu Chen](https://ait.ethz.ch/people/xu/), [Yufeng Zheng](https://ait.ethz.ch/people/zhengyuf/), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03953)] [[Project](https://xuchen-ethz.github.io/snarf/] [[Github](https://github.com/xuchen-ethz/snarf)]
+
 **Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing.**<br>
 *[Garvita Tiwari](https://virtualhumans.mpi-inf.mpg.de/people/Tiwari.html), Nikolaos Sarafianos, [Tony Tung](https://sites.google.com/site/tony2ng/), Gerard Pons-Moll.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08807)] [[Project](https://virtualhumans.mpi-inf.mpg.de/neuralgif/)]
