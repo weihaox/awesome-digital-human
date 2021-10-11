@@ -43,10 +43,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2109.07448)]
 *Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.12512)] [[Project](https://crisalixsa.github.io/h3d-net/)] [[H3DS Dataset](https://docs.google.com/forms/d/e/1FAIpQLScbs-m-Me85KeMqJ2WnCwvToeSRIHC8sJckhxX3eknQu8ItRQ/viewform)]
 
-**Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
-*Andrei Burov, Matthias Nießner, Justus Thies.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03978)] [[Video](https://youtu.be/4wbSi9Sqdm4)] [[Github](https://github.com/andreiburov/DSFN)]
-
 **Explicit Clothing Modeling for an Animatable Full-Body Avatar.**<br>
 *Donglai Xiang, Fabian Andres Prada, Timur Bagautdinov, Weipeng Xu, Yuan Dong, He Wen, Jessica Hodgins, Chenglei Wu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14879)]
@@ -87,6 +83,31 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 *[Shaofei Wang](https://taconite.github.io/), Marko Mihajlovic, Qianli Ma, Andreas Geiger, Siyu Tang.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neuralbodies.github.io/metavatar/)]
 
+**Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
+*Andrei Burov, Matthias Nießner, Justus Thies.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03978)] [[Video](https://youtu.be/4wbSi9Sqdm4)] [[Github](https://github.com/andreiburov/DSFN)]
+
+
+**Neural Articulated Radiance Field.**<br>
+*Atsuhiro Noguchi, Xiao Sun, Stephen Lin, Tatsuya Harada.*<br>
+ICCV 2021. [[PDF](http://arxiv.org/abs/2104.03110)]
+
+**3D Human Texture Estimation From a Single Image With Transformers.**<br>
+*Xiangyu Xu, Chen Change Loy.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_3D_Human_Texture_Estimation_From_a_Single_Image_With_Transformers_ICCV_2021_paper.html)]
+
+**ARCH++: Animation-Ready Clothed Human Reconstruction Revisited.**<br>
+*Tong He, Yuanlu Xu, Shunsuke Saito, Stefano Soatto, Tony Tung.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/He_ARCH_Animation-Ready_Clothed_Human_Reconstruction_Revisited_ICCV_2021_paper.html)]
+
+**DeePSD: Automatic Deep Skinning and Pose Space Deformation for 3D Garment Animation.**<br>
+*Hugo Bertiche, Meysam Madadi, Emilio Tylson, Sergio Escalera.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Bertiche_DeePSD_Automatic_Deep_Skinning_and_Pose_Space_Deformation_for_3D_ICCV_2021_paper.html)]
+
+**EgoRenderer: Rendering Human Avatars From Egocentric Camera Images.**<br>
+*Tao Hu, Kripasindhu Sarkar, Lingjie Liu, Matthias Zwicker, Christian Theobalt.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_EgoRenderer_Rendering_Human_Avatars_From_Egocentric_Camera_Images_ICCV_2021_paper.html)]
+
 **SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes.**<br>
 *[Xu Chen](https://ait.ethz.ch/people/xu/), [Yufeng Zheng](https://ait.ethz.ch/people/zhengyuf/), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03953)] [[Project](https://xuchen-ethz.github.io/snarf/] [[Github](https://github.com/xuchen-ethz/snarf)]
@@ -98,6 +119,10 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08807)] [[Project](https://virtualh
 **The Power of Points for Modeling Humans in Clothing.**<br>
 *Qianli Ma, Jinlong Yang, Siyu Tang, Michael J. Black.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.01137)] [[Project](https://qianlim.github.io/POP)] [[Github](https://github.com/qianlim/POP)]
+
+**Learning to Regress Bodies from Images using Differentiable Semantic Rendering.**<br>
+*[Sai Kumar Dwivedi](https://ps.is.tuebingen.mpg.de/person/sdwivedi), [Nikos Athanasiou](https://ps.is.tuebingen.mpg.de/employees/nathanasiou), [Muhammed Kocabas](https://ps.is.tuebingen.mpg.de/person/mkocabas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2110.03480)] [[Project](https://dsr.is.tue.mpg.de/)]
 
 **imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose.**<br>
 *Thiemo Alldieck, Hongyi Xu, Cristian Sminchisescu.*<br>
@@ -514,6 +539,13 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00386)]
 *Ayush Chopra, Rishabh Jain, Mayur Hemani, Balaji Krishnamurthy.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.07001)]
 
+*Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing.*<br>
+*Aiyu Cui, Daniel McKee, Svetlana Lazebnik.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.html)]
+
+**FashionMirror: Co-Attention Feature-Remapping Virtual Try-On With Sequential Template Poses.**<br>
+*Chieh-Yun Chen, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, Wen-Huang Cheng.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.html)]
 
 **Shape Controllable Virtual Try-on for Underwear Models.**<br>
 *Xin Gao, Zhenjiang Liu, Zunlei Feng, Chengji Shen, Kairi Ou, Haihong Tang, Mingli Song.*<br>
