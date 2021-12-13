@@ -35,6 +35,18 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering.**<br>
+*Mingfei Chen, Jianfeng Zhang, Xiangyu Xu, Lijuan Liu, Jiashi Feng, Shuicheng Yan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.04312)]
+
+**HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs.**<br>
+*Fuqiang Zhao, Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02789)]
+
+**Total Scale: Face-to-Body Detail Reconstruction from Sparse RGBD Sensors.**<br>
+*Zheng Dong, Ke Xu, Ziheng Duan, Hujun Bao, Weiwei Xu, Rynson W.H. Lau.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02082)]
+
 **Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering.**<br>
 *Youngjoong Kwon, Dahun Kim, Duygu Ceylan, Henry Fuchs.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2109.07448)]
@@ -79,6 +91,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12024)] [[Github](https://github.c
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 
+**Class-agnostic Reconstruction of Dynamic Objects from Videos.**<br>
+*[Zhongzheng Ren](https://jason718.github.io), [Xiaoming Zhao](https://xiaoming-zhao.com/index.php), [Alexander G. Schwing](http://www.alexander-schwing.de/).*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2112.02091)] [[Project](https://jason718.github.io/redo)]
+
 **MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images.**<br>
 *[Shaofei Wang](https://taconite.github.io/), Marko Mihajlovic, Qianli Ma, Andreas Geiger, Siyu Tang.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neuralbodies.github.io/metavatar/)]
@@ -86,7 +102,6 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neura
 **Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
 *Andrei Burov, Matthias Nießner, Justus Thies.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03978)] [[Video](https://youtu.be/4wbSi9Sqdm4)] [[Github](https://github.com/andreiburov/DSFN)]
-
 
 **Neural Articulated Radiance Field.**<br>
 *Atsuhiro Noguchi, Xiao Sun, Stephen Lin, Tatsuya Harada.*<br>
@@ -534,6 +549,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)] [[Github](https://github.c
 **WAS-VTON: Warping Architecture Search for Virtual Try-on Network.**<br>
 *Zhenyu Xie, Xujie Zhang, Fuwei Zhao, Haoye Dong, Michael C. Kampffmeyer, Haonan Yan, Xiaodan Liang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00386)] 
+
+**Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN.**<br>
+*Zhenyu Xie, Zaiyu Huang, Fuwei Zhao, Haoye Dong, Michael Kampffmeyer, Xiaodan Liang.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.10544)] 
+
 
 **ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors.**<br>
 *Ayush Chopra, Rishabh Jain, Mayur Hemani, Balaji Krishnamurthy.*<br>
