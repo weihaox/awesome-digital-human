@@ -35,6 +35,22 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**Neural Head Avatars from Monocular RGB Videos.**<br>
+*[Philip-William Grassal](https://hci.iwr.uni-heidelberg.de/vislearn/people), [Malte Prinzler](https://de.linkedin.com/in/malte-prinzler), [Titus Leistner](https://titus-leistner.de/pages/about-me.html), [Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/), [Matthias Nießner](https://www.niessnerlab.org/members/matthias_niessner/profile.html), [Justus Thies](https://justusthies.github.io/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01554)] [[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)]
+
+**LookinGood^π: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture.**<br>
+*Xiqi Yang, Kewei Yang, Kang Chen, Weidong Zhang, Weiwei Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.08037)]
+
+**ICON: Implicit Clothed humans Obtained from Normals.**<br>
+*[Yuliang Xiu](https://ps.is.tuebingen.mpg.de/person/yxiu), [Jinlong Yang](https://ps.is.tuebingen.mpg.de/person/jyang), [Dimitrios Tzionas](https://ps.is.mpg.de/~dtzionas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.09127)] [[Github](https://github.com/YuliangXiu/ICON)]
+
+**I M Avatar: Implicit Morphable Head Avatars from Videos.**<br>
+*Yufeng Zheng, Victoria Fernández Abrevaya, Xu Chen, Marcel C. Bühler, Michael J. Black, Otmar Hilliges.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07471)]
+
 **Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering.**<br>
 *Mingfei Chen, Jianfeng Zhang, Xiangyu Xu, Lijuan Liu, Jiashi Feng, Shuicheng Yan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.04312)]
@@ -541,6 +557,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
+*Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07200)]
 
 **CIT: Cloth Interactive Transformer for Virtual Try-On.**<br>
 *[Bin Ren](https://scholar.google.com/citations?user=Md9maLYAAAAJ&hl=en), Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
