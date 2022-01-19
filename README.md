@@ -35,6 +35,31 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video.**<br>
+*Chung-Yi Weng, Brian Curless, Pratul P. Srinivasan, Jonathan T. Barron, Ira Kemelmacher-Shlizerman.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2201.04127)]
+
+
+**gDNA: Towards Generative Detailed Neural Avatars.**<br>
+*[Xu Chen](https://ait.ethz.ch/people/xu/), [Tianjian Jiang](https://ait.ethz.ch/people/zhengyuf/), [Jie Song](https://ait.ethz.ch/people/song/), [Jinlong Yang](https://is.mpg.de/person/jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Andreas Geiger](http://www.cvlibs.net/), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz.ch/projects/2022/gdna/downloads/)] [[Github](https://github.com/xuchen-ethz/gdna)]
+
+**Learning Animatable Avatar with Barycentric Mapping and Variation Mining.**<br>
+*Yihao Zhi, [Shenhan Qian](https://shenhanqian.com/), Xinhao Yan, Shenghua Gao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)]
+
+**Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis.**<br>
+*Tianhan Xu, Yasuhiro Fujita, Eiichi Matsumoto.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2201.01683)]
+
+**Animatable Neural Radiance Fields from Monocular RGB Videos.**<br>
+*Jianchuan Chen, Ying Zhang, Di Kang, Xuefei Zhe, Linchao Bao, Xu Jia, Huchuan Lu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)] [[Github](https://github.com/JanaldoChen/Anim-NeRF)]
+
+**HVTR: Hybrid Volumetric-Textural Rendering for Human Avatars.**<br>
+*Tao Hu, Tao Yu, Zerong Zheng, He Zhang, Yebin Liu, Matthias Zwicker.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.10203)] [[Project](https://www.cs.umd.edu/~taohu/hvtr/)]
+
 **Neural Head Avatars from Monocular RGB Videos.**<br>
 *[Philip-William Grassal](https://hci.iwr.uni-heidelberg.de/vislearn/people), [Malte Prinzler](https://de.linkedin.com/in/malte-prinzler), [Titus Leistner](https://titus-leistner.de/pages/about-me.html), [Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/), [Matthias Nießner](https://www.niessnerlab.org/members/matthias_niessner/profile.html), [Justus Thies](https://justusthies.github.io/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01554)] [[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)]
@@ -107,6 +132,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12024)] [[Github](https://github.c
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 
+**A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose.**<br>
+*[Shih-Yang Su](https://lemonatsu.github.io/), [Frank Yu](https://yu-frank.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Helge Rhodin](http://helge.rhodin.de/).*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2102.06199)] [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
+
 **Class-agnostic Reconstruction of Dynamic Objects from Videos.**<br>
 *[Zhongzheng Ren](https://jason718.github.io), [Xiaoming Zhao](https://xiaoming-zhao.com/index.php), [Alexander G. Schwing](http://www.alexander-schwing.de/).*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2112.02091)] [[Project](https://jason718.github.io/redo)]
@@ -114,6 +143,10 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2112.02091)] [[Project](https://jason
 **MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images.**<br>
 *[Shaofei Wang](https://taconite.github.io/), Marko Mihajlovic, Qianli Ma, Andreas Geiger, Siyu Tang.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neuralbodies.github.io/metavatar/)]
+
+**Garment4D: Garment Reconstruction from Point Cloud Sequences.**<br>
+*[Fangzhou Hong](https://hongfz16.github.io/), Liang Pan, Zhongang Cai, Ziwei Liu.*<br>
+NeurIPS 2021. [[PDF](https://openreview.net/pdf?id=aF60hOEwHP)] [[Project](https://hongfz16.github.io/projects/Garment4D.html)] [[Github](https://github.com/hongfz16/Garment4D)]
 
 **Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
 *Andrei Burov, Matthias Nießner, Justus Thies.*<br>
@@ -148,7 +181,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03953)] [[Project](https://xuchen-e
 ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08807)] [[Project](https://virtualhumans.mpi-inf.mpg.de/neuralgif/)]
 
 **The Power of Points for Modeling Humans in Clothing.**<br>
-*Qianli Ma, Jinlong Yang, Siyu Tang, Michael J. Black.*<br>
+*[Qianli Ma](https://qianlim.github.io/), Jinlong Yang, Siyu Tang, Michael J. Black.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.01137)] [[Project](https://qianlim.github.io/POP)] [[Github](https://github.com/qianlim/POP)]
 
 **Learning to Regress Bodies from Images using Differentiable Semantic Rendering.**<br>
@@ -518,7 +551,7 @@ CVPR 2020. [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chi
 
 **Learning to Dress 3D People in Generative Clothing.**<br>
 *Qianli Ma, Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, Michael J. Black.*<br>
-CVPE 2020. [[PDF](https://arxiv.org/abs/1907.13615)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1907.13615)]
 
 **DeepCap: Monocular Human Performance Capture Using Weak Supervision.**<br>
 *Marc Habermann, Weipeng Xu, Michael and Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
