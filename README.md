@@ -35,10 +35,29 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
-**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video.**<br>
-*Chung-Yi Weng, Brian Curless, Pratul P. Srinivasan, Jonathan T. Barron, Ira Kemelmacher-Shlizerman.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2201.04127)]
+**Recovering 3D Human Mesh from Monocular Images: A Survey.**<br>
+*Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
+**PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence.**<br>
+*Zijian Dong, Chen Guo, Jie Song, Xu Chen, Andreas Geiger, Otmar Hilliges.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01754)] [[Project](https://zj-dong.github.io/pina/)]
+
+**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time.**<br>
+*Liao Wang, Jiakai Zhang, Xinhang Liu, Fuqiang Zhao, Yanshun Zhang, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.08614)]
+
+**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing.**<br>
+*Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06088)]
+
+**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video.**<br>
+*[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Brian Curless, Pratul Srinivasan,Jonathan T. Barron, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04127)] [[Project](https://grail.cs.washington.edu/projects/humannerf/)]
+
+**H4D: Human 4D Modeling by Learning Neural Compositional Representation.**<br>
+*Boyan Jiang, Yinda Zhang, Xingkui Wei, Xiangyang Xue, Yanwei Fu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01247)]
 
 **gDNA: Towards Generative Detailed Neural Avatars.**<br>
 *[Xu Chen](https://ait.ethz.ch/people/xu/), [Tianjian Jiang](https://ait.ethz.ch/people/zhengyuf/), [Jie Song](https://ait.ethz.ch/people/song/), [Jinlong Yang](https://is.mpg.de/person/jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Andreas Geiger](http://www.cvlibs.net/), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).*<br>
