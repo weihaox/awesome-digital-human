@@ -43,6 +43,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.
 *Zijian Dong, Chen Guo, Jie Song, Xu Chen, Andreas Geiger, Otmar Hilliges.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01754)] [[Project](https://zj-dong.github.io/pina/)]
 
+**SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video.**<br>
+*Boyi Jiang, Yang Hong, Hujun Bao, Juyong Zhang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2201.12792)] [[Project](https://jby1993.github.io/SelfRecon/)]
+
 **Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time.**<br>
 *Liao Wang, Jiakai Zhang, Xinhang Liu, Fuqiang Zhao, Yanshun Zhang, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.08614)]
