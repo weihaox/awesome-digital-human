@@ -39,6 +39,14 @@ Highavenue: Turn yourself into a 3D model.
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
+**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction.**<br>
+*[Wenbin Lin](https://wenbin-lin.github.io/), Chengwei Zheng, Jun-Hai Yong, Feng Xu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/pdf/2203.07977.pdf)] [[Project](https://wenbin-lin.github.io/OcclusionFusion/)]
+
+**Animatable Neural Implicit Surfaces for Creating Avatars from Videos.**<br>
+*Sida Peng, Shangzhan Zhang, Zhen Xu, Chen Geng, Boyi Jiang, Hujun Bao, Xiaowei Zhou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.08133.pdf)] [[Project](https://zju3dv.github.io/animatable_sdf/)]
+
 **PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence.**<br>
 *Zijian Dong, Chen Guo, Jie Song, Xu Chen, Andreas Geiger, Otmar Hilliges.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01754)] [[Project](https://zj-dong.github.io/pina/)]
@@ -610,9 +618,28 @@ ACM Transactions on Graphics (TOG) 2012.
 *Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
+## Body Reshaping
+
+**Single-image Human-body Reshaping with Deep Neural Networks.**<br>
+*Beijia Chen, Hongbo Fu, Xiang Chen, Kun Zhou, Youyi Zheng.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10496)]
+
+**MovieReshape: Tracking and Reshaping of Humans in Videos.**<br>
+*Arjun Jain, Thorsten Thormählen, Hans-Peter Seidel, Christian Theobalt.*<br>
+SIGGRAPH Asia 2010. [[PDF](http://www.mpi-inf.mpg.de/resources/MovieReshape/MovieReshape.pdf)] [[Project](https://resources.mpi-inf.mpg.de/MovieReshape/)]
+
+**Parametric reshaping of human bodies in images.**<br>
+*Shizhe Zhou, Hongbo Fu,  Ligang Liu, Daniel Cohen-Or, Xiaoguang Han.*<br>
+SIGGRAPH 2010. [[PDF](https://dl.acm.org/doi/10.1145/1833349.1778863)]
+
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**InsetGAN for Full-Body Image Generation.**<br>
+*[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Project](http://afruehstueck.github.io/insetgan)]
+
 
 **Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
 *Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
