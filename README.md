@@ -39,6 +39,10 @@ Highavenue: Turn yourself into a 3D model.
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
+**NeuMan: Neural Human Radiance Field from a Single Video.**<br>
+*Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10157)] 
+
 **OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction.**<br>
 *[Wenbin Lin](https://wenbin-lin.github.io/), Chengwei Zheng, Jun-Hai Yong, Feng Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2203.07977.pdf)] [[Project](https://wenbin-lin.github.io/OcclusionFusion/)]
@@ -52,7 +56,7 @@ arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.08133.pdf)] [[Project](https://zju
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01754)] [[Project](https://zj-dong.github.io/pina/)]
 
 **SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video.**<br>
-*Boyi Jiang, Yang Hong, Hujun Bao, Juyong Zhang.*<br>
+*[Boyi Jiang](https://scholar.google.com/citations?user=lTlZV8wAAAAJ&hl=zh-CN), Yang Hong, Hujun Bao, Juyong Zhang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2201.12792)] [[Project](https://jby1993.github.io/SelfRecon/)]
 
 **Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time.**<br>
