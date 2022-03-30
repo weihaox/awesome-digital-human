@@ -39,6 +39,14 @@ Highavenue: Turn yourself into a 3D model.
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
+**Structured Local Radiance Fields for Human Avatar Modeling.**<br>
+*Zerong Zheng, Han Huang, Tao Yu, Hongwen Zhang, Yandong Guo, Yebin Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14478)]
+
+**DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
+*[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
+arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
+
 **NeuMan: Neural Human Radiance Field from a Single Video.**<br>
 *Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10157)] 
@@ -145,7 +153,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04778)]
 
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03798)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
 
 **Driving-Signal Aware Full-Body Avatars.**<br>
 *Timur Bagautdinov, Chenglei Wu, Tomas Simon, Fabian Prada, Takaaki Shiratori, Shih-En Wei, Weipeng Xu, Yaser Sheikh, Jason Saragih.*<br>
@@ -516,6 +524,10 @@ Oppo shared on ISMAR 2019.
 
 ## 3D People Dressing and Clothing Draping
 
+**Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images.**<br>
+*Heming Zhu, Lingteng Qiu, Yuda Qiu, Xiaoguang Han.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.15007)] [[Project](https://kv2000.github.io/2022/03/28/reef/)]
+
 **Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On.**<br>
 *Igor Santesteban, Nils Thuerey, Miguel A. Otaduy, Dan Casas.*<br>
 CVPR 2021. [[PDF](http://arxiv.org/abs/2105.06462)]
@@ -640,10 +652,13 @@ SIGGRAPH 2010. [[PDF](https://dl.acm.org/doi/10.1145/1833349.1778863)]
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
 
+**Dressing in the Wild by Watching Dance Videos.**<br>
+*Xin Dong, Fuwei Zhao, Zhenyu Xie, Xijin Zhang, Daniel K. Du, Min Zheng, Xiang Long, Xiaodan Liang, Jianchao Yang.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.15320)] [[Project](https://awesome-wflow.github.io/)]
+
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Project](http://afruehstueck.github.io/insetgan)]
-
 
 **Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
 *Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
@@ -782,6 +797,12 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
+### Human-Centric Perception
+
+**Versatile Multi-Modal Pre-Training for Human-Centric Perception.**<br>
+*[Fangzhou Hong](https://hongfz16.github.io/), [Liang Pan](), [Zhongang Cai](), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13815)] [[Github](https://github.com/hongfz16/HCMoCo)] [[Project](https://hongfz16.github.io/projects/HCMoCo.html;)]
+
 ### Challenge and workshop
 - KDD Workshop on Fashion. [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
 - Workshop on Computer Vision for Fashion, Art and Design. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020) [[ICCV 2019]](https://sites.google.com/view/cvcreative/home) [[ECCV 2018]](https://sites.google.com/view/eccvfashion/) [[ICCV 2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
@@ -806,6 +827,7 @@ Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https
 - TaobaoClothMatch. [[Tianchi]](TaobaoClothMatch)
 - Fashion-MNIST. [[Fashion-MNIST]](https://github.com/zalandoresearch/fashion-mnist)
 - Fashion IQ. [[Website]](https://www.spacewu.com/posts/fashion-iq/)
+- NTURGBD-Parsing-4K Dataset. [[Website](https://github.com/hongfz16/HCMoCo)]
 
 ## Garment Design
 
