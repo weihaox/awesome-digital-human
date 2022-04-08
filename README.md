@@ -39,6 +39,10 @@ Highavenue: Turn yourself into a 3D model.
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
+**JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction.**<br>
+*[Yukang Cao](https://github.com/yukangcao), [Guanying Chen](https://guanyingc.github.io/), [Kai Han](http://www.hankai.org/), [Wenqi Yang](https://github.com/ywq), [Kwan-Yee K. Wong](http://i.cs.hku.hk/~kykwong/).*<br>
+CVPR 2022 (oral). [[PDF]()]
+
 **Structured Local Radiance Fields for Human Avatar Modeling.**<br>
 *Zerong Zheng, Han Huang, Tao Yu, Hongwen Zhang, Yandong Guo, Yebin Liu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14478)]
@@ -524,6 +528,10 @@ Oppo shared on ISMAR 2019.
 
 ## 3D People Dressing and Clothing Draping
 
+**SNUG: Self-Supervised Neural Dynamic Garments.**<br>
+*Igor Santesteban, Miguel A. Otaduy, Dan Casas.*<br>
+CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2204.02219)] [[Project](http://mslab.es/projects/SNUG/)] [[Github](https://github.com/isantesteban/snug)]
+
 **Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images.**<br>
 *Heming Zhu, Lingteng Qiu, Yuda Qiu, Xiaoguang Han.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.15007)] [[Project](https://kv2000.github.io/2022/03/28/reef/)]
@@ -651,6 +659,10 @@ SIGGRAPH 2010. [[PDF](https://dl.acm.org/doi/10.1145/1833349.1778863)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Style-Based Global Appearance Flow for Virtual Try-On.**<br>
+*Sen He, Yi-Zhe Song, Tao Xiang.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2204.01046)] 
 
 **Dressing in the Wild by Watching Dance Videos.**<br>
 *Xin Dong, Fuwei Zhao, Zhenyu Xie, Xijin Zhang, Daniel K. Du, Min Zheng, Xiang Long, Xiaodan Liang, Jianchao Yang.*<br>
