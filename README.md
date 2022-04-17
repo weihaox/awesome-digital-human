@@ -39,13 +39,69 @@ Highavenue: Turn yourself into a 3D model.
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
+**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video.**<br>
+*[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Brian Curless, Pratul Srinivasan,Jonathan T. Barron, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04127)] [[Project](https://grail.cs.washington.edu/projects/humannerf/)]
+
+**H4D: Human 4D Modeling by Learning Neural Compositional Representation.**<br>
+*Boyan Jiang, Yinda Zhang, Xingkui Wei, Xiangyang Xue, Yanwei Fu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01247)]
+
+**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction.**<br>
+*[Wenbin Lin](https://wenbin-lin.github.io/), Chengwei Zheng, Jun-Hai Yong, Feng Xu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/pdf/2203.07977.pdf)] [[Project](https://wenbin-lin.github.io/OcclusionFusion/)]
+
+**PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence.**<br>
+*Zijian Dong, Chen Guo, Jie Song, Xu Chen, Andreas Geiger, Otmar Hilliges.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01754)] [[Project](https://zj-dong.github.io/pina/)]
+
+**SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video.**<br>
+*[Boyi Jiang](https://scholar.google.com/citations?user=lTlZV8wAAAAJ&hl=zh-CN), Yang Hong, Hujun Bao, Juyong Zhang.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2201.12792)] [[Project](https://jby1993.github.io/SelfRecon/)]
+
+**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time.**<br>
+*Liao Wang, Jiakai Zhang, Xinhang Liu, Fuqiang Zhao, Yanshun Zhang, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2202.08614)]
+
+**NeuralHOFusion: Neural Volumetric Rendering under Human-object Interactions.**<br>
+*Yuheng Jiang, Suyi Jiang, Guoxing Sun, Zhuo Su, Kaiwen Guo, Minye Wu, Jingyi Yu, Lan Xu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2202.12825)] [[Project](https://nowheretrix.github.io/neuralfusion/)]
+
 **JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction.**<br>
 *[Yukang Cao](https://github.com/yukangcao), [Guanying Chen](https://guanyingc.github.io/), [Kai Han](http://www.hankai.org/), [Wenqi Yang](https://github.com/ywq), [Kwan-Yee K. Wong](http://i.cs.hku.hk/~kykwong/).*<br>
 CVPR 2022 (oral). [[PDF]()]
 
+**High-Fidelity Human Avatars from a Single RGB Camera.**<br>
+*Hao Zhao, [Jinsong Zhang](https://zhangjinso.github.io/), [Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/), [Zerong Zheng](https://zhengzerong.github.io/), Yingdi Xie, [Yebin Liu](http://www.liuyebin.com/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/).*<br>
+CVPR 2022. [[PDF](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/assets/main.pdf)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/index.html)] [[Project](https://github.com/hzhao1997/HF-Avatar)] [[Data](https://drive.google.com/file/d/1qh1dj5ZoUBst_02UJY7IWstQMhb8L5IA/view?usp=sharing)]
+
+**ICON: Implicit Clothed humans Obtained from Normals.**<br>
+*[Yuliang Xiu](https://ps.is.tuebingen.mpg.de/person/yxiu), [Jinlong Yang](https://ps.is.tuebingen.mpg.de/person/jyang), [Dimitrios Tzionas](https://ps.is.mpg.de/~dtzionas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.09127)] [[Github](https://github.com/YuliangXiu/ICON)]
+
+**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
+*Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
+
 **Structured Local Radiance Fields for Human Avatar Modeling.**<br>
-*Zerong Zheng, Han Huang, Tao Yu, Hongwen Zhang, Yandong Guo, Yebin Liu.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14478)]
+*[Zerong Zheng](https://zhengzerong.github.io/), Han Huang, Tao Yu, Hongwen Zhang, Yandong Guo, Yebin Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14478)] [[Project](https://liuyebin.com/slrf/slrf.html)] [[Github](https://zhengzerong.github.io/)]
+
+**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering.**<br>
+*Ruizhi Shao, [Hongwen Zhang](https://hongwenzhang.github.io/), He Zhang, Mingjia Chen, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
+
+**I M Avatar: Implicit Morphable Head Avatars from Videos.**<br>
+*Yufeng Zheng, Victoria Fernández Abrevaya, Xu Chen, Marcel C. Bühler, Michael J. Black, Otmar Hilliges.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07471)]
+
+**gDNA: Towards Generative Detailed Neural Avatars.**<br>
+*[Xu Chen](https://ait.ethz.ch/people/xu/), [Tianjian Jiang](https://ait.ethz.ch/people/zhengyuf/), [Jie Song](https://ait.ethz.ch/people/song/), [Jinlong Yang](https://is.mpg.de/person/jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Andreas Geiger](http://www.cvlibs.net/), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz.ch/projects/2022/gdna/downloads/)] [[Github](https://github.com/xuchen-ethz/gdna)]
+
+**HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs.**<br>
+*[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
 
 **DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
 *[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
@@ -55,41 +111,13 @@ arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Proj
 *Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10157)] 
 
-**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction.**<br>
-*[Wenbin Lin](https://wenbin-lin.github.io/), Chengwei Zheng, Jun-Hai Yong, Feng Xu.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/pdf/2203.07977.pdf)] [[Project](https://wenbin-lin.github.io/OcclusionFusion/)]
-
 **Animatable Neural Implicit Surfaces for Creating Avatars from Videos.**<br>
 *Sida Peng, Shangzhan Zhang, Zhen Xu, Chen Geng, Boyi Jiang, Hujun Bao, Xiaowei Zhou.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.08133.pdf)] [[Project](https://zju3dv.github.io/animatable_sdf/)]
 
-**PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence.**<br>
-*Zijian Dong, Chen Guo, Jie Song, Xu Chen, Andreas Geiger, Otmar Hilliges.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01754)] [[Project](https://zj-dong.github.io/pina/)]
-
-**SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video.**<br>
-*[Boyi Jiang](https://scholar.google.com/citations?user=lTlZV8wAAAAJ&hl=zh-CN), Yang Hong, Hujun Bao, Juyong Zhang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2201.12792)] [[Project](https://jby1993.github.io/SelfRecon/)]
-
-**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time.**<br>
-*Liao Wang, Jiakai Zhang, Xinhang Liu, Fuqiang Zhao, Yanshun Zhang, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.08614)]
-
 **NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing.**<br>
 *Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06088)]
-
-**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video.**<br>
-*[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Brian Curless, Pratul Srinivasan,Jonathan T. Barron, Ira Kemelmacher-Shlizerman.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04127)] [[Project](https://grail.cs.washington.edu/projects/humannerf/)]
-
-**H4D: Human 4D Modeling by Learning Neural Compositional Representation.**<br>
-*Boyan Jiang, Yinda Zhang, Xingkui Wei, Xiangyang Xue, Yanwei Fu.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2203.01247)]
-
-**gDNA: Towards Generative Detailed Neural Avatars.**<br>
-*[Xu Chen](https://ait.ethz.ch/people/xu/), [Tianjian Jiang](https://ait.ethz.ch/people/zhengyuf/), [Jie Song](https://ait.ethz.ch/people/song/), [Jinlong Yang](https://is.mpg.de/person/jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Andreas Geiger](http://www.cvlibs.net/), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz.ch/projects/2022/gdna/downloads/)] [[Github](https://github.com/xuchen-ethz/gdna)]
 
 **Learning Animatable Avatar with Barycentric Mapping and Variation Mining.**<br>
 *Yihao Zhi, [Shenhan Qian](https://shenhanqian.com/), Xinhao Yan, Shenghua Gao.*<br>
@@ -114,14 +142,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01554)] [[Project](https://philgra
 **LookinGood^π: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture.**<br>
 *Xiqi Yang, Kewei Yang, Kang Chen, Weidong Zhang, Weiwei Xu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.08037)]
-
-**ICON: Implicit Clothed humans Obtained from Normals.**<br>
-*[Yuliang Xiu](https://ps.is.tuebingen.mpg.de/person/yxiu), [Jinlong Yang](https://ps.is.tuebingen.mpg.de/person/jyang), [Dimitrios Tzionas](https://ps.is.mpg.de/~dtzionas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.09127)] [[Github](https://github.com/YuliangXiu/ICON)]
-
-**I M Avatar: Implicit Morphable Head Avatars from Videos.**<br>
-*Yufeng Zheng, Victoria Fernández Abrevaya, Xu Chen, Marcel C. Bühler, Michael J. Black, Otmar Hilliges.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07471)]
 
 **Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering.**<br>
 *Mingfei Chen, Jianfeng Zhang, Xiangyu Xu, Lijuan Liu, Jiashi Feng, Shuicheng Yan.*<br>
@@ -154,10 +174,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.09336)]
 **SHARP: Shape-Aware Reconstruction of People In Loose Clothing.**<br>
 *Sai Sagar Jinka, Rohan Chacko, Astitva Srivastava, Avinash Sharma, P.J. Narayanan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04778)]
-
-**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
-*Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
 
 **Driving-Signal Aware Full-Body Avatars.**<br>
 *Timur Bagautdinov, Chenglei Wu, Tomas Simon, Fabian Prada, Takaaki Shiratori, Shih-En Wei, Weipeng Xu, Yaser Sheikh, Jason Saragih.*<br>
@@ -240,7 +256,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2110.03480)] [[Project](https://dsr.is.t
 ICCV 2021. [[PDF](https://arxiv.org/abs/2108.10842)] 
 
 **DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras.**<br>
-*Yang Zheng, Ruizhi Shao, Yuxiang Zhang, [Zerong Zheng](https://zhengzerong.github.io/), [Tao Yu](https://ytrock.com/), [Yebin Liu](http://www.liuyebin.com/student.html).*<br>
+*[Yang Zheng](https://y-zheng18.github.io/zy.github.io/), Ruizhi Shao, [Yuxiang Zhang](https://zhangyux15.github.io/), [Zerong Zheng](https://zhengzerong.github.io/), [Tao Yu](https://ytrock.com/), [Yebin Liu](http://www.liuyebin.com/student.html).*<br>
 ICCV 2021. [[PDF](http://www.liuyebin.com/dmc/assets/main.pdf)] [[Project](http://www.liuyebin.com/dmc/dmc.html)]
 
 **M3D-VTON: A Monocular-to-3D Virtual Try-On Network.**<br>
@@ -274,6 +290,14 @@ TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.06498)] [[Github](https://github.c
 **A Deeper Look into DeepCap.**<br>
 *[Marc Habermann](http://people.mpi-inf.mpg.de/~mhaberma/), [Weipeng Xu](http://people.mpi-inf.mpg.de/~wxu/), [Michael Zollhoefer](https://zollhoefer.com/), [Gerard Pons-Moll](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/gerard-pons-moll/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
 TPAMI 2021. [[PDF](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/data/paper.pdf)] [[Github](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/)] [[Data](https://gvv-assets.mpi-inf.mpg.de/)]
+
+**Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors.**<br>
+*Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.*<br>
+CVPR 2021 (oral). [[PDF](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)] [[Project](http://www.liuyebin.com/Function4D/Function4D.html)] [[THuman2.0 Dataset](https://github.com/ytrock/THuman2.0-Dataset)]
+
+**POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture.**<br>
+*[Zhe Li](https://lizhe00.github.io/), Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15331)] [[Project](http://www.liuyebin.com/posefusion/posefusion.html)]
 
 **SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks.**<br>
 *Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black.*<br>
@@ -407,6 +431,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15340)] [[Project](http://www.liuye
 *[Luyang Zhu](https://homes.cs.washington.edu/~lyzhu/), [Konstantinos Rematas](http://www.krematas.com/), [Brian Curless](https://homes.cs.washington.edu/~curless/), [Steve Seitz](https://homes.cs.washington.edu/~seitz/), [Ira Kemelmacher-Shlizerman](https://sites.google.com/view/irakemelmacher/home).*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)] [[Github](https://github.com/luyangzhu/NBA-Players)] [[Project](http://grail.cs.washington.edu/projects/nba_players/)]
 
+**RobustFusion: Human Volumetric Capture with Data-driven Visual Cues using a RGBD Camera.**<br>
+*Zhuo Su, [Xu Lan](https://www.xu-lan.com/), Zerong Zheng, Tao Yu, Yebin Liu, Lu Fang.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490239.pdf)]
+
 **IPNet: Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
 *Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11432)] [[Project](http://virtualhumans.mpi-inf.mpg.de/ipnet)] [[Github](https://github.com/bharat-b7/IPNet)]
@@ -471,6 +499,10 @@ TVCG 2020. [[PDF](https://arxiv.org/abs/1905.05622)]
 *Xinxin Zuo, Sen Wang, Jiangbin Zheng, Weiwei Yu, Minglun Gong, Ruigang Yang, Li Cheng.*<br>
 TMM 2020. [[PDF](https://arxiv.org/abs/2006.03630)]
 
+**UnstructuredFusion: Real-time 4D Geometry and Texture Reconstruction using Commercial RGBD Cameras.**<br>
+*Lan Xu, Zhuo Su, Lei Han, Tao Yu, Yebin Liu, Lu Fang.*<br>
+TPAMI 2019. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8708933)]
+
 **PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization.**<br>
 *Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/pdf/1905.05172.pdf)] [[Project](shunsukesaito.github.io/PIFu)] [[Github](https://github.com/shunsukesaito/PIFu)]
@@ -495,11 +527,15 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1910.11322)] [[Project](https://www.seas
 *Albert Pumarola, Jordi Sanchez, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1904.04571)] [[3DPeople-Dataset](https://github.com/albertpumarola/3DPeople-Dataset)]
 
-**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.** <br>
-*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.* <br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.08645)] [[Github](https://github.com/thmoa/tex2shape)]
+**DeepHuman: 3D Human Reconstruction from a Single Image.**<br>
+*Zerong Zheng, Tao Yu, Yixuan Wei, Qionghai Dai, Yebin Liu.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.04571)] [[Project](http://www.liuyebin.com/deephuman/deephuman.html)]
 
-**SimulCap : Single-View Human Performance Capture with Cloth Simulation.** <br>
+**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.**<br>
+*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.* <br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.06473)] [[Github](https://github.com/thmoa/tex2shape)]
+
+**SimulCap : Single-View Human Performance Capture with Cloth Simulation.**<br>
 *Tao Yu, Zerong Zheng, Yuan Zhong, Jianhui Zhao, Qionghai Dai, Gerard Pons-moll, Yebin Liu.*<br>
 CVPR 2019. [[PDF](http://www.liuyebin.com/simulcap/assets/SimulCap.pdf)] [[Project](http://www.liuyebin.com/simulcap/simulcap.html)]
 
@@ -522,6 +558,10 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 **Detailed Human Avatars from Monocular Video.**  <br>
 *Thiemo Alldieck, Marcus Magnor, Weipeng Xu, Christian Theobalt, Gerard Pons-Moll.* <br>
 3DV 2018. [[PDF](https://arxiv.org/abs/1808.01338)] [[Github](https://github.com/thmoa/semantic_human_texture_stitching)]
+
+**BodyFusion: Real-time Capture of Human Motion and Surface Geometry Using a Single Depth Camera.**<br>
+*[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
+ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICCV17.pdf)] [[Project]()]
 
 **3D Reconstruction from a Single Image.** <br>
 Oppo shared on ISMAR 2019.
@@ -642,19 +682,39 @@ ACM Transactions on Graphics (TOG) 2012.
 *Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
-## Body Reshaping
+##  Person Image Synthesis
 
-**Single-image Human-body Reshaping with Deep Neural Networks.**<br>
-*Beijia Chen, Hongbo Fu, Xiang Chen, Kun Zhou, Youyi Zheng.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10496)]
+**Neural Texture Extraction and Distribution for Controllable Person Image Synthesis.**<br>
+*Yurui Ren, Xiaoqing Fan, Ge Li, Shan Liu, Thomas H. Li.*<br>
+CVPR 2022 (oral). [[PDF](https://arxiv.org/abs/2203.10496)] [[Github](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution)]
 
-**MovieReshape: Tracking and Reshaping of Humans in Videos.**<br>
-*Arjun Jain, Thorsten Thormählen, Hans-Peter Seidel, Christian Theobalt.*<br>
-SIGGRAPH Asia 2010. [[PDF](http://www.mpi-inf.mpg.de/resources/MovieReshape/MovieReshape.pdf)] [[Project](https://resources.mpi-inf.mpg.de/MovieReshape/)]
+**SAWN: Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization.**<br> 
+*Jichao Zhang, Aliaksandr Siarohin, Hao Tang, Jingjing Chen, Enver Sangineto, Wei Wang, Nicu Sebe.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14739)] [[Github](https://github.com/zhangqianhui/Sawn)]
 
-**Parametric reshaping of human bodies in images.**<br>
-*Shizhe Zhou, Hongbo Fu,  Ligang Liu, Daniel Cohen-Or, Xiaoguang Han.*<br>
-SIGGRAPH 2010. [[PDF](https://dl.acm.org/doi/10.1145/1833349.1778863)]
+**Structure-Transformed Texture-Enhanced Network for Person Image Synthesis.**<br>
+*Munan Xu, Yuanqi Chen, Shan Liu, Thomas H. Li, Ge Li.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Structure-Transformed_Texture-Enhanced_Network_for_Person_Image_Synthesis_ICCV_2021_paper.html)]
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
+*[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/)] [[Github](https://github.com/Zhangjinso/PISE)]
+
+**XingGAN for Person Image Generation.**<br>
+*[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
+ECCV 2020.  [[Github](https://github.com/Ha0Tang/XingGAN)]
+
+**Progressive Pose Attention Transfer for Person Image Generation.**<br> 
+*Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br> 
+CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer.git)]
+
+**Generating Person Images with Appearance-aware Pose Stylizer.**<br>
+*Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou.*<br>
+IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.com/siyuhuang/PoseStylizer)]
+
+**Exploring Dual-task Correlation for Pose Guided Person Image Generation.**<br>
+*Pengze Zhang, Lingxiao Yang, Jianhuang Lai, Xiaohua Xie.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.02910)]
 
 ## Image-Based Virtual Try-On
 
@@ -678,16 +738,15 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07200)]
 
 **CIT: Cloth Interactive Transformer for Virtual Try-On.**<br>
 *[Bin Ren](https://scholar.google.com/citations?user=Md9maLYAAAAJ&hl=en), Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)] [[Github](https://github.com/Amazingren/CIT)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2104.05519)] [[Github](https://github.com/Amazingren/CIT)]
 
 **WAS-VTON: Warping Architecture Search for Virtual Try-on Network.**<br>
 *Zhenyu Xie, Xujie Zhang, Fuwei Zhao, Haoye Dong, Michael C. Kampffmeyer, Haonan Yan, Xiaodan Liang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00386)] 
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00386)] 
 
 **Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN.**<br>
 *Zhenyu Xie, Zaiyu Huang, Fuwei Zhao, Haoye Dong, Michael Kampffmeyer, Xiaodan Liang.*<br>
-NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.10544)] 
-
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.10544)] [[Github](https://github.com/xiezhy6/PASTA-GAN)]
 
 **ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors.**<br>
 *Ayush Chopra, Rishabh Jain, Mayur Hemani, Balaji Krishnamurthy.*<br>
@@ -808,6 +867,26 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
+
+## Human Body Reshaping
+
+**Single-image Human-body Reshaping with Deep Neural Networks.**<br>
+*Beijia Chen, Hongbo Fu, Xiang Chen, Kun Zhou, Youyi Zheng.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10496)]
+
+**MovieReshape: Tracking and Reshaping of Humans in Videos.**<br>
+*Arjun Jain, Thorsten Thormählen, Hans-Peter Seidel, Christian Theobalt.*<br>
+SIGGRAPH Asia 2010. [[PDF](http://www.mpi-inf.mpg.de/resources/MovieReshape/MovieReshape.pdf)] [[Project](https://resources.mpi-inf.mpg.de/MovieReshape/)]
+
+**Parametric reshaping of human bodies in images.**<br>
+*Shizhe Zhou, Hongbo Fu,  Ligang Liu, Daniel Cohen-Or, Xiaoguang Han.*<br>
+SIGGRAPH 2010. [[PDF](https://dl.acm.org/doi/10.1145/1833349.1778863)]
+
+## Human Mesh Recovery
+
+**GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras.**<br>
+*[Ye Yuan](https://www.ye-yuan.com/), [Umar Iqbal](http://www.umariqbal.info/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov/), [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), [Jan Kautz](https://jankautz.com/).*<br>
+CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2112.01524)] [[Project](https://nvlabs.github.io/GLAMR)] [[Github](https://github.com/NVlabs/GLAMR)]
 
 ### Human-Centric Perception
 
