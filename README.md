@@ -103,6 +103,10 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
 
+**Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations.**<br>
+*Atsuhiro Noguchi, Xiao Sun, Stephen Lin, Tatsuya Harada.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.08839)] [[Project](https://nogu-atsu.github.io/ENARF-GAN/)] [[Github](https://github.com/nogu-atsu/ENARF-GAN)]
+
 **DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
 *[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
 arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
@@ -682,11 +686,23 @@ ACM Transactions on Graphics (TOG) 2012.
 *Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
-##  Person Image Synthesis
+## Human Image Generation
+
+**StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
+*Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
+
+**InsetGAN for Full-Body Image Generation.**<br>
+*[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Project](http://afruehstueck.github.io/insetgan)]
 
 **Neural Texture Extraction and Distribution for Controllable Person Image Synthesis.**<br>
 *Yurui Ren, Xiaoqing Fan, Ge Li, Shan Liu, Thomas H. Li.*<br>
 CVPR 2022 (oral). [[PDF](https://arxiv.org/abs/2203.10496)] [[Github](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution)]
+
+**Exploring Dual-task Correlation for Pose Guided Person Image Generation.**<br>
+*Pengze Zhang, Lingxiao Yang, Jianhuang Lai, Xiaohua Xie.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.02910)]
 
 **SAWN: Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization.**<br> 
 *Jichao Zhang, Aliaksandr Siarohin, Hao Tang, Jingjing Chen, Enver Sangineto, Wei Wang, Nicu Sebe.*<br> 
@@ -712,13 +728,45 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://gi
 *Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou.*<br>
 IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.com/siyuhuang/PoseStylizer)]
 
-**Exploring Dual-task Correlation for Pose Guided Person Image Generation.**<br>
-*Pengze Zhang, Lingxiao Yang, Jianhuang Lai, Xiaohua Xie.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2203.02910)]
-
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Dress Code: High-Resolution Multi-Category Virtual Try-On.**<br>
+*Davide Morelli, Matteo Fincato, Marcella Cornia, Federico Landi, Fabio Cesari, Rita Cucchiara.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Github](https://github.com/aimagelab/dress-code)] [[Dress Code Dataset](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform?usp=send_form)]
+
+**Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
+*Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07200)]
+
+**Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
+*[Kripasindhu Sarkar](https://people.mpi-inf.mpg.de/~ksarkar/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Lingjie Liu](https://lingjie0206.github.io/), Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11263)] [[Project](http://gvv.mpi-inf.mpg.de/projects/Styleposegan/)]
+
+**Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation.**<br>
+*Shizhu Liu, Shanglin Yang, Hui Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06229)]
+
+**Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
+*Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
+
+**Learning Color Compatibility in Fashion Outfits.**<br>
+*Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02388)]
+
+**GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
+*Amir Hossein Raffiee, Michael Sollami.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
+
+**TailorGAN: Making User-Defined Fashion Designs.**<br>
+*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06427)] [[Github](https://github.com/gli-27/TailorGAN)]
+
+**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
+*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)] [[Github](https://github.com/levindabhi/SieveNet)]
 
 **Style-Based Global Appearance Flow for Virtual Try-On.**<br>
 *Sen He, Yi-Zhe Song, Tao Xiang.*<br>
@@ -727,14 +775,6 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2204.01046)]
 **Dressing in the Wild by Watching Dance Videos.**<br>
 *Xin Dong, Fuwei Zhao, Zhenyu Xie, Xijin Zhang, Daniel K. Du, Min Zheng, Xiang Long, Xiaodan Liang, Jianchao Yang.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.15320)] [[Project](https://awesome-wflow.github.io/)]
-
-**InsetGAN for Full-Body Image Generation.**<br>
-*[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Project](http://afruehstueck.github.io/insetgan)]
-
-**Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
-*Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07200)]
 
 **CIT: Cloth Interactive Transformer for Virtual Try-On.**<br>
 *[Bin Ren](https://scholar.google.com/citations?user=Md9maLYAAAAJ&hl=en), Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
@@ -796,10 +836,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09479)] [[Github](https://github.co
 *Yuying Ge, Yibing Song, Ruimao Zhang, Chongjian Ge, Wei Liu, Ping Luo.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04559)] [[Github](https://github.com/geyuying/PF-AFN)] 
 
-**Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
-*Kripasindhu Sarkar, Vladislav Golyanik, [Lingjie Liu](https://lingjie0206.github.io/), Christian Theobalt.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11263)]
-
 **Template-Free Try-on Image Synthesis via Semantic-guided Optimization.**<br>
 *Chien-Lung Chou, Chieh-Yun Chen, Chia-Wei Hsieh, Hong-Han Shuai, Jiaying Liu, Wen-Huang Cheng.*<br>
 TNNLS 2021. [[PDF](https://arxiv.org/abs/2102.03503)]
@@ -812,37 +848,9 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/1912.06324)] [[CVPR 2019](https://arxiv
 *Thibaut Issenhuth, Jérémie Mary, Clément Calauzènes.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02721)]
 
-**ClothFlow: A Flow-Based Model for Clothed Person Generation.**<br>
-*Xintong Han, Xiaojun Hu, Weilin Huang, Matthew R. Scott.*<br>
-ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)]
-
-**VTNFP: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation.**<br>
-*Ruiyun Yu, Xiaoqi Wang, Xiaohui Xie.*<br>
-ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_An_Image-Based_Virtual_Try-On_Network_With_Body_and_Clothing_ICCV_2019_paper.html)]
-
 **Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On.**<br>
 *Raquel Vidaurre, Igor Santesteban, Elena Garces, Dan Casas.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.04592)] [[Project](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn)]
-
-**Learning Color Compatibility in Fashion Outfits.**<br>
-*Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02388)]
-
-**Toward Characteristic-Preserving Image-based Virtual Try-On Network.**<br>
-*Bochao Wang, Huabin Zheng, Xiaodan Liang, Yimin Chen, Liang Lin, Meng Yang.*<br>
-ECCV 2018. [[PDF](https://arxiv.org/abs/1807.07688)]
-
-**Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation.**<br>
-*Shizhu Liu, Shanglin Yang, Hui Zhou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06229)]
-
-**LGVTON: A Landmark Guided Approach to Virtual Try-On.**<br>
-*Debapriya Roy, Sanchayan Santra, Bhabatosh Chanda.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00562)]
-
-**Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
-*Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
 
 **Towards Photo-Realistic Virtual Try-On by Adaptively Generating Preserving Image Content.**<br>
 *Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo.*<br>
@@ -852,17 +860,17 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05863)] [[Github](https://github.co
 *Wentao Jiang, Si Liu, Chen Gao, Jie Cao, Ran He, Jiashi Feng, Shuicheng Yan.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1909.06956)]
 
-**GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
-*Amir Hossein Raffiee, Michael Sollami.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
+**ClothFlow: A Flow-Based Model for Clothed Person Generation.**<br>
+*Xintong Han, Xiaojun Hu, Weilin Huang, Matthew R. Scott.*<br>
+ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)]
 
-**TailorGAN: Making User-Defined Fashion Designs.**<br>
-*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06427)]
+**VTNFP: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation.**<br>
+*Ruiyun Yu, Xiaoqi Wang, Xiaohui Xie.*<br>
+ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_An_Image-Based_Virtual_Try-On_Network_With_Body_and_Clothing_ICCV_2019_paper.html)]
 
-**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
-*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
+**Toward Characteristic-Preserving Image-based Virtual Try-On Network.**<br>
+*Bochao Wang, Huabin Zheng, Xiaodan Liang, Yimin Chen, Liang Lin, Meng Yang.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/abs/1807.07688)]
 
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
