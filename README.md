@@ -69,7 +69,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2202.12825)] [[Project](https://nowheret
 
 **JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction.**<br>
 *[Yukang Cao](https://github.com/yukangcao), [Guanying Chen](https://guanyingc.github.io/), [Kai Han](http://www.hankai.org/), [Wenqi Yang](https://github.com/ywq), [Kwan-Yee K. Wong](http://i.cs.hku.hk/~kykwong/).*<br>
-CVPR 2022 (oral). [[PDF]()]
+CVPR 2022 (oral). [[PDF](https://arxiv.org/abs/2204.10549)] [[Project](https://yukangcao.github.io/JIFF)]
 
 **High-Fidelity Human Avatars from a Single RGB Camera.**<br>
 *Hao Zhao, [Jinsong Zhang](https://zhangjinso.github.io/), [Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/), [Zerong Zheng](https://zhengzerong.github.io/), Yingdi Xie, [Yebin Liu](http://www.liuyebin.com/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/).*<br>
@@ -690,7 +690,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 **StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
 *Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11823)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
@@ -731,6 +731,10 @@ IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.c
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**MGN: A Regional Mask Guided Network for Parser-free Virtual Try-on.**<br>
+*Chao Lin, Zhao Li, Sheng Zhou, Shichang Hu, Jialun Zhang, Linhao Luo, Jiarun Zhang, Longtao Huang, Yuan He.*<br>
+IJCAI 2022. [[PDF](https://arxiv.org/abs/2204.11258)]
 
 **Dress Code: High-Resolution Multi-Category Virtual Try-On.**<br>
 *Davide Morelli, Matteo Fincato, Marcella Cornia, Federico Landi, Fabio Cesari, Rita Cucchiara.*<br>
