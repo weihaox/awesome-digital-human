@@ -570,7 +570,11 @@ ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICCV17.p
 **3D Reconstruction from a Single Image.** <br>
 Oppo shared on ISMAR 2019.
 
-## 3D People Dressing and Clothing Draping
+## 3D People Dressing and Cloth Draping and Simulation
+
+**DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact.**<br>
+*[Yifei Li](https://people.csail.mit.edu/liyifei/), [Tao Du](https://people.csail.mit.edu/taodu/), [Kui Wu](https://people.csail.mit.edu/kuiwu/), [Jie Xu](http://people.csail.mit.edu/jiex/), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech).*<br>
+TOG 2022. [[PDF](https://arxiv.org/abs/2106.05306)] [[Project](https://people.csail.mit.edu/liyifei/publication/diffcloth-differentiable-cloth-simulator/)] [[Github](https://github.com/omegaiota/DiffCloth)]
 
 **SNUG: Self-Supervised Neural Dynamic Garments.**<br>
 *Igor Santesteban, Miguel A. Otaduy, Dan Casas.*<br>
@@ -771,6 +775,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06427)] [[Github](https://github.c
 **SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
 *Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)] [[Github](https://github.com/levindabhi/SieveNet)]
+
+**ClothFormer: Taming Video Virtual Try-on in All Module.**<br> 
+*Jianbin Jiang, Tan Wang, He Yan, Junhui Liu.*<br> 
+CVPR 2022 (oral). [[PDF](https://arxiv.org/abs/2204.07154)] [[Project](https://arxiv.org/abs/2204.12151)]
 
 **Style-Based Global Appearance Flow for Virtual Try-On.**<br>
 *Sen He, Yi-Zhe Song, Tao Xiang.*<br>
