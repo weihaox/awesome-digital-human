@@ -35,6 +35,10 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling.**<br>
+*[Zhongang Cai](https://caizhongang.github.io/), [Daxuan Ren](https://kimren227.github.io/), [Ailing Zeng](https://ailingzeng.site/), [Zhengyu Lin](https://www.linkedin.com/in/zhengyu-lin-a908aba8/), [Tao Yu](https://ytrock.com/), [Wenjia Wang](https://scholar.google.com/citations?user=cVWmlYQAAAAJ&hl), Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.13686)] [[Project](https://caizhongang.github.io/projects/HuMMan/)]
+
 **Recovering 3D Human Mesh from Monocular Images: A Survey.**<br>
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
@@ -572,6 +576,10 @@ Oppo shared on ISMAR 2019.
 
 ## 3D People Dressing and Cloth Draping and Simulation
 
+**Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks.**<br>
+*Xiaoyu Pan, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, Tianjia Shao, Kun Zhou, Xiaogang Jin, Dinesh Manocha.*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2205.01355)] [[Github](https://github.com/non-void/VirtualBones)]
+
 **DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact.**<br>
 *[Yifei Li](https://people.csail.mit.edu/liyifei/), [Tao Du](https://people.csail.mit.edu/taodu/), [Kui Wu](https://people.csail.mit.edu/kuiwu/), [Jie Xu](http://people.csail.mit.edu/jiex/), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech).*<br>
 TOG 2022. [[PDF](https://arxiv.org/abs/2106.05306)] [[Project](https://people.csail.mit.edu/liyifei/publication/diffcloth-differentiable-cloth-simulator/)] [[Github](https://github.com/omegaiota/DiffCloth)]
@@ -691,6 +699,10 @@ ACM Transactions on Graphics (TOG) 2012.
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Human Image Generation
+
+**DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches.**<br>
+*Xian Wu, Chen Wang, Hongbo Fu, Ariel Shamir, Song-Hai Zhang, Shi-Min Hu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.02070)]
 
 **StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
 *Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
