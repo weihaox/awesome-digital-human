@@ -43,6 +43,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2204.13686)] [[Project](https://caizhon
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
+**Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing.**<br>
+*[Thiemo Alldieck](https://scholar.google.com/citations?user=tJlD24EAAAAJ), [Mihai Zanfir](https://scholar.google.com/citations?user=af68sKkAAAAJ), [Cristian Sminchisescu](https://scholar.google.com/citations?user=LHTI1W8AAAAJ).*<br>
+CVPR 2022. [[PDF](https://phorhum.github.io/static/assets/alldieck2022phorhum.pdf)] [[Project](https://phorhum.github.io/)]
+
 **HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video.**<br>
 *[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Brian Curless, Pratul Srinivasan,Jonathan T. Barron, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04127)] [[Project](https://grail.cs.washington.edu/projects/humannerf/)]
@@ -480,7 +484,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04572)]
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.02050)] [[Github](https://github.com/aymenmir1/pix2surf)]
 
 **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization.**<br>
-*Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo.*<br>
+*[Shunsuke Saito](http://www-scf.usc.edu/~saitos/), [Tomas Simon](https://scholar.google.com/citations?user=7aabHgsAAAAJ), [Jason Saragih](https://scholar.google.com/citations?hl=en&user=ss-IvjMAAAAJ), [Hanbyul Joo](https://jhugestar.github.io/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00452)] [[Project](https://shunsukesaito.github.io/PIFuHD)] [[Github](https://github.com/facebookresearch/pifuhd)]
 
 **DeepCap: Monocular Human Performance Capture Using Weak Supervision.**<br>
