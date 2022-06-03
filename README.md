@@ -704,6 +704,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Human Image Generation
 
+**Text2Human: Text-Driven Controllable Human Image Generation.**<br>
+*Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2205.15996)] [[Github](https://github.com/yumingj/Text2Human)] [[Project](https://yumingj.github.io/projects/Text2Human.html)] 
+
 **DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches.**<br>
 *Xian Wu, Chen Wang, Hongbo Fu, Ariel Shamir, Song-Hai Zhang, Shi-Min Hu.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2205.02070)]
