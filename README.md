@@ -223,6 +223,10 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neura
 *[Fangzhou Hong](https://hongfz16.github.io/), Liang Pan, Zhongang Cai, Ziwei Liu.*<br>
 NeurIPS 2021. [[PDF](https://openreview.net/pdf?id=aF60hOEwHP)] [[Project](https://hongfz16.github.io/projects/Garment4D.html)] [[Github](https://github.com/hongfz16/Garment4D)]
 
+**Learning Anchored Unsigned Distance Functions with Gradient Direction Alignment for Single-view Garment Reconstruction.**<br>
+*Fang Zhao, Wenhao Wang, Shengcai Liao, Ling Shao.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08478v2)] [[Github](https://github.com/zhaofang0627/AnchorUDF)]
+
 **Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
 *Andrei Burov, Matthias Nießner, Justus Thies.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03978)] [[Video](https://youtu.be/4wbSi9Sqdm4)] [[Github](https://github.com/andreiburov/DSFN)]
