@@ -2,6 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox) 
 
 A collection of resources on clothed people. 
 
@@ -35,13 +36,9 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
-**HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling.**<br>
-*[Zhongang Cai](https://caizhongang.github.io/), [Daxuan Ren](https://kimren227.github.io/), [Ailing Zeng](https://ailingzeng.site/), [Zhengyu Lin](https://www.linkedin.com/in/zhengyu-lin-a908aba8/), [Tao Yu](https://ytrock.com/), [Wenjia Wang](https://scholar.google.com/citations?user=cVWmlYQAAAAJ&hl), Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.13686)] [[Project](https://caizhongang.github.io/projects/HuMMan/)]
-
-**Recovering 3D Human Mesh from Monocular Images: A Survey.**<br>
-*Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
+**Authentic Volumetric Avatars From a Phone Scan.**<br>
+*[Chen Cao](https://sites.google.com/site/zjucaochen/home), Tomas Simon, Jin Kyu Kim, Gabe Schwartz, Michael Zollhoefer, Shunsuke Saito, Stephen Lombardi, Shih-en Wei, Danielle Belko, Shoou-i Yu, Yaser Sheikh, Jason Saragih.*<br>
+ACM Transactions on Graphics (SIGGRAPH 2022). [[PDF](https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R/view?usp=sharing)]
 
 **Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing.**<br>
 *[Thiemo Alldieck](https://scholar.google.com/citations?user=tJlD24EAAAAJ), [Mihai Zanfir](https://scholar.google.com/citations?user=af68sKkAAAAJ), [Cristian Sminchisescu](https://scholar.google.com/citations?user=LHTI1W8AAAAJ).*<br>
@@ -103,6 +100,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuye
 *Yufeng Zheng, Victoria Fernández Abrevaya, Xu Chen, Marcel C. Bühler, Michael J. Black, Otmar Hilliges.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07471)]
 
+**Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis.**<br>
+*Tianhan Xu, Yasuhiro Fujita, Eiichi Matsumoto.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2201.01683)]
+
+**Neural Head Avatars from Monocular RGB Videos.**<br>
+*[Philip-William Grassal](https://hci.iwr.uni-heidelberg.de/vislearn/people), [Malte Prinzler](https://de.linkedin.com/in/malte-prinzler), [Titus Leistner](https://titus-leistner.de/pages/about-me.html), [Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/), [Matthias Nießner](https://www.niessnerlab.org/members/matthias_niessner/profile.html), [Justus Thies](https://justusthies.github.io/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.01554)] [[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)]
+
 **gDNA: Towards Generative Detailed Neural Avatars.**<br>
 *[Xu Chen](https://ait.ethz.ch/people/xu/), [Tianjian Jiang](https://ait.ethz.ch/people/zhengyuf/), [Jie Song](https://ait.ethz.ch/people/song/), [Jinlong Yang](https://is.mpg.de/person/jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Andreas Geiger](http://www.cvlibs.net/), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz.ch/projects/2022/gdna/downloads/)] [[Github](https://github.com/xuchen-ethz/gdna)]
@@ -110,6 +115,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz
 **HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs.**<br>
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
+
+**HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling.**<br>
+*[Zhongang Cai](https://caizhongang.github.io/), [Daxuan Ren](https://kimren227.github.io/), [Ailing Zeng](https://ailingzeng.site/), [Zhengyu Lin](https://www.linkedin.com/in/zhengyu-lin-a908aba8/), [Tao Yu](https://ytrock.com/), [Wenjia Wang](https://scholar.google.com/citations?user=cVWmlYQAAAAJ&hl), Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.13686)] [[Project](https://caizhongang.github.io/projects/HuMMan/)]
+
+**Recovering 3D Human Mesh from Monocular Images: A Survey.**<br>
+*Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
 
 **Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations.**<br>
 *Atsuhiro Noguchi, Xiao Sun, Stephen Lin, Tatsuya Harada.*<br>
@@ -135,10 +148,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06088)]
 *Yihao Zhi, [Shenhan Qian](https://shenhanqian.com/), Xinhao Yan, Shenghua Gao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)]
 
-**Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis.**<br>
-*Tianhan Xu, Yasuhiro Fujita, Eiichi Matsumoto.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2201.01683)]
-
 **Animatable Neural Radiance Fields from Monocular RGB Videos.**<br>
 *Jianchuan Chen, Ying Zhang, Di Kang, Xuefei Zhe, Linchao Bao, Xu Jia, Huchuan Lu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)] [[Github](https://github.com/JanaldoChen/Anim-NeRF)]
@@ -146,10 +155,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)] [[Github](https://github.c
 **HVTR: Hybrid Volumetric-Textural Rendering for Human Avatars.**<br>
 *Tao Hu, Tao Yu, Zerong Zheng, He Zhang, Yebin Liu, Matthias Zwicker.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.10203)] [[Project](https://www.cs.umd.edu/~taohu/hvtr/)]
-
-**Neural Head Avatars from Monocular RGB Videos.**<br>
-*[Philip-William Grassal](https://hci.iwr.uni-heidelberg.de/vislearn/people), [Malte Prinzler](https://de.linkedin.com/in/malte-prinzler), [Titus Leistner](https://titus-leistner.de/pages/about-me.html), [Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/), [Matthias Nießner](https://www.niessnerlab.org/members/matthias_niessner/profile.html), [Justus Thies](https://justusthies.github.io/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01554)] [[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)]
 
 **LookinGood^π: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture.**<br>
 *Xiqi Yang, Kewei Yang, Kang Chen, Weidong Zhang, Weiwei Xu.*<br>
@@ -608,6 +613,10 @@ CVPR 2021. [[PDF](http://arxiv.org/abs/2105.06462)]
 *Meng Zhang, Tuanfeng Wang, Duygu Ceylan, Niloy J. Mitra.*<br>
 Eurographics 2021. [[PDF](https://arxiv.org/pdf/2008.04367.pdf)]
 
+**Garment Avatars: Realistic Cloth Driving using Pattern Registration.**<br>
+*Oshri Halimi, Fabian Prada, Tuur Stuyck, Donglai Xiang, Timur Bagautdinov, He Wen, Ron Kimmel, Takaaki Shiratori, Chenglei Wu, Yaser Sheikh.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03373)]
+
 **Dynamic Neural Garments.**<br>
 *[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](http://www.duygu-ceylan.com/), [Tuanfeng Wang](http://geometry.cs.ucl.ac.uk/tuanfeng/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2021/DynamicNeuralGarments/)]
@@ -708,17 +717,21 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Human Image Generation
 
+**AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
+*[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
+SIGGRAPH (TOG)) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
+
 **Text2Human: Text-Driven Controllable Human Image Generation.**<br>
 *Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
 SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2205.15996)] [[Github](https://github.com/yumingj/Text2Human)] [[Project](https://yumingj.github.io/projects/Text2Human.html)] 
 
-**DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches.**<br>
-*Xian Wu, Chen Wang, Hongbo Fu, Ariel Shamir, Song-Hai Zhang, Shi-Min Hu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2205.02070)]
+**Self-Supervised Correlation Mining Network for Person Image Generation.**<br>
+*Zijian Wang, Xingqun Qi, Kun Yuan, Muyi Sun.*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Self-Supervised_Correlation_Mining_Network_for_Person_Image_Generation_CVPR_2022_paper.html)] 
 
-**StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
-*Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11823)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
+**BodyGAN: General-Purpose Controllable Neural Human Body Generation.**<br>
+*Chaojie Yang, Hanhui Li, Shengjie Wu, Shengkai Zhang, Haonan Yan, Nianhong Jiao, Jie Tang, Runnan Zhou, Xiaodan Liang, Tianxiang Zheng.*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_BodyGAN_General-Purpose_Controllable_Neural_Human_Body_Generation_CVPR_2022_paper.html)] 
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
@@ -735,6 +748,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.02910)]
 **SAWN: Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization.**<br> 
 *Jichao Zhang, Aliaksandr Siarohin, Hao Tang, Jingjing Chen, Enver Sangineto, Wei Wang, Nicu Sebe.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14739)] [[Github](https://github.com/zhangqianhui/Sawn)]
+
+**DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches.**<br>
+*Xian Wu, Chen Wang, Hongbo Fu, Ariel Shamir, Song-Hai Zhang, Shi-Min Hu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.02070)]
+
+**StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
+*Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11823)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
 
 **Structure-Transformed Texture-Enhanced Network for Person Image Synthesis.**<br>
 *Munan Xu, Yuanqi Chen, Shan Liu, Thomas H. Li, Ge Li.*<br>
