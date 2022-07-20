@@ -36,9 +36,29 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**NDF: Neural Deformable Fields for Dynamic Human Modelling.**<br>
+*Ruiqi Zhang, Jie Chen.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.09193)]
+
+**Animatable Volume Rendering of Articulated Human SDFs.**<br>
+*[Shaofei Wang](https://taconite.github.io/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/), [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).*<br>
+ECCV 2022. [[PDF](https://drive.google.com/file/d/10yCrdOadwKNiDQBni23_W03ZwVafkfCJ/view)] [[Project](https://neuralbodies.github.io/arah/)] [[Project](https://github.com/taconite/arah-release)]
+
+**Learning Implicit Templates for Point-Based Clothed Human Modeling.**<br>
+*Siyou Lin, Hongwen Zhang, Zerong Zheng, Ruizhi Shao, Yebin Liu.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.06955)] [[Project](https://jsnln.github.io/fite)] [[Project](https://github.com/jsnln/fite)]
+
+**DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks.**<br>
+*[Shih-Yang Su](https://lemonatsu.github.io/), [Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en), and [Helge Rhodin](http://helge.rhodin.de/).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2205.01666)] [[Project](https://lemonatsu.github.io/danbo/)] [[Github](https://github.com/LemonATsu/DANBO-pytorch)]
+
+**AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture.**<br>
+*Zhe Li, Zerong Zheng, Hongwen Zhang, Chaonan Ji, Yebin Liu.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.02031)] [[Project](http://www.liuyebin.com/avatarcap/avatarcap.html)]
+
 **Authentic Volumetric Avatars From a Phone Scan.**<br>
 *[Chen Cao](https://sites.google.com/site/zjucaochen/home), Tomas Simon, Jin Kyu Kim, Gabe Schwartz, Michael Zollhoefer, Shunsuke Saito, Stephen Lombardi, Shih-en Wei, Danielle Belko, Shoou-i Yu, Yaser Sheikh, Jason Saragih.*<br>
-ACM Transactions on Graphics (SIGGRAPH 2022). [[PDF](https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R/view?usp=sharing)]
+TOG (SIGGRAPH 2022). [[PDF](https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R/view?usp=sharing)]
 
 **Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing.**<br>
 *[Thiemo Alldieck](https://scholar.google.com/citations?user=tJlD24EAAAAJ), [Mihai Zanfir](https://scholar.google.com/citations?user=af68sKkAAAAJ), [Cristian Sminchisescu](https://scholar.google.com/citations?user=LHTI1W8AAAAJ).*<br>
@@ -222,7 +242,7 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2112.02091)] [[Project](https://jason
 
 **MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images.**<br>
 *[Shaofei Wang](https://taconite.github.io/), Marko Mihajlovic, Qianli Ma, Andreas Geiger, Siyu Tang.*<br>
-NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neuralbodies.github.io/metavatar/)]
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.11944)] [[Project](https://neuralbodies.github.io/metavatar/)] [[Github](https://github.com/taconite/MetaAvatar-release)]
 
 **Garment4D: Garment Reconstruction from Point Cloud Sequences.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Liang Pan, Zhongang Cai, Ziwei Liu.*<br>
@@ -717,6 +737,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Human Image Generation
 
+**StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
+*Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2204.11823)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
+
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG)) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
@@ -745,18 +769,6 @@ CVPR 2022 (oral). [[PDF](https://arxiv.org/abs/2203.10496)] [[Github](https://gi
 *Pengze Zhang, Lingxiao Yang, Jianhuang Lai, Xiaohua Xie.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.02910)]
 
-**SAWN: Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization.**<br> 
-*Jichao Zhang, Aliaksandr Siarohin, Hao Tang, Jingjing Chen, Enver Sangineto, Wei Wang, Nicu Sebe.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14739)] [[Github](https://github.com/zhangqianhui/Sawn)]
-
-**DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches.**<br>
-*Xian Wu, Chen Wang, Hongbo Fu, Ariel Shamir, Song-Hai Zhang, Shi-Min Hu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2205.02070)]
-
-**StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
-*Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11823)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
-
 **Structure-Transformed Texture-Enhanced Network for Person Image Synthesis.**<br>
 *Munan Xu, Yuanqi Chen, Shan Liu, Thomas H. Li, Ge Li.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Structure-Transformed_Texture-Enhanced_Network_for_Person_Image_Synthesis_ICCV_2021_paper.html)]
@@ -780,6 +792,10 @@ IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.c
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Single Stage Virtual Try-on via Deformable Attention Flows.**<br>
+*Shuai Bai, Huiling Zhou, Zhikang Li, Chang Zhou, Hongxia Yang.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.09161)]
 
 **MGN: A Regional Mask Guided Network for Parser-free Virtual Try-on.**<br>
 *Chao Lin, Zhao Li, Sheng Zhou, Shichang Hu, Jialun Zhang, Linhao Luo, Jiarun Zhang, Longtao Huang, Yuan He.*<br>
