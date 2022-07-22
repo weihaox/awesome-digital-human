@@ -36,6 +36,14 @@ Highavenue: Turn yourself into a 3D model.
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation.**<br>
+*Shenhan Qian, Jiale Xu, Ziwei Liu, Liqian Ma, Shenghua Gao.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.09835)]
+
+**3D Clothed Human Reconstruction in the Wild.**<br>
+*Gyeongsik Moon, Hyeongjin Nam, Takaaki Shiratori, Kyoung Mu Lee.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10053)] [[Project](https://github.com/hygenie1228/ClothWild_RELEASE/blob/main)]
+
 **NDF: Neural Deformable Fields for Dynamic Human Modelling.**<br>
 *Ruiqi Zhang, Jie Chen.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.09193)]
