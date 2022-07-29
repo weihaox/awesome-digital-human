@@ -19,13 +19,22 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 <details><summary>Table of Contents</summary><p>
 
+- [Industry Demo or Product](#industry-demo-or-product)
 - [Clothed People Digitalization](#clothed-people-digitalization)
-- [3D People Dressing and Clothing Draping](#3d-people-dressing-and-clothing-draping)
+- [3D People Dressing and Cloth Draping and Simulation](#3d-people-dressing-and-cloth-draping-and-simulation)
+- [Human Image Generation](#human-image-generation)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
+- [Human Body Reshaping](#human-body-reshaping)
+- [Human Mesh Recovery](#human-mesh-recovery)
+  * [Human-Centric Perception](#human-centric-perception)
+  * [Challenge and workshop](#challenge-and-workshop)
+  * [Datasets](#datasets)
 - [Garment Design](#garment-design)
 - [Fashion Style Influences](#fashion-style-influences)
 - [Team and People](#team-and-people)
 - [Dataset](#dataset)
+- [Applications](#applications)
+  * [Fitness Training](#fitness-training)
 </p></details><p></p>
 
 ## Industry Demo or Product
