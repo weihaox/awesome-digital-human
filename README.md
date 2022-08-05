@@ -26,15 +26,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
 - [Human Body Reshaping](#human-body-reshaping)
 - [Human Mesh Recovery](#human-mesh-recovery)
-  * [Human-Centric Perception](#human-centric-perception)
-  * [Challenge and workshop](#challenge-and-workshop)
-  * [Datasets](#datasets)
 - [Garment Design](#garment-design)
 - [Fashion Style Influences](#fashion-style-influences)
 - [Team and People](#team-and-people)
 - [Dataset](#dataset)
 - [Applications](#applications)
-  * [Fitness Training](#fitness-training)
+
 </p></details><p></p>
 
 ## Industry Demo or Product
@@ -44,6 +41,14 @@ Highavenue: Turn yourself into a 3D model.
 ## Clothed People Digitalization
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
+
+**DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras.**<br>
+*Ruizhi Shao, Zerong Zheng, Hongwen Zhang, Jingxiang Sun, Yebin Liu.*<br>
+ECCV (Oral) 2022. [[PDF](https://arxiv.org/abs/2207.08000)]
+
+**The One Where They Reconstructed 3D Humans and Environments in TV Shows.**<br>
+*Georgios Pavlakos, Ethan Weber, Matthew Tancik, Angjoo Kanazawa.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14279)] [[Project](http://ethanweber.me/sitcoms3D/)]
 
 **UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation.**<br>
 *Shenhan Qian, Jiale Xu, Ziwei Liu, Liqian Ma, Shenghua Gao.*<br>
@@ -152,6 +157,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz
 **HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs.**<br>
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
+
+**Occupancy Planes for Single-view RGB-D Human Reconstruction.**<br>
+*Xiaoming Zhao, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.02817)]
+
+**AvatarGen: a 3D Generative Model for Animatable Human Avatars.**<br>
+*Jianfeng Zhang, Zihang Jiang, Dingdong Yang, Hongyi Xu, Yichun Shi, Guoxian Song, Zhongcong Xu, Xinchao Wang, Jiashi Feng.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.00561)] [[Project](https://github.com/jfzhang95/AvatarGen)]
 
 **HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling.**<br>
 *[Zhongang Cai](https://caizhongang.github.io/), [Daxuan Ren](https://kimren227.github.io/), [Ailing Zeng](https://ailingzeng.site/), [Zhengyu Lin](https://www.linkedin.com/in/zhengyu-lin-a908aba8/), [Tao Yu](https://ytrock.com/), [Wenjia Wang](https://scholar.google.com/citations?user=cVWmlYQAAAAJ&hl), Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu.*<br>
@@ -754,6 +767,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Human Image Generation
 
+**Cross Attention Based Style Distribution for Controllable Person Image Synthesis.**<br>
+*Xinyue Zhou, Mingyu Yin, Xinyuan Chen, Li Sun, Changxin Gao, Qingli Li.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.00712)] 
+
 **StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
 *Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2204.11823)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
@@ -809,6 +826,10 @@ IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.c
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions.**<br>
+*Sangyun Lee, Gyojung Gu, Sunghyun Park, Seunghwan Choi, Jaegul Choo.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.14180.pdf)] [[Project](https://koo616.github.io/HR-VITON/)] [[Github](https://github.com/sangyun884/HR-VITON)]
 
 **Single Stage Virtual Try-on via Deformable Attention Flows.**<br>
 *Shuai Bai, Huiling Zhou, Zhikang Li, Chang Zhou, Hongxia Yang.*<br>
