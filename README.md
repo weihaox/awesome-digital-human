@@ -2,7 +2,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox) 
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox.awesome-clothed-human) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox)  -->
 
 A collection of resources on clothed people. 
 
@@ -44,7 +45,15 @@ Highavenue: Turn yourself into a 3D model.
 
 **DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras.**<br>
 *Ruizhi Shao, Zerong Zheng, Hongwen Zhang, Jingxiang Sun, Yebin Liu.*<br>
-ECCV (Oral) 2022. [[PDF](https://arxiv.org/abs/2207.08000)]
+ECCV (Oral) 2022. [[PDF](https://arxiv.org/abs/2207.08000)] 
+
+**LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling.**<br>
+*Boyan Jiang, Xinlin Ren, Mingsong Dou, Xiangyang Xue, Yanwei Fu, Yinda Zhang.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.08622)] [[Github](https://boyanjiang.github.io/LoRD/)]
+
+**Neural Capture of Animatable 3D Human from Monocular Video.**<br>
+*Gusi Te, Xiu Li, Xiao Li, Jinglu Wang, Wei Hu, Yan Lu.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.08728)]
 
 **The One Where They Reconstructed 3D Humans and Environments in TV Shows.**<br>
 *Georgios Pavlakos, Ethan Weber, Matthew Tancik, Angjoo Kanazawa.*<br>
