@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox.awesome-clothed-human) 
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-clothed-human) 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox)  -->
 
 A collection of resources on clothed people. 
@@ -39,9 +39,27 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 Highavenue: Turn yourself into a 3D model.
 
+## 3D Clothed Human Generation
+
+**EVA3D: Compositional 3D Human Generation from 2D Image Collections.**<br>
+*[Fangzhou Hong](https://hongfz16.github.io/), [Zhaoxi Chen](https://frozenburning.github.io/), [Yushi Lan](https://github.com/NIRVANALAN), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz16.github.io/projects/EVA3D.html)] [[Github]()]
+
 ## Clothed People Digitalization
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
+
+**TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies.**<br>
+*Junting Dong, Qi Fang, Yudong Guo, Sida Peng, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
+NeurIPS 2022. [[PDF]()]
+
+**Neural Point-based Shape Modeling of Humans in Challenging Clothing.**<br>
+*Qianli Ma, Jinlong Yang, Michael J. Black, Siyu Tang.*<br>
+3DV 2022. [[PDF](https://arxiv.org/abs/2209.06814)]
+
+**CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes.**<br>
+*Kim Youwang, Kim Ji-Yeon, Tae-Hyun Oh.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-actor.github.io/)] [[Github](https://github.com/postech-ami/CLIP-Actor)]
 
 **DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras.**<br>
 *Ruizhi Shao, Zerong Zheng, Hongwen Zhang, Jingxiang Sun, Yebin Liu.*<br>
@@ -166,6 +184,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz
 **HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs.**<br>
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
+
+**Human Performance Modeling and Rendering via Neural Animated Mesh.**<br>
+*Fuqiang Zhao, Yuheng Jiang, Kaixin Yao, Jiakai Zhang, Liao Wang, Haizhao Dai, Yuhui Zhong, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.08468)]
+
+**PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images.**<br>
+*Zhangyang Xiong, Dong Du, Yushuang Wu, Jingqi Dong, Di Kang, Linchao Bao, Xiaoguang Han.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.10769)]
 
 **Occupancy Planes for Single-view RGB-D Human Reconstruction.**<br>
 *Xiaoming Zhao, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing.*<br>
@@ -647,6 +673,14 @@ ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICCV17.p
 Oppo shared on ISMAR 2019.
 
 ## 3D People Dressing and Cloth Draping and Simulation
+
+**Motion Guided Deep Dynamic 3D Garments.**<br>
+*[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](https://research.adobe.com/person/duygu-ceylan/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
+SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/pdf/2209.11449.pdf)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2022/MotionDeepGarment/)]
+
+**DIG: Draping Implicit Garment over the Human Body.**<br>
+*Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua.*<br>
+ACCV 2022. [[PDF](https://arxiv.org/abs/2209.10845)]
 
 **Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks.**<br>
 *Xiaoyu Pan, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, Tianjia Shao, Kun Zhou, Xiaogang Jin, Dinesh Manocha.*<br>
