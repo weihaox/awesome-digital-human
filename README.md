@@ -50,8 +50,8 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz1
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
 **TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies.**<br>
-*Junting Dong, Qi Fang, Yudong Guo, Sida Peng, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
-NeurIPS 2022. [[PDF]()]
+*[Junting Dong](https://jtdong.com/), [Qi Fang](https://raypine.github.io/), Yudong Guo, Sida Peng, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
+NeurIPS 2022. [[PDF](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=55337)] [[Data](http://jtdong.com/)]
 
 **FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction.**<br>
 *[Qiao Feng](https://fengq1a0.github.io/), [Yebin Liu](http://www.liuyebin.com/), [Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://seea.tju.edu.cn/info/1015/1608.htm), [Kun Li](http://cic.tju.edu.cn/faculty/likun/).*<br>
@@ -66,8 +66,8 @@ Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao
 3DV 2022. [[PDF](https://arxiv.org/abs/2209.06814)]
 
 **ARAH: Animatable Volume Rendering of Articulated Human SDFs.**<br>
-*Shaofei Wang, Katja Schwarz, Andreas Geiger, Siyu Tang.*<br>
-ECCV 2022. [[PDF](https://arxiv.org/abs/2210.10036)] [[Project](https://neuralbodies.github.io/arah/)]
+*[Shaofei Wang](https://taconite.github.io/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/), [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2210.10036)] [[Project](https://neuralbodies.github.io/arah/)] [[Github](https://github.com/taconite/arah-release)]
 
 **CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes.**<br>
 *Kim Youwang, Kim Ji-Yeon, Tae-Hyun Oh.*<br>
@@ -196,6 +196,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz
 **HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs.**<br>
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
+
+**HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation.**<br>
+*Kaiduo Zhang, Muyi Sun, Jianxin Sun, Binghao Zhao, Kunbo Zhang, Zhenan Sun, Tieniu Tan.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.06235)]
+
+**PERGAMO: Personalized 3D Garments from Monocular Video.**<br>
+*Andrés Casado-Elvira, Marc Comino Trinidad, Dan Casas.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.15040)] [[Project](http://mslab.es/projects/PERGAMO/)]
 
 **HDHumans: A Hybrid Approach for High-fidelity Digital Humans.**<br>
 *Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt.*<br>
