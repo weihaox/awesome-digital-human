@@ -197,6 +197,26 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
 
+**InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
+*Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.10550)]
+
+**Structured 3D Features for Reconstructing Relightable and Animatable Avatars.**<br>
+*Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.06820)] [[Project](https://enriccorona.github.io/s3f/)]
+
+**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion.**<br>
+*Tengfei Wang, Bo Zhang, Ting Zhang, Shuyang Gu, Jianmin Bao, Tadas Baltrusaitis, Jingjing Shen, Dong Chen, Fang Wen, Qifeng Chen, Baining Guo.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avatar-diffusion.microsoft.com/)]
+
+**HumanGen: Generating Human Radiance Fields with Explicit Priors.**<br>
+*Suyi Jiang, Haoran Jiang, Ziyu Wang, Haimin Luo, Wenzheng Chen, Lan Xu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.05321)]
+
+**ECON: Explicit Clothed humans Obtained from Normals.**<br>
+*Yuliang Xiu, Jinlong Yang, Xu Cao, Dimitrios Tzionas, Michael J. Black.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/)] [[Project](https://xiuyuliang.cn/econ)] [[Github](https://github.com/YuliangXiu/ECON)]
+
 **HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation.**<br>
 *Kaiduo Zhang, Muyi Sun, Jianxin Sun, Binghao Zhao, Kunbo Zhang, Zhenan Sun, Tieniu Tan.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.06235)]
