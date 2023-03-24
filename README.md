@@ -39,11 +39,45 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 Highavenue: Turn yourself into a 3D model.
 
-## 3D Clothed Human Generation
+## 3D Clothed Human Generation and Animation
+
+**Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors.**<br>
+*Zhangyang Xiong, Di Kang, Derong Jin, Weikai Chen, Linchao Bao, Xiaoguang Han.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2302.01162)]
+
+**PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
+*[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
 
 **EVA3D: Compositional 3D Human Generation from 2D Image Collections.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), [Zhaoxi Chen](https://frozenburning.github.io/), [Yushi Lan](https://github.com/NIRVANALAN), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz16.github.io/projects/EVA3D.html)] [[Github]()]
+ICLR 2023. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz16.github.io/projects/EVA3D.html)] [[Github]()]
+
+**AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
+*[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
+SIGGRAPH (TOG)) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
+
+## 3D-Aware Head Avatars from 2D Collections
+
+**PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘.**<br>
+*Sizhe An, Hongyi Xu, Yichun Shi, Guoxian Song, Umit Ogras, Linjie Luo.*<br>
+CVPR 2023. [PDF](https://arxiv.org/abs/2303.13071) [Project](https://sizhean.github.io/panohead)
+
+**Efficient Meshy Neural Fields for Animatable Human Avatars.**<br>
+*Xiaoke Huang, Yiji Cheng, Yansong Tang, Xiu Li, Jie Zhou, Jiwen Lu .*<br>
+CVPR 2023. [PDF](https://arxiv.org/abs/2303.12965) [Project](https://xk-huang.github.io/ema/)
+
+**Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars.**<br>
+*[Jingxiang Sun](https://mrtornado24.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Lizhen Wang](https://lizhenwangt.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yong Zhang](https://yzhang2016.github.io/yongnorriszhang.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Yebin Liu](http://www.liuyebin.com/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/pdf/2211.11208.pdf)] [[Project](https://mrtornado24.github.io/Next3D/)] [[Github](https://github.com/MrTornado24/Next3D)]
+
+**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion.**<br>
+*Tengfei Wang, Bo Zhang, Ting Zhang, Shuyang Gu, Jianmin Bao, Tadas Baltrusaitis, Jingjing Shen, Dong Chen, Fang Wen, Qifeng Chen, Baining Guo.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avatar-diffusion.microsoft.com/)]
+
+**NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing.**<br>
+*[Chunyi Sun](https://chuny1.github.io/NeRFEditor/nerfeditor.html), [Yanbin Liu](https://chuny1.github.io/NeRFEditor/nerfeditor.html), [Junlin Han](https://junlinhan.github.io/), [Stephen Gould](https://chuny1.github.io/NeRFEditor/nerfeditor.html).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.03848)] [[Project](https://chuny1.github.io/NeRFEditor/nerfeditor.html)]
 
 ## Clothed People Digitalization
 
@@ -196,6 +230,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.04123)] [[Project](https://ait.ethz
 **HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs.**<br>
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/pdf/2112.02789.pdf)] [[Project](https://zhaofuq.github.io/humannerf/)] 
+
+**X-Avatar: Expressive Human Avatars.**<br>
+*Kaiyue Shen, Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2303.04805)] [[Project](https://skype-line.github.io/projects/X-Avatar/)]
+
+**Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition.**<br>
+*Chen Guo, Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2302.11566)] [[Project](https://moygcc.github.io/vid2avatar/)]
 
 **InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
 *Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
@@ -598,12 +640,12 @@ ECCV 2020. [[PDF](http://virtualhumans.mpi-inf.mpg.de/papers/NASA20/NASA.pdf)]
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11610)] [[Data](https://nextcloud.mpi-klsb.mpg.de/index.php/s/nx6wK6BJFZCTF8C)] [[Github](https://github.com/garvita-tiwari/sizer)] [[Project](https://virtualhumans.mpi-inf.mpg.de/sizer/)]
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
-*Chaitanya Patel*, Zhouyingcheng Liao*, Gerard Pons-Moll.*<br>
+*Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.04583)] [[Github](https://github.com/chaitanya100100/TailorNet)] [[Project](https://virtualhumans.mpi-inf.mpg.de/tailornet/)] [[Data](https://github.com/zycliao/TailorNet_dataset)]
 
 **Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.**<br>
 *Tong He, John Collomosse, Hailin Jin, Stefano Soatto.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.08072)]  [[Github](https://github.com/simpleig/Geo-PIFu)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.08072)] [[Github](https://github.com/simpleig/Geo-PIFu)]
 
 **Self-Supervised Human Depth Estimation from Monocular Videos.**<br>
 *Feitong Tan, Hao Zhu, Zhaopeng Cui, Siyu Zhu, Marc Pollefeys, Ping Tan.*<br>
@@ -861,10 +903,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.00712)]
 **StyleGAN-Human: A Data-Centric Odyssey of Human Generation.**<br>
 *Jianglin Fu, Shikai Li, [Yuming Jiang](https://yumingj.github.io/), [Kwan-Yee Lin](https://kwanyeelin.github.io/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Wayne Wu](https://dblp.org/pid/50/8731.html), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2204.11823)] [[Github](https://youtu.be/nIrb9hwsdcI)] [[Project](https://stylegan-human.github.io/)] [[Colab Demo](https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On)] [[Hugging Face Demo](https://huggingface.co/spaces/hysts/StyleGAN-Human)]
-
-**AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
-*[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
-SIGGRAPH (TOG)) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
 
 **Text2Human: Text-Driven Controllable Human Image Generation.**<br>
 *Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
