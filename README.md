@@ -73,7 +73,7 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[Project](https://avatar-
 
 **OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering.**<br>
 *Zhiyuan Ma, Xiangyu Zhu, Guojun Qi, Zhen Lei, Lei Zhang.*<br>
-CVPR 2023. [PDF](https://arxiv.org/pdf/2303.14662)[Github](https://github.com/theEricMa/OTAvatar)[[Demo](https://youtu.be/qpIoMYFr7Aw)
+CVPR 2023. [PDF](https://arxiv.org/pdf/2303.14662) [Demo](https://youtu.be/qpIoMYFr7Aw) [Github](https://github.com/theEricMa/OTAvatar)
 
 **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘.**<br>
 *Sizhe An, Hongyi Xu, Yichun Shi, Guoxian Song, Umit Ogras, Linjie Luo.*<br>
