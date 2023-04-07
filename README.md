@@ -9,7 +9,7 @@ A collection of resources on clothed people: full body recontruction, head recon
 
 ## Contributing
 
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-digital-human/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format provided below.
+Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format provided below.
 
 ```Markdown
 **Here is the Paper Name.**<br>
@@ -58,7 +58,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
-SIGGRAPH (TOG)) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
+SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
 
 **Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors.**<br>
 *Zhangyang Xiong, Di Kang, Derong Jin, Weikai Chen, Linchao Bao, Xiaoguang Han.*<br>
@@ -74,18 +74,21 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)]
 
 ## 3D Head Avatar (from 2D Collections)
 
+**Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars.**<br>
+*[Jingxiang Sun](https://mrtornado24.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Lizhen Wang](https://lizhenwangt.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yong Zhang](https://yzhang2016.github.io/yongnorriszhang.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Yebin Liu](http://www.liuyebin.com/).*<br>
+CVPR 2023 (Highlight). [[PDF](https://arxiv.org/pdf/2211.11208.pdf)] [[Project](https://mrtornado24.github.io/Next3D/)] [[Github](https://github.com/MrTornado24/Next3D)]
 
-**OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering.**<br>
+**OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering.**<br>
 *Zhiyuan Ma, Xiangyu Zhu, Guojun Qi, Zhen Lei, Lei Zhang.*<br>
-CVPR 2023. [PDF](https://arxiv.org/pdf/2303.14662) [Demo](https://youtu.be/qpIoMYFr7Aw) [Github](https://github.com/theEricMa/OTAvatar)
+CVPR 2023. [[PDF](https://arxiv.org/pdf/2303.14662)] [[Github](https://github.com/theEricMa/OTAvatar)] [[Demo](https://youtu.be/qpIoMYFr7Aw)]
 
 **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘.**<br>
 *Sizhe An, Hongyi Xu, Yichun Shi, Guoxian Song, Umit Ogras, Linjie Luo.*<br>
-CVPR 2023. [PDF](https://arxiv.org/abs/2303.13071) [Project](https://sizhean.github.io/panohead)
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.13071) [[Project](https://sizhean.github.io/panohead)]
 
 **Efficient Meshy Neural Fields for Animatable Human Avatars.**<br>
 *Xiaoke Huang, Yiji Cheng, Yansong Tang, Xiu Li, Jie Zhou, Jiwen Lu .*<br>
-CVPR 2023. [PDF](https://arxiv.org/abs/2303.12965) [Project](https://xk-huang.github.io/ema/)
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.12965)] [[Project](https://xk-huang.github.io/ema/)]
 
 **Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion.**<br>
 *Tengfei Wang, Bo Zhang, Ting Zhang, Shuyang Gu, Jianmin Bao, Tadas Baltrusaitis, Jingjing Shen, Dong Chen, Fang Wen, Qifeng Chen, Baining Guo.*<br>
@@ -93,11 +96,7 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avata
 
 **OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis.**<br>
 *Hongyi Xu, Guoxian Song, Zihang Jiang, Jianfeng Zhang, Yichun Shi, Jing Liu, Wanchun Ma, Jiashi Feng, Linjie Luo.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2303.15539)]
-
-**Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars.**<br>
-*[Jingxiang Sun](https://mrtornado24.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Lizhen Wang](https://lizhenwangt.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yong Zhang](https://yzhang2016.github.io/yongnorriszhang.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Yebin Liu](http://www.liuyebin.com/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/pdf/2211.11208.pdf)] [[Project](https://mrtornado24.github.io/Next3D/)] [[Github](https://github.com/MrTornado24/Next3D)]
+arxiv 2023. [[PDF](https://arxiv.org/abs/2303.15539)]
 
 **HQ3DAvatar: High Quality Controllable 3D Head Avatar.**<br>
 *[Kartik Teotia](https://www.linkedin.com/in/kartik-teotia/?originalSubdomain=de), Mallikarjun B R, Xingang Pan, Hyeongwoo Kim, Pablo Garrido, Mohamed Elgharib, Christian Theobalt.*<br>
@@ -112,8 +111,12 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.03848)] [[Project](https://chuny1.
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
 **Recovering 3D Human Mesh from Monocular Images: A Survey.**<br>
-*Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
+*[Yating Tian](https://github.com/tinatiansjz), [Hongwen Zhang](https://github.com/HongwenZhang), [Yebin Liu](https://www.liuyebin.com/), [Limin Wang](https://wanglimin.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)] [[Dataset](https://github.com/tinatiansjz/hmr-survey#datasets)] [[Benchmarks](https://github.com/tinatiansjz/hmr-survey#benchmarks)]
+
+**CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition.**<br>
+*[Hongwen Zhang](https://hongwenzhang.github.io/), [Siyou Lin](https://jsnln.github.io/), [Ruizhi Shao](https://dsaurus.github.io/saurus), [Yuxiang Zhang](https://zhangyux15.github.io/), [Zerong Zheng](https://zhengzerong.github.io/), [Han Huang](http://www.liuyebin.com/closet/#), [Yandong Guo](http://www.liuyebin.com/closet/#), [Yebin Liu](https://liuyebin.com/).*<br>
+CVPR 2023. [[PDF](http://www.liuyebin.com/closet/assets/CloSET_CVPR2023.pdf)] [[Project](http://www.liuyebin.com/closet/)]
 
 **MonoHuman: Animatable Human Neural Field from Monocular Video.**<br>
 *Zhengming Yu, Wei Cheng, Xian Liu, Wayne Wu, Kwan-Yee Lin.*<br>
@@ -173,7 +176,7 @@ Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao
 
 **Human Performance Modeling and Rendering via Neural Animated Mesh.**<br>
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Yuheng Jiang, Kaixin Yao, Jiakai Zhang, Liao Wang, Haizhao Dai, Yuhui Zhong, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
-SIGGRAPH Asia  2022. [[PDF](https://arxiv.org/abs/2209.08468)] [[Project](https://zhaofuq.github.io/NeuralAM/)]
+SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2209.08468)] [[Project](https://zhaofuq.github.io/NeuralAM/)]
 
 **Occupancy Planes for Single-view RGB-D Human Reconstruction.**<br>
 *Xiaoming Zhao, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing.*<br>
@@ -882,7 +885,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.13240)]
 
 **Homogenized Yarn-Level Cloth.**<br>
 *[Georg Sperl](https://pub.ist.ac.at/~gsperl/), Rahul Narain, Chris Wojtan.*<br>
-ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf)] [[Project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)] [[Data & Code](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip)]
+SIGGRAPH (TOG) 2020. [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf)] [[Project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)] [[Data & Code](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip)]
 
 **DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.**<br>
 *Aljaž Božič, Michael Zollhöfer, Christian Theobalt, Matthias Nießner.*<br>
