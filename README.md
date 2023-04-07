@@ -20,7 +20,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[D
 <details><summary>Table of Contents</summary><p>
 
 - [Industry Demo or Product](#industry-demo-or-product)
-- [3D Clothed Human Generation and Animation](#3d-clothed-human-generation-and-animation)
+- [3D Human Avatar Generation and Animation](#3d-human-avatar-generation-and-animation)
 - [3D Head Avatar (from 2D Collections)](#3d-head-avatar--from-2d-collections-)
 - [Clothed People Digitalization](#clothed-people-digitalization)
 - [3D People Dressing, Cloth Draping and Simulation](#3d-people-dressing--cloth-draping-and-simulation)
@@ -42,7 +42,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[D
 
 Highavenue: Turn yourself into a 3D model.
 
-## 3D Clothed Human Generation and Animation
+## 3D Human Avatar Generation and Animation
 
 **PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
 *[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
@@ -67,6 +67,10 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2302.01162)]
 **AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control.**<br>
 *[Ruixiang Jiang](https://j-rx.com/), [Can Wang](https://cassiepython.github.io/), [Jingbo Zhang](https://eckertzhang.github.io/), [Menglei Chai](https://mlchai.com/), [Mingming He](https://mingminghe.com/), [Dongdong Chen](https://www.dongdongchen.bid/), [Jing Liao](https://liaojing.github.io/html/).*<br>
 arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[Project](https://avatar-craft.github.io/)] [[Code](https://github.com/songrise/avatarcraft)] [[Data](https://drive.google.com/drive/folders/1m97mmoAtDes0mBwkS4q2VNBivXSmRkOK)]
+
+**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models.**<br>
+*Yukang Cao, Yan-Pei Cao, Kai Han, Ying Shan, Kwan-Yee K. Wong.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)]
 
 ## 3D Head Avatar (from 2D Collections)
 
@@ -105,6 +109,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.03848)] [[Project](https://chuny1.
 **Recovering 3D Human Mesh from Monocular Images: A Survey.**<br>
 *Yating Tian, Hongwen Zhang, Yebin Liu, Limin Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)]
+
+**MonoHuman: Animatable Human Neural Field from Monocular Video.**<br>
+*Zhengming Yu, Wei Cheng, Xian Liu, Wayne Wu, Kwan-Yee Lin.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2304.02001)] [[Project](https://yzmblog.github.io/projects/MonoHuman/)]
 
 **FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views.**<br>
 *Vinoj Jayasundara, Amit Agrawal, Nicolas Heron, Abhinav Shrivastava, Larry S. Davis.*<br>
@@ -1141,9 +1149,17 @@ Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https
 
 ## Human Body Reshaping
 
-**Single-image Human-body Reshaping with Deep Neural Networks.**<br>
+**Structure-Aware Flow Generation for Human Body Reshaping.**<br>
+*[Jianqiang Ren](https://github.com/JianqiangRen), Yuan Yao, Biwen Lei, Miaomiao Cui, Xuansong Xie.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.04670)] [[Github](https://github.com/JianqiangRen/FlowBasedBodyReshaping)]
+
+**NeuralReshaper: Single-image Human-body Retouching with Deep Neural Networks.**<br>
 *Beijia Chen, Hongbo Fu, Xiang Chen, Kun Zhou, Youyi Zheng.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10496)]
+
+**Real-Time Reshaping of Humans.**<br>
+*Michal Richter, Kiran Varanasi, Nils Hasler, Christian Theobalt.*<br>
+International Conference on 3D Imaging, Modeling, Processing, Visualization & Transmission, 2012. [[PDF](https://vcai.mpi-inf.mpg.de/files/3DimPVT/human_reshape.pdf)]
 
 **MovieReshape: Tracking and Reshaping of Humans in Videos.**<br>
 *Arjun Jain, Thorsten Thormählen, Hans-Peter Seidel, Christian Theobalt.*<br>
