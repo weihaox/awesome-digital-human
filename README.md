@@ -72,7 +72,11 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[Project](https://avatar-
 *Yukang Cao, Yan-Pei Cao, Kai Han, Ying Shan, Kwan-Yee K. Wong.*<br>
 arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)]
 
-## 3D Head Avatar (from 2D Collections)
+## Animatable Avatar (3D Head Avatar from 2D Collections)
+
+**GANHead: Towards Generative Animatable Neural Head Avatars.**<br>
+*[Sijing Wu]((https://wsj-sjtu.github.io), [Yichao Yan](https://daodaofr.github.io/), Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, Xiaobo Li, [Guangtao Zhai](https://scholar.google.com/citations?user=E6zbSYgAAAAJ&hl=en&oi=ao).*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2304.03950)] [[Project](https://wsj-sjtu.github.io/GANHead/)]
 
 **Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars.**<br>
 *[Jingxiang Sun](https://mrtornado24.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Lizhen Wang](https://lizhenwangt.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yong Zhang](https://yzhang2016.github.io/yongnorriszhang.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Yebin Liu](http://www.liuyebin.com/).*<br>
@@ -106,7 +110,11 @@ arxiv 2023. [[PDF](https://vcai.mpi-inf.mpg.de/projects/HQ3DAvatar/)] [[Project]
 *[Chunyi Sun](https://chuny1.github.io/NeRFEditor/nerfeditor.html), [Yanbin Liu](https://chuny1.github.io/NeRFEditor/nerfeditor.html), [Junlin Han](https://junlinhan.github.io/), [Stephen Gould](https://chuny1.github.io/NeRFEditor/nerfeditor.html).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.03848)] [[Project](https://chuny1.github.io/NeRFEditor/nerfeditor.html)]
 
-## Clothed People Digitalization
+**ManVatar: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels.**<br>
+*Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu.*<br>
+arXiv 2022. [[PDF](https://arxiv.org/pdf/2211.13206.pdf)] [[Project](https://www.liuyebin.com/manvatar/manvatar.html)]
+
+## Clothed Human Digitalization
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
@@ -178,6 +186,10 @@ Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao
 *[Fuqiang Zhao](https://zhaofuq.github.io/), Yuheng Jiang, Kaixin Yao, Jiakai Zhang, Liao Wang, Haizhao Dai, Yuhui Zhong, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
 SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2209.08468)] [[Project](https://zhaofuq.github.io/NeuralAM/)]
 
+**FloRen: Real-time High-quality Human Performance Rendering via Appearance Flow Using Sparse RGB Cameras.**<br>
+*Ruizhi Shao, Liliang Chen, Zerong Zheng, Hongwen Zhang, Yuxiang Zhang, Han Huang, Yandong Guo, Yebin Liu.*<br>
+SIGGRAPH Asia 2022. [[PDF](https://dl.acm.org/doi/abs/10.1145/3550469.3555409)] 
+
 **Occupancy Planes for Single-view RGB-D Human Reconstruction.**<br>
 *Xiaoming Zhao, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing.*<br>
 AAAI 2023. [[PDF](https://arxiv.org/abs/2208.02817)] [[Github](https://github.com/Xiaoming-Zhao/oplanes)]
@@ -200,7 +212,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2210.10036)] [[Project](https://neuralbo
 
 **DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras.**<br>
 *Ruizhi Shao, Zerong Zheng, Hongwen Zhang, Jingxiang Sun, Yebin Liu.*<br>
-ECCV (Oral) 2022. [[PDF](https://arxiv.org/abs/2207.08000)] 
+ECCV (Oral) 2022. [[PDF](https://arxiv.org/abs/2207.08000)] [[Github](https://github.com/DSaurus/DiffuStereo)]
 
 **LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling.**<br>
 *Boyan Jiang, Xinlin Ren, Mingsong Dou, Xiangyang Xue, Yanwei Fu, Yinda Zhang.*<br>
@@ -333,6 +345,10 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2112.02789)] [[Project](https://zhaofuq.
 **PERGAMO: Personalized 3D Garments from Monocular Video.**<br>
 *Andrés Casado-Elvira, Marc Comino Trinidad, Dan Casas.*<br>
 CFG 2022. [[PDF](https://arxiv.org/abs/2210.15040)] [[Project](http://mslab.es/projects/PERGAMO/)]
+
+**High-Fidelity Clothed Avatar Reconstruction from a Single Image.**<br>
+*Tingting Liao, Xiaomei Zhang, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.03903)] 
 
 **SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling.**<br>
 *Zhitao Yang, Zhongang Cai, Haiyi Mei, Shuai Liu, Zhaoxi Chen, Weiye Xiao, Yukun Wei, Zhongfei Qing, Chen Wei, Bo Dai, Wayne Wu, Chen Qian, Dahua Lin, Ziwei Liu, Lei Yang.*<br>
