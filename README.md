@@ -24,7 +24,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[D
 - [3D Head Avatar (from 2D Collections)](#3d-head-avatar--from-2d-collections-)
 - [Clothed People Digitalization](#clothed-people-digitalization)
 - [3D People Dressing, Cloth Draping and Simulation](#3d-people-dressing--cloth-draping-and-simulation)
-- [Human Image Generation](#human-image-generation)
+- [Human Image and Video Generation](#human-image-generation)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
 - [Human Body Reshaping](#human-body-reshaping)
 - [Human Mesh Recovery](#human-mesh-recovery)
@@ -72,7 +72,7 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[Project](https://avatar-
 *Yukang Cao, Yan-Pei Cao, Kai Han, Ying Shan, Kwan-Yee K. Wong.*<br>
 arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)]
 
-## Animatable Avatar (3D Head Avatar from 2D Collections)
+## 3D Head Animatable Avatar (from 2D Image Collections)
 
 **GANHead: Towards Generative Animatable Neural Head Avatars.**<br>
 *[Sijing Wu]((https://wsj-sjtu.github.io), [Yichao Yan](https://daodaofr.github.io/), Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, Xiaobo Li, [Guangtao Zhai](https://scholar.google.com/citations?user=E6zbSYgAAAAJ&hl=en&oi=ao).*<br>
@@ -100,7 +100,19 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avata
 
 **OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis.**<br>
 *Hongyi Xu, Guoxian Song, Zihang Jiang, Jianfeng Zhang, Yichun Shi, Jing Liu, Wanchun Ma, Jiashi Feng, Linjie Luo.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2303.15539)]
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.15539)]
+
+**PointAvatar: Deformable Point-based Head Avatars from Videos.**<br>
+*Yufeng Zheng, Wang Yifan, Gordon Wetzstein, Michael J. Black, Otmar Hilliges.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.08377)] [[Project](https://zhengyuf.github.io/PointAvatar/)] [[Github](https://github.com/zhengyuf/pointavatar)]
+
+**MEGANE: Morphable Eyeglass and Avatar Network.**<br>
+*Junxuan Li, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Hongdong Li, Jason Saragih.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2302.04868)] [[Project](https://junxuan-li.github.io/megane/)] 
+
+**H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction.**<br>
+*Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.12512)] [[Project](https://crisalixsa.github.io/h3d-net/)] [[H3DS Dataset](https://docs.google.com/forms/d/e/1FAIpQLScbs-m-Me85KeMqJ2WnCwvToeSRIHC8sJckhxX3eknQu8ItRQ/viewform)]
 
 **HQ3DAvatar: High Quality Controllable 3D Head Avatar.**<br>
 *[Kartik Teotia](https://www.linkedin.com/in/kartik-teotia/?originalSubdomain=de), Mallikarjun B R, Xingang Pan, Hyeongwoo Kim, Pablo Garrido, Mohamed Elgharib, Christian Theobalt.*<br>
@@ -157,6 +169,70 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/)] [[Project](https://xiuyuliang.cn/econ
 **X-Avatar: Expressive Human Avatars.**<br>
 *Kaiyue Shen, Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2303.04805)] [[Project](https://skype-line.github.io/projects/X-Avatar/)]
+
+**InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
+*Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2212.10550)]
+
+**HumanGen: Generating Human Radiance Fields with Explicit Priors.**<br>
+*Suyi Jiang, Haoran Jiang, Ziyu Wang, Haimin Luo, Wenzheng Chen, Lan Xu.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.05321)]
+
+**SHERF: Generalizable Human NeRF from a Single Image.**<br>
+*[Shoukang Hu](https://skhu101.github.io/), [Fangzhou Hong](https://hongfz16.github.io/), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ), Haiyi Mei, [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2303.12791)] [[Project](https://skhu101.github.io/SHERF/)] [[Github](https://github.com/skhu101/SHERF)]
+
+**High-Fidelity Clothed Avatar Reconstruction from a Single Image.**<br>
+*Tingting Liao, Xiaomei Zhang, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.03903)] 
+
+**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling.**<br>
+*Zhitao Yang, Zhongang Cai, Haiyi Mei, Shuai Liu, Zhaoxi Chen, Weiye Xiao, Yukun Wei, Zhongfei Qing, Chen Wei, Bo Dai, Wayne Wu, Chen Qian, Dahua Lin, Ziwei Liu, Lei Yang.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17368)] [[Project](https://maoxie.github.io/SynBody/)]
+
+**GNeuVox: Generalizable Neural Voxels for Fast Human Radiance Fields.**<br>
+*[Taoran Yi](https://taoranyi.com/), [Jiemin Fang](https://jaminfong.cn/), [Xinggang Wang](https://xinggangw.info/), [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/).*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2303.15387)] [[Project](http://taoranyi.com/gneuvox/)] [[Github](https://github.com/hustvl/GNeuVox)]
+
+**Structured 3D Features for Reconstructing Relightable and Animatable Avatars.**<br>
+*Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.06820)] [[Project](https://enriccorona.github.io/s3f/)]
+
+**HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation.**<br>
+*Kaiduo Zhang, Muyi Sun, Jianxin Sun, Binghao Zhao, Kunbo Zhang, Zhenan Sun, Tieniu Tan.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.06235)]
+
+**HDHumans: A Hybrid Approach for High-fidelity Digital Humans.**<br>
+*Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.12100)]
+
+**PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images.**<br>
+*Zhangyang Xiong, Dong Du, Yushuang Wu, Jingqi Dong, Di Kang, Linchao Bao, Xiaoguang Han.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.10769)]
+
+**AvatarGen: a 3D Generative Model for Animatable Human Avatars.**<br>
+*Jianfeng Zhang, Zihang Jiang, Dingdong Yang, Hongyi Xu, Yichun Shi, Guoxian Song, Zhongcong Xu, Xinchao Wang, Jiashi Feng.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.00561)] [[Project](https://github.com/jfzhang95/AvatarGen)] [[Github](https://github.com/jfzhang95/AvatarGen)]
+
+**DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
+*[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
+arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
+
+**Animatable Neural Implicit Surfaces for Creating Avatars from Videos.**<br>
+*Sida Peng, Shangzhan Zhang, Zhen Xu, Chen Geng, Boyi Jiang, Hujun Bao, Xiaowei Zhou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.08133.pdf)] [[Project](https://zju3dv.github.io/animatable_sdf/)]
+
+**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing.**<br>
+*Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06088)]
+
+**Learning Animatable Avatar with Barycentric Mapping and Variation Mining.**<br>
+*Yihao Zhi, [Shenhan Qian](https://shenhanqian.com/), Xinhao Yan, Shenghua Gao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)]
+
+**Animatable Neural Radiance Fields from Monocular RGB Videos.**<br>
+*Jianchuan Chen, Ying Zhang, Di Kang, Xuefei Zhe, Linchao Bao, Xu Jia, Huchuan Lu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)] [[Github](https://github.com/JanaldoChen/Anim-NeRF)]
 
 **Geometry-aware Two-scale PIFu Representation for Human Reconstruction.**<br>
 *Zheng Dong, Ke Xu, Ziheng Duan, Hujun Bao, Weiwei Xu, Rynson W.H. Lau.*<br>
@@ -345,74 +421,6 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2112.02789)] [[Project](https://zhaofuq.
 **PERGAMO: Personalized 3D Garments from Monocular Video.**<br>
 *Andrés Casado-Elvira, Marc Comino Trinidad, Dan Casas.*<br>
 CFG 2022. [[PDF](https://arxiv.org/abs/2210.15040)] [[Project](http://mslab.es/projects/PERGAMO/)]
-
-**High-Fidelity Clothed Avatar Reconstruction from a Single Image.**<br>
-*Tingting Liao, Xiaomei Zhang, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2304.03903)] 
-
-**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling.**<br>
-*Zhitao Yang, Zhongang Cai, Haiyi Mei, Shuai Liu, Zhaoxi Chen, Weiye Xiao, Yukun Wei, Zhongfei Qing, Chen Wei, Bo Dai, Wayne Wu, Chen Qian, Dahua Lin, Ziwei Liu, Lei Yang.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17368)] [[Project](https://maoxie.github.io/SynBody/)]
-
-**GNeuVox: Generalizable Neural Voxels for Fast Human Radiance Fields.**<br>
-*[Taoran Yi](https://taoranyi.com/), [Jiemin Fang](https://jaminfong.cn/), [Xinggang Wang](https://xinggangw.info/), [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/).*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2303.15387)] [[Project](http://taoranyi.com/gneuvox/)] [[Github](https://github.com/hustvl/GNeuVox)]
-
-**InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
-*Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2212.10550)]
-
-**Structured 3D Features for Reconstructing Relightable and Animatable Avatars.**<br>
-*Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2212.06820)] [[Project](https://enriccorona.github.io/s3f/)]
-
-**HumanGen: Generating Human Radiance Fields with Explicit Priors.**<br>
-*Suyi Jiang, Haoran Jiang, Ziyu Wang, Haimin Luo, Wenzheng Chen, Lan Xu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2212.05321)]
-
-**HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation.**<br>
-*Kaiduo Zhang, Muyi Sun, Jianxin Sun, Binghao Zhao, Kunbo Zhang, Zhenan Sun, Tieniu Tan.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.06235)]
-
-**HDHumans: A Hybrid Approach for High-fidelity Digital Humans.**<br>
-*Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2210.12100)]
-
-**PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images.**<br>
-*Zhangyang Xiong, Dong Du, Yushuang Wu, Jingqi Dong, Di Kang, Linchao Bao, Xiaoguang Han.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2208.10769)]
-
-**AvatarGen: a 3D Generative Model for Animatable Human Avatars.**<br>
-*Jianfeng Zhang, Zihang Jiang, Dingdong Yang, Hongyi Xu, Yichun Shi, Guoxian Song, Zhongcong Xu, Xinchao Wang, Jiashi Feng.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2208.00561)] [[Project](https://github.com/jfzhang95/AvatarGen)] [[Github](https://github.com/jfzhang95/AvatarGen)]
-
-**DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
-*[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
-arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
-
-**Animatable Neural Implicit Surfaces for Creating Avatars from Videos.**<br>
-*Sida Peng, Shangzhan Zhang, Zhen Xu, Chen Geng, Boyi Jiang, Hujun Bao, Xiaowei Zhou.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.08133.pdf)] [[Project](https://zju3dv.github.io/animatable_sdf/)]
-
-**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing.**<br>
-*Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06088)]
-
-**Learning Animatable Avatar with Barycentric Mapping and Variation Mining.**<br>
-*Yihao Zhi, [Shenhan Qian](https://shenhanqian.com/), Xinhao Yan, Shenghua Gao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)]
-
-**Animatable Neural Radiance Fields from Monocular RGB Videos.**<br>
-*Jianchuan Chen, Ying Zhang, Di Kang, Xuefei Zhe, Linchao Bao, Xu Jia, Huchuan Lu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)] [[Github](https://github.com/JanaldoChen/Anim-NeRF)]
-
-**LookinGood^π: Real-time Person-independent Neural Re-rendering for High-quality Human Performance Capture.**<br>
-*Xiqi Yang, Kewei Yang, Kang Chen, Weidong Zhang, Weiwei Xu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.08037)]
-
-**H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction.**<br>
-*Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.12512)] [[Project](https://crisalixsa.github.io/h3d-net/)] [[H3DS Dataset](https://docs.google.com/forms/d/e/1FAIpQLScbs-m-Me85KeMqJ2WnCwvToeSRIHC8sJckhxX3eknQu8ItRQ/viewform)]
 
 **Explicit Clothing Modeling for an Animatable Full-Body Avatar.**<br>
 *Donglai Xiang, Fabian Andres Prada, Timur Bagautdinov, Weipeng Xu, Yuan Dong, He Wen, Jessica Hodgins, Chenglei Wu.*<br>
@@ -953,7 +961,11 @@ ACM Transactions on Graphics (TOG) 2012.
 *Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
-## Human Image Generation
+## Human Image and Video Generation
+
+**Text2Performer: Text-Driven Human Video Generation.**<br>
+*Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/pdf/2304.08483.pdf)] [[Project](https://yumingj.github.io/projects/Text2Performer.html)] [[Github](https://github.com/yumingj/Text2Performer)]
 
 **Cross Attention Based Style Distribution for Controllable Person Image Synthesis.**<br>
 *Xinyue Zhou, Mingyu Yin, Xinyuan Chen, Li Sun, Changxin Gao, Qingli Li.*<br>
