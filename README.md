@@ -69,10 +69,14 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2302.01162)]
 arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[Project](https://avatar-craft.github.io/)] [[Code](https://github.com/songrise/avatarcraft)] [[Data](https://drive.google.com/drive/folders/1m97mmoAtDes0mBwkS4q2VNBivXSmRkOK)]
 
 **DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models.**<br>
-*Yukang Cao, Yan-Pei Cao, Kai Han, Ying Shan, Kwan-Yee K. Wong.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)]
+*[Yukang Cao](https://yukangcao.github.io/), [Yan-Pei Cao](https://yanpei.me/), [Kai Han](https://www.kaihan.org/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN), [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/).*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)] [[Project](https://yukangcao.github.io/DreamAvatar/)]
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
+
+**StyleAvatar: Real-time Photo-realistic Neural Portrait Avatar from a Single Video.**<br>
+*Lizhen Wang, Xiaochen Zhao, Jingxiang Sun, Yuxiang Zhang, Hongwen Zhang, Tao Yu✝, Yebin Liu.*<br>
+SIGGRAPH 2023. [[PDF]()]
 
 **GANHead: Towards Generative Animatable Neural Head Avatars.**<br>
 *[Sijing Wu]((https://wsj-sjtu.github.io), [Yichao Yan](https://daodaofr.github.io/), Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, Xiaobo Li, [Guangtao Zhai](https://scholar.google.com/citations?user=E6zbSYgAAAAJ&hl=en&oi=ao).*<br>
@@ -134,6 +138,10 @@ arXiv 2022. [[PDF](https://arxiv.org/pdf/2211.13206.pdf)] [[Project](https://www
 *[Yating Tian](https://github.com/tinatiansjz), [Hongwen Zhang](https://github.com/HongwenZhang), [Yebin Liu](https://www.liuyebin.com/), [Limin Wang](https://wanglimin.github.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)] [[Dataset](https://github.com/tinatiansjz/hmr-survey#datasets)] [[Benchmarks](https://github.com/tinatiansjz/hmr-survey#benchmarks)]
 
+**PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling.**<br>
+*Zhe Li, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu.*<br>
+SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2304.13006)] [[Project](https://lizhe00.github.io/projects/posevocab)]
+
 **CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition.**<br>
 *[Hongwen Zhang](https://hongwenzhang.github.io/), [Siyou Lin](https://jsnln.github.io/), [Ruizhi Shao](https://dsaurus.github.io/saurus), [Yuxiang Zhang](https://zhangyux15.github.io/), [Zerong Zheng](https://zhengzerong.github.io/), [Han Huang](http://www.liuyebin.com/closet/#), [Yandong Guo](http://www.liuyebin.com/closet/#), [Yebin Liu](https://liuyebin.com/).*<br>
 CVPR 2023. [[PDF](http://www.liuyebin.com/closet/assets/CloSET_CVPR2023.pdf)] [[Project](http://www.liuyebin.com/closet/)]
@@ -173,6 +181,10 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2303.04805)] [[Project](https://skype-li
 **InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
 *Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2212.10550)]
+
+**Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting.**<br>
+*Ruichen Zheng, Peng Li, Haoqian Wang, Tao Yu.*<br> 
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900v1)]
 
 **HumanGen: Generating Human Radiance Fields with Explicit Priors.**<br>
 *Suyi Jiang, Haoran Jiang, Ziyu Wang, Haimin Luo, Wenzheng Chen, Lan Xu.*<br>
@@ -1205,7 +1217,17 @@ SIGGRAPH Asia 2010. [[PDF](http://www.mpi-inf.mpg.de/resources/MovieReshape/Movi
 *Shizhe Zhou, Hongbo Fu,  Ligang Liu, Daniel Cohen-Or, Xiaoguang Han.*<br>
 SIGGRAPH 2010. [[PDF](https://dl.acm.org/doi/10.1145/1833349.1778863)]
 
-## Human Mesh Recovery
+### Scene context-aware Human Body Generation
+
+**Putting People in Their Place: Affordance-Aware Human Insertion Into Scenes.**<br>
+*Sumith Kulal, Tim Brooks, Alex Aiken, Jiajun Wu, Jimei Yang, Jingwan Lu, Alexei A. Efros, Krishna Kumar Singh.*<br> 
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.14406)] [[Project](https://sumith1896.github.io/affordance-insertion/)]
+
+**Generating 3D People in Scenes Without People.**<br>
+*Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang.*<br> 
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Generating_3D_People_in_Scenes_Without_People_CVPR_2020_paper.html)] [[Github](https://github.com/yz-cnsdqz/PSI-release)]
+
+### Human Mesh Recovery
 
 **GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras.**<br>
 *[Ye Yuan](https://www.ye-yuan.com/), [Umar Iqbal](http://www.umariqbal.info/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov/), [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), [Jan Kautz](https://jankautz.com/).*<br>
