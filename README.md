@@ -48,6 +48,10 @@ Highavenue: Turn yourself into a 3D model.
 *[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
 
+**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures.**<br>
+*Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.07600)]  [[Github](https://github.com/eladrich/latent-nerf)]
+
 **EVA3D: Compositional 3D Human Generation from 2D Image Collections.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), [Zhaoxi Chen](https://frozenburning.github.io/), [Yushi Lan](https://github.com/NIRVANALAN), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz16.github.io/projects/EVA3D.html)] [[Github]()]
@@ -59,6 +63,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
+
+**AG3D: Learning to Generate 3D Avatars from 2D Image Collections.**<br>
+*[Zijian Dong](https://ait.ethz.ch/people/zijian/), [Xu Chen](https://ait.ethz.ch/people/xu/), [Jinlong Yang](https://is.mpg.de/~jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Andreas Geiger](http://www.cvlibs.net/).*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02312v1)] [[Project](https://zj-dong.github.io/AG3D/)] [[Github](https://github.com/zj-dong/AG3D)]
 
 **Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors.**<br>
 *Zhangyang Xiong, Di Kang, Derong Jin, Weikai Chen, Linchao Bao, Xiaoguang Han.*<br>
@@ -74,9 +82,17 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)] [[Project](https://yukangc
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
 
+**DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance.**<br>
+*Longwen Zhang, Qiwei Qiu, Hongyang Lin, Qixuan Zhang, Cheng Shi, Wei Yang, Ye Shi, Sibei Yang, Lan Xu, Jingyi Yu.*<br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)]
+
 **StyleAvatar: Real-time Photo-realistic Neural Portrait Avatar from a Single Video.**<br>
 *Lizhen Wang, Xiaochen Zhao, Jingxiang Sun, Yuxiang Zhang, Hongwen Zhang, Tao Yu✝, Yebin Liu.*<br>
-SIGGRAPH 2023. [[PDF]()]
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.00942)]
+
+**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads.**<br>
+*[Tobias Kirschstein](https://tobias-kirschstein.github.io/), [Shenhan Qian](https://shenhanqian.com/), [Simon Giebenhain](https://simongiebenhain.github.io/), Tim Walter, Matthias Nießner.*<br> 
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.03027v1)] [[Project](https://tobias-kirschstein.github.io/nersemble/)] [[Video](https://youtu.be/a-OAWqBzldU)]
 
 **GANHead: Towards Generative Animatable Neural Head Avatars.**<br>
 *[Sijing Wu]((https://wsj-sjtu.github.io), [Yichao Yan](https://daodaofr.github.io/), Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, Xiaobo Li, [Guangtao Zhai](https://scholar.google.com/citations?user=E6zbSYgAAAAJ&hl=en&oi=ao).*<br>
@@ -175,12 +191,12 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avata
 CVPR 2023. [[PDF](https://arxiv.org/abs/)] [[Project](https://xiuyuliang.cn/econ)] [[Github](https://github.com/YuliangXiu/ECON)]
 
 **X-Avatar: Expressive Human Avatars.**<br>
-*Kaiyue Shen, Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2303.04805)] [[Project](https://skype-line.github.io/projects/X-Avatar/)]
+*[Kaiyue Shen](https://skype-line.github.io/), Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.04805)] [[Project](https://skype-line.github.io/projects/X-Avatar/)] [[Github](https://github.com/Skype-line/X-Avatar)]
 
 **InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
 *Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2212.10550)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2212.10550)] [[Project](https://tijiang13.github.io/InstantAvatar/)] [[Github](https://github.com/tijiang13/InstantAvatar)]
 
 **Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting.**<br>
 *Ruichen Zheng, Peng Li, Haoqian Wang, Tao Yu.*<br> 
