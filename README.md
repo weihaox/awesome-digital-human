@@ -44,6 +44,10 @@ Highavenue: Turn yourself into a 3D model.
 
 ## 3D Human Avatar Generation and Animation
 
+**Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization.**<br>
+*Connor Z. Lin, Koki Nagano, Jan Kautz, Eric R. Chan, Umar Iqbal, Leonidas Guibas, Gordon Wetzstein, Sameh Khamis.*<br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.03043)] [[Project](https://research.nvidia.com/labs/toronto-ai/ssif/)] [[Github]()]
+
 **PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
 *[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
@@ -154,9 +158,21 @@ arXiv 2022. [[PDF](https://arxiv.org/pdf/2211.13206.pdf)] [[Project](https://www
 *[Yating Tian](https://github.com/tinatiansjz), [Hongwen Zhang](https://github.com/HongwenZhang), [Yebin Liu](https://www.liuyebin.com/), [Limin Wang](https://wanglimin.github.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)] [[Dataset](https://github.com/tinatiansjz/hmr-survey#datasets)] [[Benchmarks](https://github.com/tinatiansjz/hmr-survey#benchmarks)]
 
+**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion.**<br>
+*[Mustafa Işık](https://www.mustafaisik.net/), Martin Rünz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nießner.*<br> 
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.06356)] [[Project](http://www.synthesiaresearch.github.io/humanrf)] [[Github](https://github.com/synthesiaresearch/humanrf)] [[Data](http://www.actors-hq.com/)]
+
+**AvatarReX: Real-time Expressive Full-body Avatars.**<br>
+*Zerong Zheng, Xiaochen Zhao, Hongwen Zhang, Boning Liu, Yebin Liu.*<br>
+SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2305.04789)] [[Project](https://liuyebin.com/AvatarRex/)]
+
 **PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu.*<br>
 SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2304.13006)] [[Project](https://lizhe00.github.io/projects/posevocab)]
+
+**Reconstructing Animatable Categories from Videos.**<br>
+*[Gengshan Yang](https://gengshan-y.github.io/), [Chaoyang Wang](https://mightychaos.github.io/), [N Dinesh Reddy](https://dineshreddy91.github.io/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/).*<br> 
+CVPR 2023. [[PDF](http://arxiv.org/abs/2305.06351)] [[Project](https://gengshan-y.github.io/rac-www/)] [[Github](https://github.com/gengshan-y/rac)]
 
 **CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition.**<br>
 *[Hongwen Zhang](https://hongwenzhang.github.io/), [Siyou Lin](https://jsnln.github.io/), [Ruizhi Shao](https://dsaurus.github.io/saurus), [Yuxiang Zhang](https://zhangyux15.github.io/), [Zerong Zheng](https://zhengzerong.github.io/), [Han Huang](http://www.liuyebin.com/closet/#), [Yandong Guo](http://www.liuyebin.com/closet/#), [Yebin Liu](https://liuyebin.com/).*<br>
@@ -995,6 +1011,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 *Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
 arxiv 2023. [[PDF](https://arxiv.org/pdf/2304.08483.pdf)] [[Project](https://yumingj.github.io/projects/Text2Performer.html)] [[Github](https://github.com/yumingj/Text2Performer)]
 
+**LEO: Generative Latent Image Animator for Human Video Synthesis.**<br>
+*Yaohui Wang, Xin Ma, Xinyuan Chen, Antitza Dantcheva, Bo Dai, Yu Qiao.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03989v1)] [[Project](https://wyhsirius.github.io/LEO-project/)]
+
 **Cross Attention Based Style Distribution for Controllable Person Image Synthesis.**<br>
 *Xinyue Zhou, Mingyu Yin, Xinyuan Chen, Li Sun, Changxin Gao, Qingli Li.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2208.00712)] 
@@ -1050,6 +1070,10 @@ IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.c
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
+*Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br> 
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.04451v1)]
 
 **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions.**<br>
 *Sangyun Lee, Gyojung Gu, Sunghyun Park, Seunghwan Choi, Jaegul Choo.*<br>
