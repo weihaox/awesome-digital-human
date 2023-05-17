@@ -102,9 +102,17 @@ SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.03027v1)] [[Project](https://tob
 *[Sijing Wu]((https://wsj-sjtu.github.io), [Yichao Yan](https://daodaofr.github.io/), Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, Xiaobo Li, [Guangtao Zhai](https://scholar.google.com/citations?user=E6zbSYgAAAAJ&hl=en&oi=ao).*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2304.03950)] [[Project](https://wsj-sjtu.github.io/GANHead/)]
 
+**FitMe: Deep Photorealistic 3D Morphable Model Avatars.**<br>
+*[Alexandros Lattas](https://alexlattas.com/), [Stylianos Moschoglou](https://moschoglou.com/), [Stylianos Ploumpis](https://www.ploumpis.com/), [Baris Gecer](https://barisgecer.github.io/), [Jiankang Deng](https://jiankangdeng.github.io/), [Stefanos Zafeiriou](https://www.imperial.ac.uk/people/s.zafeiriou).*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2305.09641)] [[Project](https://alexlattas.com/fitme)]
+
 **Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars.**<br>
 *[Jingxiang Sun](https://mrtornado24.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Lizhen Wang](https://lizhenwangt.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yong Zhang](https://yzhang2016.github.io/yongnorriszhang.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Yebin Liu](http://www.liuyebin.com/).*<br>
 CVPR 2023 (Highlight). [[PDF](https://arxiv.org/pdf/2211.11208.pdf)] [[Project](https://mrtornado24.github.io/Next3D/)] [[Github](https://github.com/MrTornado24/Next3D)]
+
+**BlendFields: Few-Shot Example-Driven Facial Modeling.**<br>
+*Kacper Kania, Stephan J. Garbin, Andrea Tagliasacchi, Virginia Estellers, Kwang Moo Yi, Julien Valentin, Tomasz Trzciński, Marek Kowalski.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2305.07514)] [[Project](https://blendfields.github.io/)]
 
 **OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering.**<br>
 *Zhiyuan Ma, Xiangyu Zhu, Guojun Qi, Zhen Lei, Lei Zhang.*<br>
@@ -138,6 +146,23 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2302.04868)] [[Project](https://junxuan-
 *Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2107.12512)] [[Project](https://crisalixsa.github.io/h3d-net/)] [[H3DS Dataset](https://docs.google.com/forms/d/e/1FAIpQLScbs-m-Me85KeMqJ2WnCwvToeSRIHC8sJckhxX3eknQu8ItRQ/viewform)]
 
+**AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild".**<br>
+*Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Github](https://github.com/lattas/AvatarMe)]
+
+**AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs.**<br>
+*[Alexandros Lattas](https://www.imperial.ac.uk/people/a.lattas),
+[Stylianos Moschoglou](https://www.doc.ic.ac.uk/~sm3515/),
+[Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis),
+[Baris Gecer](http://barisgecer.github.io),
+[Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/),
+[Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Github](https://github.com/lattas/AvatarMe)]
+
+**Towards Realistic Generative 3D Face Models.**<br>
+*[Aashish Rai](https://aashishrai3799.github.io/), [Hiresh Gupta](https://hireshgupta1997.github.io/), Ayush Pandey, Francisco Vicente Carrasco, Shingo Jason Takagi, Amaury Aubel, Daeil Kim, [Aayush Prakash](https://aayushp.github.io/), [Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/).*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.12483)] [[Project](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/)] [[Github](https://lnkd.in/gVz8Hzn3)]
+
 **HQ3DAvatar: High Quality Controllable 3D Head Avatar.**<br>
 *[Kartik Teotia](https://www.linkedin.com/in/kartik-teotia/?originalSubdomain=de), Mallikarjun B R, Xingang Pan, Hyeongwoo Kim, Pablo Garrido, Mohamed Elgharib, Christian Theobalt.*<br>
 arxiv 2023. [[PDF](https://vcai.mpi-inf.mpg.de/projects/HQ3DAvatar/)] [[Project](https://vcai.mpi-inf.mpg.de/projects/HQ3DAvatar/)] [[Github]()]
@@ -149,6 +174,24 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.03848)] [[Project](https://chuny1.
 **ManVatar: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels.**<br>
 *Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu.*<br>
 arXiv 2022. [[PDF](https://arxiv.org/pdf/2211.13206.pdf)] [[Project](https://www.liuyebin.com/manvatar/manvatar.html)]
+
+## Clothed Human Motion Generation
+
+**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion.**<br>
+*[Mustafa Işık](https://www.mustafaisik.net/), Martin Rünz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nießner.*<br> 
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.06356)] [[Project](http://www.synthesiaresearch.github.io/humanrf)] [[Github](https://github.com/synthesiaresearch/humanrf)] [[Data](http://www.actors-hq.com/)]
+
+**GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents.**<br>
+*[Tenglong Ao](https://aubrey-ao.github.io/), Zeyi Zhang, [Libin Liu](https://libliu.info/).*<br>
+SIGGRAPH 2023 (Journal Track). [[PDF](https://arxiv.org/abs/2303.14613)] [[Project](https://pku-mocca.github.io/GestureDiffuCLIP-Page/)] [[Github]()]
+
+**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model.**<br>
+*Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2304.01116)] [[Project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)] [[Github](https://github.com/mingyuan-zhang/ReMoDiffuse)]
+
+**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.**<br>
+*[Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Zhongang Cai](https://caizhongang.github.io/), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io/), [Xinying Guo](https://gxyes.github.io/), [Lei Yang](https://yanglei.me/), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] [[Github](https://github.com/mingyuan-zhang/MotionDiffuse)]
 
 ## Clothed Human Digitalization
 
