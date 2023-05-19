@@ -175,7 +175,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.03848)] [[Project](https://chuny1.
 *Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu.*<br>
 arXiv 2022. [[PDF](https://arxiv.org/pdf/2211.13206.pdf)] [[Project](https://www.liuyebin.com/manvatar/manvatar.html)]
 
-## Clothed Human Motion Generation
+## (Clothed) Human Motion Generation
 
 **HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion.**<br>
 *[Mustafa Işık](https://www.mustafaisik.net/), Martin Rünz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nießner.*<br> 
@@ -185,13 +185,42 @@ SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.06356)] [[Project](http://www.sy
 *[Tenglong Ao](https://aubrey-ao.github.io/), Zeyi Zhang, [Libin Liu](https://libliu.info/).*<br>
 SIGGRAPH 2023 (Journal Track). [[PDF](https://arxiv.org/abs/2303.14613)] [[Project](https://pku-mocca.github.io/GestureDiffuCLIP-Page/)] [[Github]()]
 
+**MDM: Human Motion Diffusion Model.**<br>
+*Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2209.14916)] [[Project](https://guytevet.github.io/mdm-page/)] [[Github](https://github.com/GuyTevet/motion-diffusion-model)]
+
+**MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
+*[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral/), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/).*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.04495)] [[Project](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)] 
+
+**MotionCLIP: Exposing Human Motion Generation to CLIP Space.**<br>
+*Guy Tevet, Brian Gordon, Amir Hertz, Amit H. Bermano, Daniel Cohen-Or.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2203.08063)] [[Project](https://guytevet.github.io/motionclip-page/)] [[Github](https://github.com/GuyTevet/MotionCLIP)]
+
+**TEMOS: Generating diverse human motions from textual descriptions.**<br>
+*[Mathis Petrovich](https://mathis.petrovich.fr/), Michael J. Black, Gül Varol.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Github](https://github.com/Mathux/TEMOS)]
+
+**TEACH: Temporal Action Composition for 3D Human.**<br>
+*Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
+3DV 2022. [[PDF](https://arxiv.org/abs/2209.04066)] [[Project](https://teach.is.tue.mpg.de/)] [[Github](https://github.com/athn-nik/teach)]
+
+**TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
+*Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2305.00976)] [[Project](https://mathis.petrovich.fr/tmr/index.html)] [[Github](https://github.com/Mathux/TMR)]
+
+**SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation.**<br>
+*Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.10417)] [[Project](https://sinc.is.tue.mpg.de/)] [[Github](https://github.com/athn-nik/sinc)]
+
 **ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model.**<br>
 *Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2304.01116)] [[Project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)] [[Github](https://github.com/mingyuan-zhang/ReMoDiffuse)]
+arxiv 2023. [[PDF](https://arxiv.org/abs/2304.01116)] [[Project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)] [[Github](https://github.com/mingyuan-zhang/ReMoDiffuse)]
 
 **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.**<br>
 *[Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Zhongang Cai](https://caizhongang.github.io/), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io/), [Xinying Guo](https://gxyes.github.io/), [Lei Yang](https://yanglei.me/), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] [[Github](https://github.com/mingyuan-zhang/MotionDiffuse)]
+
 
 ## Clothed Human Digitalization
 
@@ -212,6 +241,10 @@ SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2305.04789)] [[Project](https://liuye
 **PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu.*<br>
 SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2304.13006)] [[Project](https://lizhe00.github.io/projects/posevocab)]
+
+**SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction.**<br>
+*[Yukang Cao](https://yukangcao.github.io/), [Kai Han](https://www.kaihan.org/), [Kenneth Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/).*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2304.00359)] [[Project](https://yukangcao.github.io/SeSDF/)] [[Github](https://yukangcao.github.io/)]
 
 **Reconstructing Animatable Categories from Videos.**<br>
 *[Gengshan Yang](https://gengshan-y.github.io/), [Chaoyang Wang](https://mightychaos.github.io/), [N Dinesh Reddy](https://dineshreddy91.github.io/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/).*<br> 
@@ -945,6 +978,10 @@ CVPR 2021. [[PDF](http://arxiv.org/abs/2105.06462)]
 **Deep Detail Enhancement for Any Garment.**<br>
 *Meng Zhang, Tuanfeng Wang, Duygu Ceylan, Niloy J. Mitra.*<br>
 Eurographics 2021. [[PDF](https://arxiv.org/pdf/2008.04367.pdf)]
+
+**Towards Multi-Layered 3D Garments Animation.**<br>
+*Yidi Shao, Chen Change Loy, Bo Dai.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/pdf/2305.10418.pdf)] [[Project](https://mmlab-ntu.github.io/project/layersnet/index.html)]
 
 **Garment Avatars: Realistic Cloth Driving using Pattern Registration.**<br>
 *Oshri Halimi, Fabian Prada, Tuur Stuyck, Donglai Xiang, Timur Bagautdinov, He Wen, Ron Kimmel, Takaaki Shiratori, Chenglei Wu, Yaser Sheikh.*<br>
