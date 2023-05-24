@@ -70,7 +70,7 @@ SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https:
 
 **AG3D: Learning to Generate 3D Avatars from 2D Image Collections.**<br>
 *[Zijian Dong](https://ait.ethz.ch/people/zijian/), [Xu Chen](https://ait.ethz.ch/people/xu/), [Jinlong Yang](https://is.mpg.de/~jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Andreas Geiger](http://www.cvlibs.net/).*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02312v1)] [[Project](https://zj-dong.github.io/AG3D/)] [[Github](https://github.com/zj-dong/AG3D)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02312)] [[Project](https://zj-dong.github.io/AG3D/)] [[Github](https://github.com/zj-dong/AG3D)]
 
 **Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors.**<br>
 *Zhangyang Xiong, Di Kang, Derong Jin, Weikai Chen, Linchao Bao, Xiaoguang Han.*<br>
@@ -96,7 +96,7 @@ SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.00942)]
 
 **NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads.**<br>
 *[Tobias Kirschstein](https://tobias-kirschstein.github.io/), [Shenhan Qian](https://shenhanqian.com/), [Simon Giebenhain](https://simongiebenhain.github.io/), Tim Walter, Matthias Nießner.*<br> 
-SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.03027v1)] [[Project](https://tobias-kirschstein.github.io/nersemble/)] [[Video](https://youtu.be/a-OAWqBzldU)]
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.03027)] [[Project](https://tobias-kirschstein.github.io/nersemble/)] [[Video](https://youtu.be/a-OAWqBzldU)]
 
 **GANHead: Towards Generative Animatable Neural Head Avatars.**<br>
 *[Sijing Wu]((https://wsj-sjtu.github.io), [Yichao Yan](https://daodaofr.github.io/), Yunhao Li, Yuhao Cheng, Wenhan Zhu, Ke Gao, Xiaobo Li, [Guangtao Zhai](https://scholar.google.com/citations?user=E6zbSYgAAAAJ&hl=en&oi=ao).*<br>
@@ -292,11 +292,19 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2212.10550)] [[Project](https://tijiang1
 
 **Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting.**<br>
 *Ruichen Zheng, Peng Li, Haoqian Wang, Tao Yu.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900)]
 
 **HumanGen: Generating Human Radiance Fields with Explicit Priors.**<br>
 *Suyi Jiang, Haoran Jiang, Ziyu Wang, Haimin Luo, Wenzheng Chen, Lan Xu.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2212.05321)]
+
+**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects.**<br>
+*[Taeksoo Kim](https://taeksuu.github.io/), [Shunsuke Saito](https://shunsukesaito.github.io/), [Hanbyul Joo](https://jhugestar.github.io/).*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2305.14345)] [[Project](https://taeksuu.github.io/ncho/)]
+
+**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models.**<br>
+*[Byungjun Kim](https://bjkim95.github.io/), Patrick Kwon, Kwangho Lee, Myunggi Lee, Sookwan Han, Daesik Kim, Hanbyul Joo.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2305.11870)] [[Project](https://snuvclab.github.io/chupa)]
 
 **SHERF: Generalizable Human NeRF from a Single Image.**<br>
 *[Shoukang Hu](https://skhu101.github.io/), [Fangzhou Hong](https://hongfz16.github.io/), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ), Haiyi Mei, [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
@@ -584,7 +592,7 @@ NeurIPS 2021. [[PDF](https://openreview.net/pdf?id=aF60hOEwHP)] [[Project](https
 
 **Learning Anchored Unsigned Distance Functions with Gradient Direction Alignment for Single-view Garment Reconstruction.**<br>
 *Fang Zhao, Wenhao Wang, Shengcai Liao, Ling Shao.*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08478v2)] [[Github](https://github.com/zhaofang0627/AnchorUDF)]
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.08478)] [[Github](https://github.com/zhaofang0627/AnchorUDF)]
 
 **Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
 *Andrei Burov, Matthias Nießner, Justus Thies.*<br>
@@ -796,7 +804,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03713)] [[Github](https://github.co
 
 **Appearance Consensus Driven Self-Supervised Human Mesh Recovery.**<br>
 *Jogendra Nath Kundu, Mugalodi Rakesh, Varun Jampani, Rahul Mysore Venkatesh, R. Venkatesh Babu.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01341v1)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01341)]
 
 **TexMesh: Reconstructing Detailed Human Texture and Geometry from RGB-D Video.**<br>
 *Tiancheng Zhi, Christoph Lassner, Tony Tung, Carsten Stoll, Srinivasa G. Narasimhan, Minh Vo.*<br>
@@ -942,10 +950,11 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 *[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
 ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICCV17.pdf)] [[Project]()]
 
-**3D Reconstruction from a Single Image.** <br>
-Oppo shared on ISMAR 2019.
-
 ## 3D People Dressing, Cloth Draping and Simulation
+
+**REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos.**<br>
+*[Lingteng Qiu](https://lingtengqiu.github.io/), [Guanying Chen](https://guanyingc.github.io/), Jiapeng Zhou, [Mutian Xu](https://mutianxu.github.io/), Junle Wang, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/).*<br> 
+CVPR 2023. [[PDF](http://arxiv.org/abs/2305.14236)] [[Project](https://lingtengqiu.github.io/2023/REC-MV/)] [[Github](https://github.com/GAP-LAB-CUHK-SZ/REC-MV)]
 
 **Motion Guided Deep Dynamic 3D Garments.**<br>
 *[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](https://research.adobe.com/person/duygu-ceylan/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
@@ -975,41 +984,13 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.15007)] [[Project](https://kv2000.g
 *Igor Santesteban, Nils Thuerey, Miguel A. Otaduy, Dan Casas.*<br>
 CVPR 2021. [[PDF](http://arxiv.org/abs/2105.06462)]
 
+**Dynamic Neural Garments.**<br>
+*[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](http://www.duygu-ceylan.com/), [Tuanfeng Wang](http://geometry.cs.ucl.ac.uk/tuanfeng/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2021/DynamicNeuralGarments/)] [[Github](https://github.com/MengZephyr/DynamicNeuralGarments)]
+
 **Deep Detail Enhancement for Any Garment.**<br>
 *Meng Zhang, Tuanfeng Wang, Duygu Ceylan, Niloy J. Mitra.*<br>
 Eurographics 2021. [[PDF](https://arxiv.org/pdf/2008.04367.pdf)]
-
-**Towards Multi-Layered 3D Garments Animation.**<br>
-*Yidi Shao, Chen Change Loy, Bo Dai.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/pdf/2305.10418.pdf)] [[Project](https://mmlab-ntu.github.io/project/layersnet/index.html)]
-
-**Garment Avatars: Realistic Cloth Driving using Pattern Registration.**<br>
-*Oshri Halimi, Fabian Prada, Tuur Stuyck, Donglai Xiang, Timur Bagautdinov, He Wen, Ron Kimmel, Takaaki Shiratori, Chenglei Wu, Yaser Sheikh.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03373)]
-
-**Dynamic Neural Garments.**<br>
-*[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](http://www.duygu-ceylan.com/), [Tuanfeng Wang](http://geometry.cs.ucl.ac.uk/tuanfeng/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2021/DynamicNeuralGarments/)]
-
-**Point-Based Modeling of Human Clothing.**<br>
-*Ilya Zakharkin, Kirill Mazur, Artur Grigoriev, Victor Lempitsky.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08230)]
-
-**Deep Deformation Detail Synthesis for Thin Shell Models.**<br>
-*Lan Chen, Lin Gao, Jie Yang, Shibiao Xu, Juntao Ye, Xiaopeng Zhang, Yu-Kun Lai.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11541)]
-
-**Neural 3D Clothes Retargeting from a Single Image.**<br>
-*Jae Shin Yoon, Kihwan Kim, Jan Kautz, Hyun Soo Park.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2102.00062)]
-
-**Physically Based Neural Simulator for Garment Animation.**<br>
-*Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11310)]
-
-**Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture.**<br>
-*Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler, Christian Theobalt.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12866)]
 
 **Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People.**<br>
 *Akin Caliskan, Adrian Hilton.*<br>
@@ -1027,21 +1008,21 @@ ECCV 2020. [[PDF](http://cs.umd.edu/~liangjb/docs/ICCV2019.pdf)] [[Project](http
 *Erhan Gundogdu, Victor Constantin, Shaifali Parashar, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
 TPAMI 2020. [[PDF](https://arxiv.org/abs/2007.10867)]
 
-**Neural Non-Rigid Tracking.**<br>
-*Aljaž Božič, Pablo Palafox, Michael Zollhöfer, Angela Dai, Justus Thies, Matthias Nießner.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.13240)]
-
 **Homogenized Yarn-Level Cloth.**<br>
 *[Georg Sperl](https://pub.ist.ac.at/~gsperl/), Rahul Narain, Chris Wojtan.*<br>
 SIGGRAPH (TOG) 2020. [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf)] [[Project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)] [[Data & Code](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip)]
 
+**CLOTH3D: Clothed 3D Humans.**<br>
+*Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792)]
+
+**CAPE: Learning to Dress 3D People in Generative Clothing.**<br>
+*[Qianli Ma](https://ps.is.tue.mpg.de/person/qma), Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1907.13615v2)] 	[[Project](http://ps.is.mpg.de/publications/cape-cvpr-20)]
+
 **DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.**<br>
 *Aljaž Božič, Michael Zollhöfer, Christian Theobalt, Matthias Nießner.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.04302)] [[Project](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3187203)] [[Github](https://github.com/AljazBozic/DeepDeform)] [[DeepDeform Benchmark](http://kaldir.vc.in.tum.de/deepdeform_benchmark)]
-
-**Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images.**<br>
-*Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, Xiaoguang Han.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12753)] [[Project](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)]
 
 **Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion.**<br>
 *Julian Chibane, [Thiemo Alldieck](https://graphics.tu-bs.de/people/alldieck), Gerard Pons-Moll.*<br>
@@ -1071,29 +1052,53 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](h
 *Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, [Gerard Pons-Moll](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/gerard-pons-moll/)(REAL VIRTUAL HUMANS, MPII).*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1908.06903)]
 
-**CAPE: Learning to Dress 3D People in Generative Clothing.**<br>
-*[Qianli Ma](https://ps.is.tue.mpg.de/person/qma), Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1907.13615v2)] 	[[Project](http://ps.is.mpg.de/publications/cape-cvpr-20)]
-
 **DRAPE: DRessing Any PErson.**<br>
 *Peng Guan, Loretta Reiss, David A. Hirshberg, Alexander Weiss, Michael J. Black.*<br>
 ACM Transactions on Graphics (TOG) 2012.
 [[PDF](https://dl.acm.org/citation.cfm?doid=2185520.2185531)]
 [[Project](https://ps.is.tue.mpg.de/research_projects/drape-dressing-any-person)]
 
-**CLOTH3D: Clothed 3D Humans.**<br>
+**ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns.**<br>
+*Ren Li, Benoît Guillard, Pascal Fua.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.14100)]
+
+**Towards Multi-Layered 3D Garments Animation.**<br>
+*Yidi Shao, Chen Change Loy, Bo Dai.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/pdf/2305.10418.pdf)] [[Project](https://mmlab-ntu.github.io/project/layersnet/index.html)]
+
+**Garment Avatars: Realistic Cloth Driving using Pattern Registration.**<br>
+*Oshri Halimi, Fabian Prada, Tuur Stuyck, Donglai Xiang, Timur Bagautdinov, He Wen, Ron Kimmel, Takaaki Shiratori, Chenglei Wu, Yaser Sheikh.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03373)]
+
+**Point-Based Modeling of Human Clothing.**<br>
+*Ilya Zakharkin, Kirill Mazur, Artur Grigoriev, Victor Lempitsky.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08230)]
+
+**Deep Deformation Detail Synthesis for Thin Shell Models.**<br>
+*Lan Chen, Lin Gao, Jie Yang, Shibiao Xu, Juntao Ye, Xiaopeng Zhang, Yu-Kun Lai.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11541)]
+
+**Neural 3D Clothes Retargeting from a Single Image.**<br>
+*Jae Shin Yoon, Kihwan Kim, Jan Kautz, Hyun Soo Park.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2102.00062)]
+
+**Physically Based Neural Simulator for Garment Animation.**<br>
 *Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11310)]
+
+**Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture.**<br>
+*Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler, Christian Theobalt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12866)]
+
+**Neural Non-Rigid Tracking.**<br>
+*Aljaž Božič, Pablo Palafox, Michael Zollhöfer, Angela Dai, Justus Thies, Matthias Nießner.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.13240)]
+
+**Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images.**<br>
+*Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, Xiaoguang Han.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12753)] [[Project](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)]
 
 ## Human Image and Video Generation
-
-**Text2Performer: Text-Driven Human Video Generation.**<br>
-*Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/pdf/2304.08483.pdf)] [[Project](https://yumingj.github.io/projects/Text2Performer.html)] [[Github](https://github.com/yumingj/Text2Performer)]
-
-**LEO: Generative Latent Image Animator for Human Video Synthesis.**<br>
-*Yaohui Wang, Xin Ma, Xinyuan Chen, Antitza Dantcheva, Bo Dai, Yu Qiao.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03989v1)] [[Project](https://wyhsirius.github.io/LEO-project/)]
 
 **Cross Attention Based Style Distribution for Controllable Person Image Synthesis.**<br>
 *Xinyue Zhou, Mingyu Yin, Xinyuan Chen, Li Sun, Changxin Gao, Qingli Li.*<br>
@@ -1147,13 +1152,25 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://gi
 *Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou.*<br>
 IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.com/siyuhuang/PoseStylizer)]
 
+**Text-guided 3D Human Generation from 2D Collections.**<br>
+*Tsu-Jui Fu, Wenhan Xiong, Yixin Nie, Jingyu Liu, Barlas Oğuz, William Yang Wang.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.14312)] [[Project](https://text-3dh.github.io/)]
+
+**Text2Performer: Text-Driven Human Video Generation.**<br>
+*Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/pdf/2304.08483.pdf)] [[Project](https://yumingj.github.io/projects/Text2Performer.html)] [[Github](https://github.com/yumingj/Text2Performer)]
+
+**LEO: Generative Latent Image Animator for Human Video Synthesis.**<br>
+*Yaohui Wang, Xin Ma, Xinyuan Chen, Antitza Dantcheva, Bo Dai, Yu Qiao.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03989)] [[Project](https://wyhsirius.github.io/LEO-project/)]
+
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br> 
-SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.04451v1)]
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.04451)]
 
 **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions.**<br>
 *Sangyun Lee, Gyojung Gu, Sunghyun Park, Seunghwan Choi, Jaegul Choo.*<br>
@@ -1166,42 +1183,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2207.09161)]
 **MGN: A Regional Mask Guided Network for Parser-free Virtual Try-on.**<br>
 *Chao Lin, Zhao Li, Sheng Zhou, Shichang Hu, Jialun Zhang, Linhao Luo, Jiarun Zhang, Longtao Huang, Yuan He.*<br>
 IJCAI 2022. [[PDF](https://arxiv.org/abs/2204.11258)]
-
-**Dress Code: High-Resolution Multi-Category Virtual Try-On.**<br>
-*Davide Morelli, Matteo Fincato, Marcella Cornia, Federico Landi, Fabio Cesari, Rita Cucchiara.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Github](https://github.com/aimagelab/dress-code)] [[Dress Code Dataset](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform?usp=send_form)]
-
-**Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
-*Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07200)]
-
-**Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
-*[Kripasindhu Sarkar](https://people.mpi-inf.mpg.de/~ksarkar/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Lingjie Liu](https://lingjie0206.github.io/), Christian Theobalt.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11263)] [[Project](http://gvv.mpi-inf.mpg.de/projects/Styleposegan/)]
-
-**Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation.**<br>
-*Shizhu Liu, Shanglin Yang, Hui Zhou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06229)]
-
-**Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
-*Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
-
-**Learning Color Compatibility in Fashion Outfits.**<br>
-*Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02388)]
-
-**GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
-*Amir Hossein Raffiee, Michael Sollami.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
-
-**TailorGAN: Making User-Defined Fashion Designs.**<br>
-*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06427)] [[Github](https://github.com/gli-27/TailorGAN)]
-
-**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
-*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)] [[Github](https://github.com/levindabhi/SieveNet)]
 
 **ClothFormer: Taming Video Virtual Try-on in All Module.**<br> 
 *Jianbin Jiang, Tan Wang, He Yan, Junhui Liu.*<br> 
@@ -1315,15 +1296,48 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1807.07688)]
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
+
+**Dress Code: High-Resolution Multi-Category Virtual Try-On.**<br>
+*Davide Morelli, Matteo Fincato, Marcella Cornia, Federico Landi, Fabio Cesari, Rita Cucchiara.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Github](https://github.com/aimagelab/dress-code)] [[Dress Code Dataset](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform?usp=send_form)]
+
+**Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
+*Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07200)]
+
+**Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
+*[Kripasindhu Sarkar](https://people.mpi-inf.mpg.de/~ksarkar/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Lingjie Liu](https://lingjie0206.github.io/), Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11263)] [[Project](http://gvv.mpi-inf.mpg.de/projects/Styleposegan/)]
+
+**Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation.**<br>
+*Shizhu Liu, Shanglin Yang, Hui Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06229)]
+
+**Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
+*Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
+
+**Learning Color Compatibility in Fashion Outfits.**<br>
+*Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02388)]
+
+**GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
+*Amir Hossein Raffiee, Michael Sollami.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
+
+**TailorGAN: Making User-Defined Fashion Designs.**<br>
+*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06427)] [[Github](https://github.com/gli-27/TailorGAN)]
+
+**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
+*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)] [[Github](https://github.com/levindabhi/SieveNet)]
+
 ## Human Body Reshaping
 
 **Structure-Aware Flow Generation for Human Body Reshaping.**<br>
 *[Jianqiang Ren](https://github.com/JianqiangRen), Yuan Yao, Biwen Lei, Miaomiao Cui, Xuansong Xie.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.04670)] [[Github](https://github.com/JianqiangRen/FlowBasedBodyReshaping)]
-
-**NeuralReshaper: Single-image Human-body Retouching with Deep Neural Networks.**<br>
-*Beijia Chen, Hongbo Fu, Xiang Chen, Kun Zhou, Youyi Zheng.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10496)]
 
 **Real-Time Reshaping of Humans.**<br>
 *Michal Richter, Kiran Varanasi, Nils Hasler, Christian Theobalt.*<br>
@@ -1336,6 +1350,10 @@ SIGGRAPH Asia 2010. [[PDF](http://www.mpi-inf.mpg.de/resources/MovieReshape/Movi
 **Parametric reshaping of human bodies in images.**<br>
 *Shizhe Zhou, Hongbo Fu,  Ligang Liu, Daniel Cohen-Or, Xiaoguang Han.*<br>
 SIGGRAPH 2010. [[PDF](https://dl.acm.org/doi/10.1145/1833349.1778863)]
+
+**NeuralReshaper: Single-image Human-body Retouching with Deep Neural Networks.**<br>
+*Beijia Chen, Hongbo Fu, Xiang Chen, Kun Zhou, Youyi Zheng.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10496)]
 
 ### Scene context-aware Human Body Generation
 
@@ -1352,6 +1370,14 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Gen
 **GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras.**<br>
 *[Ye Yuan](https://www.ye-yuan.com/), [Umar Iqbal](http://www.umariqbal.info/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov/), [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), [Jan Kautz](https://jankautz.com/).*<br>
 CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2112.01524)] [[Project](https://nvlabs.github.io/GLAMR)] [[Github](https://github.com/NVlabs/GLAMR)]
+
+**Shapy: Accurate 3D Body Shape Regression Using Metric and Semantic Attributes.**<br>
+*Vasileios Choutas, Lea Muller, Chun-Hao P. Huang, Siyu Tang, Dimitrios Tzionas, Michael J. Black.*<br> 
+CVPR 2022. [[PDF](http://arxiv.org/abs/2206.07036)] [[Project](https://shapy.is.tue.mpg.de/)] [[Github](https://github.com/muelea/shapy)]
+
+**PoseScript: 3D Human Poses from Natural Language.**<br>
+*Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br> 
+ECCV 2022. [[PDF](http://arxiv.org/abs/2210.11795)] [[Github](https://github.com/naver/posescript)]
 
 ### Human-Centric Perception
 
