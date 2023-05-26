@@ -322,6 +322,10 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17368)] [[Project](https://maoxie.
 *[Taoran Yi](https://taoranyi.com/), [Jiemin Fang](https://jaminfong.cn/), [Xinggang Wang](https://xinggangw.info/), [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/).*<br>
 arxiv 2023. [[PDF](https://arxiv.org/abs/2303.15387)] [[Project](http://taoranyi.com/gneuvox/)] [[Github](https://github.com/hustvl/GNeuVox)]
 
+**3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective.**<br>
+*[Zhedong Zheng](homepage), Jiayin Zhu, Wei Ji, Yi Yang, and Tat-Seng Chua.*<br>
+arxiv 2022. [[PDF](https://www.zdzheng.xyz/files/3D_Recon.pdf)] [[Project]([link](https://www.zdzheng.xyz/publication/3D-Magic2022))] [[Github]([link](https://github.com/layumi/3D-Magic-Mirror))] 
+
 **Structured 3D Features for Reconstructing Relightable and Animatable Avatars.**<br>
 *Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.06820)] [[Project](https://enriccorona.github.io/s3f/)]
