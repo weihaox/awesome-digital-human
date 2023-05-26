@@ -86,6 +86,10 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)] [[Project](https://yukangc
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
 
+**CLIPFace: Text-guided Editing of Textured 3D Morphable Models.**<br>
+*[Shivangi Aneja](https://niessnerlab.org/members/shivangi_aneja/profile.html), [Justus Thies](https://is.mpg.de/~jthies), [Angela Dai](https://www.professoren.tum.de/en/dai-angela), [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html).*<br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2212.01406)] [[Project](https://shivangi-aneja.github.io/projects/clipface/)] [[Github](https://github.com/shivangi-aneja/ClipFace)]
+
 **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance.**<br>
 *Longwen Zhang, Qiwei Qiu, Hongyang Lin, Qixuan Zhang, Cheng Shi, Wei Yang, Ye Shi, Sibei Yang, Lan Xu, Jingyi Yu.*<br>
 SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)]
@@ -323,8 +327,8 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17368)] [[Project](https://maoxie.
 arxiv 2023. [[PDF](https://arxiv.org/abs/2303.15387)] [[Project](http://taoranyi.com/gneuvox/)] [[Github](https://github.com/hustvl/GNeuVox)]
 
 **3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective.**<br>
-*[Zhedong Zheng](homepage), Jiayin Zhu, Wei Ji, Yi Yang, and Tat-Seng Chua.*<br>
-arxiv 2022. [[PDF](https://www.zdzheng.xyz/files/3D_Recon.pdf)] [[Project]([link](https://www.zdzheng.xyz/publication/3D-Magic2022))] [[Github]([link](https://github.com/layumi/3D-Magic-Mirror))] 
+*[Zhedong Zheng](https://www.zdzheng.xyz/), Jiayin Zhu, Wei Ji, Yi Yang, and Tat-Seng Chua.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.13096)] [[Project](https://www.zdzheng.xyz/publication/3D-Magic2022)] [[Github](https://github.com/layumi/3D-Magic-Mirror))] 
 
 **Structured 3D Features for Reconstructing Relightable and Animatable Avatars.**<br>
 *Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu.*<br>
