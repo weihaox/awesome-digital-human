@@ -72,6 +72,14 @@ SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https:
 *[Zijian Dong](https://ait.ethz.ch/people/zijian/), [Xu Chen](https://ait.ethz.ch/people/xu/), [Jinlong Yang](https://is.mpg.de/~jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Andreas Geiger](http://www.cvlibs.net/).*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02312)] [[Project](https://zj-dong.github.io/AG3D/)] [[Github](https://github.com/zj-dong/AG3D)]
 
+**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image.**<br>
+*Zhenzhen Weng, Zeyu Wang, Serena Yeung.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2305.16411)]
+
+**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation.**<br>
+*Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, Bin Fu, Tao Chen, Guosheng Lin, Chunhua Shen.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.19012)] [[Github](https://github.com/icoz69/StyleAvatar3D)]
+
 **Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors.**<br>
 *Zhangyang Xiong, Di Kang, Derong Jin, Weikai Chen, Linchao Bao, Xiaoguang Han.*<br>
 arxiv 2023. [[PDF](https://arxiv.org/abs/2302.01162)]
@@ -92,7 +100,7 @@ SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2212.01406)] [[Project](https://shiv
 
 **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance.**<br>
 *Longwen Zhang, Qiwei Qiu, Hongyang Lin, Qixuan Zhang, Cheng Shi, Wei Yang, Ye Shi, Sibei Yang, Lan Xu, Jingyi Yu.*<br>
-SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)]
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)] [[Demo](https://hyperhuman.deemos.com/)] [[HuggingFace](https://huggingface.co/spaces/DEEMOSTECH/ChatAvatar)]
 
 **StyleAvatar: Real-time Photo-realistic Neural Portrait Avatar from a Single Video.**<br>
 *Lizhen Wang, Xiaochen Zhao, Jingxiang Sun, Yuxiang Zhang, Hongwen Zhang, Tao Yu✝, Yebin Liu.*<br>
@@ -162,6 +170,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Github](https://github.c
 [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/),
 [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Github](https://github.com/lattas/AvatarMe)]
+
+**AlteredAvatar: Stylizing Dynamic 3D Avatars with Fast Style Adaptation.**<br>
+*Thu Nguyen-Phuoc, Gabriel Schwartz, Yuting Ye, Stephen Lombardi, Lei Xiao.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.19245)] [[Project](https://alteredavatar.github.io)]
 
 **Towards Realistic Generative 3D Face Models.**<br>
 *[Aashish Rai](https://aashishrai3799.github.io/), [Hiresh Gupta](https://hireshgupta1997.github.io/), Ayush Pandey, Francisco Vicente Carrasco, Shingo Jason Takagi, Amaury Aubel, Daeil Kim, [Aayush Prakash](https://aayushp.github.io/), [Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/).*<br>
