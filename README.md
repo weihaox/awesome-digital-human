@@ -48,6 +48,10 @@ Highavenue: Turn yourself into a 3D model.
 *Connor Z. Lin, Koki Nagano, Jan Kautz, Eric R. Chan, Umar Iqbal, Leonidas Guibas, Gordon Wetzstein, Sameh Khamis.*<br>
 SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.03043)] [[Project](https://research.nvidia.com/labs/toronto-ai/ssif/)] [[Github]()]
 
+**Learning Locally Editable Virtual Humans.**<br>
+*[Hsuan-I Ho](https://azuxmioy.github.io/), [Lixin Xue](https://lxxue.github.io/), [Jie Song](https://ait.ethz.ch/people/song), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
+CVPR 2023. [[PDF](https://files.ait.ethz.ch/projects/custom-humans/paper.pdf)] [[Project](https://custom-humans.github.io/)] [[Github](https://github.com/custom-humans/editable-humans)]
+
 **PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
 *[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
@@ -67,6 +71,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
+
+**DreamHuman: Animatable 3D Avatars from Text.**<br>
+*[Nikos Kolotouros](https://www.nikoskolot.com/), [Thiemo Alldieck](https://research.google/people/107250/), [Andrei Zanfir](https://scholar.google.com/citations?user=8lmzWycAAAAJ&hl=en&oi=ao), [Eduard Gabriel Bazavan](https://research.google/people/107659/), [Mihai Fieraru](https://mihaifieraru.github.io/), [Cristian Sminchisescu](https://research.google/people/CristianSminchisescu/).*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09329)] [[Project](https://dream-human.github.io/)] [[Avatar Gallery](https://dream-human.github.io/avatar_gallery.html)]
 
 **AG3D: Learning to Generate 3D Avatars from 2D Image Collections.**<br>
 *[Zijian Dong](https://ait.ethz.ch/people/zijian/), [Xu Chen](https://ait.ethz.ch/people/xu/), [Jinlong Yang](https://is.mpg.de/~jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Andreas Geiger](http://www.cvlibs.net/).*<br> 
@@ -170,6 +178,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Github](https://github.c
 [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/),
 [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Github](https://github.com/lattas/AvatarMe)]
+
+**Generalizable One-shot Neural Head Avatar.**<br>
+*Xueting Li, Shalini De Mello, Sifei Liu, Koki Nagano, Umar Iqbal, Jan Kautz.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2306.08768)]
+
+**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars.**<br>
+*Mohit Mendiratta. Xingang Pan, Mohamed Elgharib, Kartik Teotia, Mallikarjun B R, Ayush Tewari, Vladislav Golyanik, Adam Kortylewski, Christian Theobalt.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.00547)] [[Project](https://vcai.mpi-inf.mpg.de/projects/AvatarStudio/)]
 
 **AlteredAvatar: Stylizing Dynamic 3D Avatars with Fast Style Adaptation.**<br>
 *Thu Nguyen-Phuoc, Gabriel Schwartz, Yuting Ye, Stephen Lombardi, Lei Xiao.*<br> 
@@ -975,6 +991,10 @@ ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICCV17.p
 **REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos.**<br>
 *[Lingteng Qiu](https://lingtengqiu.github.io/), [Guanying Chen](https://guanyingc.github.io/), Jiapeng Zhou, [Mutian Xu](https://mutianxu.github.io/), Junle Wang, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/).*<br> 
 CVPR 2023. [[PDF](http://arxiv.org/abs/2305.14236)] [[Project](https://lingtengqiu.github.io/2023/REC-MV/)] [[Github](https://github.com/GAP-LAB-CUHK-SZ/REC-MV)]
+
+**HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics.**<br>
+*[Artur Grigorev](https://dolorousrtur.github.io/), [Bernhard Thomaszewski](https://n.ethz.ch/~bthomasz/index.html), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.07242)] [[Project](https://dolorousrtur.github.io/hood/)] [[Github](https://github.com/Dolorousrtur/HOOD)]
 
 **Motion Guided Deep Dynamic 3D Garments.**<br>
 *[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](https://research.adobe.com/person/duygu-ceylan/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
