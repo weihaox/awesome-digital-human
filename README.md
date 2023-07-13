@@ -72,6 +72,13 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
 
+<<<<<<< Updated upstream
+=======
+**Efficient 3D Articulated Human Generation with Layered Surface Volumes.**<br>
+*Yinghao Xu, Wang Yifan, Alexander W. Bergman, Menglei Chai, Bolei Zhou, Gordon Wetzstein.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2307.05462)] [[Project](https://www.computationalimaging.org/publications/lsv/)]
+
+>>>>>>> Stashed changes
 **AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation.**<br>
 *[Yifei Zeng](https://github.com/zeng-yifei), [Yuanxun Lu](https://github.com/YuanxunLu), [Xinya Ji](https://github.com/jixinya), [Yao Yao](https://yoyo000.github.io/), [Hao Zhu](http://zhuhao.cc/), [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html).*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09864)] [[Project](https://zeng-yifei.github.io/avatarbooth_page/)] [[Github](https://github.com/zeng-yifei/AvatarBooth)]
@@ -182,6 +189,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Github](https://github.c
 [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/),
 [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Github](https://github.com/lattas/AvatarMe)]
+
+**Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models.**<br>
+*Alexander W. Bergman, Wang Yifan, Gordon Wetzstein.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2307.04859)] [[Project](http://www.computationalimaging.org/publications/articulated-diffusion/)]
 
 **Generalizable One-shot Neural Head Avatar.**<br>
 *[Xueting Li](https://sunshineatnoon.github.io/), [Shalini De Mello](https://research.nvidia.com/person/shalini-de-mello), [Sifei Liu](https://www.sifeiliu.net/), [Koki Nagano](https://luminohope.org/), [Umar Iqbal](https://research.nvidia.com/person/umar-iqbal), [Jan Kautz](https://jankautz.com/).*<br> 
