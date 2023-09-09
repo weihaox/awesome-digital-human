@@ -72,13 +72,22 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Github](https://github.com/hongfz16/AvatarCLIP)] 
 
+**MagicAvatar: Multimodal Avatar Generation and Animation.**<br>
+*Jianfeng Zhang, Hanshu Yan, Zhongcong Xu, Jiashi Feng, Jun Hao Liew.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)]
+[[Project](https://magic-avatar.github.io/)]
+
+**TADA! Text to Animatable Digital Avatars.**<br>
+*[Tingting Liao](https://github.com/TingtingLiao), [Hongwei Yi](https://xyyhw.top/), [Yuliang Xiu](http://xiuyuliang.cn/), [Jiaxiang Tang](https://me.kiui.moe/), [Yangyi Huang](https://github.com/huangyangyi/), [Justus Thies](https://justusthies.github.io/), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
+arxiv 2023. [[PDF](https://arxiv.org)] [[Project](https://tada.is.tue.mpg.de/)] [[Github](https://github.com/TingtingLiao/TADA)]
+
 **SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes.**<br>
 *Soubhik Sanyal, Partha Ghosh, Jinlong Yang, Michael J. Black, Justus Thies, Timo Bolkart.*<br>
 arxiv 2023. [[PDF](https://arxiv.org/abs/2308.10638)] [[Project](https://huangyangyi.github.io/tech/)]
 
 **Guide3D: Create 3D Avatars from Text and Image Guidance.**<br>
 *Yukang Cao, Yan-Pei Cao, Kai Han, Ying Shan, Kwan-Yee K. Wong.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.09705v1)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.09705)]
 
 **Efficient 3D Articulated Human Generation with Layered Surface Volumes.**<br>
 *Yinghao Xu, Wang Yifan, Alexander W. Bergman, Menglei Chai, Bolei Zhou, Gordon Wetzstein.*<br> 
@@ -256,6 +265,11 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.p
 **TEACH: Temporal Action Composition for 3D Human.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
 3DV 2022. [[PDF](https://arxiv.org/abs/2209.04066)] [[Project](https://teach.is.tue.mpg.de/)] [[Github](https://github.com/athn-nik/teach)]
+
+**Total Selfie: Generating Full-Body Selfies.**<br>
+*Bowei Chen, Brian Curless, Ira Kemelmacher-Shlizerman, Steve Seitz.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14740)]
+[[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)]
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
@@ -1020,7 +1034,7 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 
 **BodyFusion: Real-time Capture of Human Motion and Surface Geometry Using a Single Depth Camera.**<br>
 *[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
-ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICCV17.pdf)] [[Project]()]
+ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pdf)] [[Project]()]
 
 ## 3D People Dressing, Cloth Draping and Simulation
 
@@ -1230,7 +1244,7 @@ IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.c
 
 **HumanLiff: Layer-wise 3D Human Generation with Diffusion Model.**<br>
 *Shoukang Hu, Fangzhou Hong, Tao Hu, Liang Pan, Haiyi Mei, Weiye Xiao, Lei Yang, Ziwei Liu.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.09712v1)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.09712)]
 [[Project](https://skhu101.github.io/HumanLiff/)]
 
 **Text-guided 3D Human Generation from 2D Collections.**<br>
