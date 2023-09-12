@@ -18,23 +18,21 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[D
 ```
 
 <details><summary>Table of Contents</summary><p>
-
+	
 - [Industry Demo or Product](#industry-demo-or-product)
 - [3D Human Avatar Generation and Animation](#3d-human-avatar-generation-and-animation)
-- [3D Head Avatar (from 2D Collections)](#3d-head-avatar--from-2d-collections-)
-- [Clothed People Digitalization](#clothed-people-digitalization)
+- [3D Head Animatable Avatar (from 2D Image Collections)](#3d-head-animatable-avatar--from-2d-image-collections-)
+- [(Clothed) Human Motion Generation](#-clothed--human-motion-generation)
+- [Clothed Human Digitalization](#clothed-human-digitalization)
 - [3D People Dressing, Cloth Draping and Simulation](#3d-people-dressing--cloth-draping-and-simulation)
-- [Human Image and Video Generation](#human-image-generation)
+- [Human Image and Video Generation](#human-image-and-video-generation)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
 - [Human Body Reshaping](#human-body-reshaping)
-- [Human Mesh Recovery](#human-mesh-recovery)
 - [Garment Design](#garment-design)
 - [Fashion Style Influences](#fashion-style-influences)
 - [Team and People](#team-and-people)
 - [Dataset](#dataset)
 - [Applications](#applications)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 </p></details><p></p>
 
@@ -375,6 +373,11 @@ CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900)]
 **HumanGen: Generating Human Radiance Fields with Explicit Priors.**<br>
 *Suyi Jiang, Haoran Jiang, Ziyu Wang, Haimin Luo, Wenzheng Chen, Lan Xu.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2212.05321)]
+
+**Mirror-Aware Neural Humans.**<br>
+*Daniel Ajisafe, James Tang, Shih-Yang Su, Bastian Wandt, Helge Rhodin.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2309.04750)]
+[[Project](https://danielajisafe.github.io/mirror-aware-neural-humans/)]
 
 **TeCH: Text-guided Reconstruction of Lifelike Clothed Humans.**<br>
 *[Yangyi Huang](https://huangyangyi.github.io/), [Hongwei Yi](https://xyyhw.top/), [Yuliang Xiu](https://xiuyuliang.cn/), [Tingting Liao](https://github.com/tingtingliao), [Jiaxiang Tang](https://me.kiui.moe/), [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/), [Justus Thies](http://justusthies.github.io/).*<br>
@@ -1241,6 +1244,10 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://gi
 **Generating Person Images with Appearance-aware Pose Stylizer.**<br>
 *Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou.*<br>
 IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.com/siyuhuang/PoseStylizer)]
+
+**VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis.**<br>
+*Xinya Chen, Jiaxin Huang, Yanrui Bin, Lu Yu, Yiyi Liao.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2309.04800)]
 
 **HumanLiff: Layer-wise 3D Human Generation with Diffusion Model.**<br>
 *Shoukang Hu, Fangzhou Hong, Tao Hu, Liang Pan, Haiyi Mei, Weiye Xiao, Lei Yang, Ziwei Liu.*<br> 
