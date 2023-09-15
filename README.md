@@ -72,8 +72,15 @@ SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https:
 
 **MagicAvatar: Multimodal Avatar Generation and Animation.**<br>
 *Jianfeng Zhang, Hanshu Yan, Zhongcong Xu, Jiashi Feng, Jun Hao Liew.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)]
-[[Project](https://magic-avatar.github.io/)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)] [[Project](https://magic-avatar.github.io/)]
+
+**Learning Disentangled Avatars with Hybrid 3D Representations.**<br>
+*[Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Weiyang Liu](https://wyliu.com/), [Timo Bolkart](https://sites.google.com/site/bolkartt/), [Jinlong Yang](https://is.mpg.de/~jyang), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06441)] [[Project](https://yfeng95.github.io/delta/)] [[GitHub](https://github.com/yfeng95/DELTA)]
+
+**Text-Guided Generation and Editing of Compositional 3D Avatars.**<br>
+*[Hao Zhang](https://haozhang990127.github.io/), [Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Peter Kulits](https://kulits.github.io/), [Yandong Wen](https://is.mpg.de/person/ydwen), [Justus Thies](https://justusthies.github.io/), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.07125)] [[Project](https://yfeng95.github.io/teca/)]
 
 **TADA! Text to Animatable Digital Avatars.**<br>
 *[Tingting Liao](https://github.com/TingtingLiao), [Hongwei Yi](https://xyyhw.top/), [Yuliang Xiu](http://xiuyuliang.cn/), [Jiaxiang Tang](https://me.kiui.moe/), [Yangyi Huang](https://github.com/huangyangyi/), [Justus Thies](https://justusthies.github.io/), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
