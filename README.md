@@ -46,6 +46,10 @@ Highavenue: Turn yourself into a 3D model.
 *Connor Z. Lin, Koki Nagano, Jan Kautz, Eric R. Chan, Umar Iqbal, Leonidas Guibas, Gordon Wetzstein, Sameh Khamis.*<br>
 SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.03043)] [[Project](https://research.nvidia.com/labs/toronto-ai/ssif/)] [[Code]()]
 
+**GETAvatar: Generative Textured Meshes for Animatable Human Avatars.**<br>
+*Xuanmeng Zhang, Jianfeng Zhang, Rohan Chacko, Hongyi Xu, Guoxian Song, Yi Yang, Jiashi Feng.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2310.02714)] [[Project](https://getavatar.github.io/)]
+
 **Learning Locally Editable Virtual Humans.**<br>
 *[Hsuan-I Ho](https://azuxmioy.github.io/), [Lixin Xue](https://lxxue.github.io/), [Jie Song](https://ait.ethz.ch/people/song), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
 CVPR 2023. [[PDF](https://files.ait.ethz.ch/projects/custom-humans/paper.pdf)] [[Project](https://custom-humans.github.io/)] [[Code](https://github.com/custom-humans/editable-humans)]
@@ -304,6 +308,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyua
 **Recovering 3D Human Mesh from Monocular Images: A Survey.**<br>
 *[Yating Tian](https://github.com/tinatiansjz), [Hongwen Zhang](https://github.com/HongwenZhang), [Yebin Liu](https://www.liuyebin.com/), [Limin Wang](https://wanglimin.github.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.com/tinatiansjz/hmr-survey)] [[Dataset](https://github.com/tinatiansjz/hmr-survey#datasets)] [[Benchmarks](https://github.com/tinatiansjz/hmr-survey#benchmarks)]
+
+**Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction.**<br>
+*Zechuan Zhang, Li Sun, Zongxin Yang, Ling Chen, Yi Yang.*<br>
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2309.13524)]
 
 **Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction.**<br>
 *Hyeongjin Nam, Daniel Sungho Jung, Yeonguk Oh, Kyoung Mu Lee.*<br>
@@ -1203,6 +1211,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.13240)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12753)] [[Project](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)]
 
 ## Human Image and Video Generation
+
+**UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation.**<br>
+*Jianglin Fu, Shikai Li, Yuming Jiang, Kwan-Yee Lin, Wayne Wu, Ziwei Liu.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2309.14335)] [[Project](https://unitedhuman.github.io/)] [[Github](https://github.com/UnitedHuman/UnitedHuman)] 
 
 **Cross Attention Based Style Distribution for Controllable Person Image Synthesis.**<br>
 *Xinyue Zhou, Mingyu Yin, Xinyuan Chen, Li Sun, Changxin Gao, Qingli Li.*<br>
