@@ -1,11 +1,11 @@
-# <p align=center>`awesome digital human`</p>
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Digital Human [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<!-- # <p align=center>`awesome digital human`</p> -->
+<!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-clothed-human) 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox)  -->
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-clothed-human)  -->
 
-A collection of resources on clothed people: full body recontruction, head reconstruction, digital human related projects, etc. 
+> A curated collection of resources on clothed people: full body recontruction, head reconstruction, digital human related projects, etc.  
 
 ## Contributing
 
@@ -221,12 +221,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2107.12512)] [[Project](https://crisalix
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com/lattas/AvatarMe)]
 
 **AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs.**<br>
-*[Alexandros Lattas](https://www.imperial.ac.uk/people/a.lattas),
-[Stylianos Moschoglou](https://www.doc.ic.ac.uk/~sm3515/),
-[Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis),
-[Baris Gecer](http://barisgecer.github.io),
-[Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/),
-[Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
+*[Alexandros Lattas](https://www.imperial.ac.uk/people/a.lattas), [Stylianos Moschoglou](https://www.doc.ic.ac.uk/~sm3515/), [Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis), [Baris Gecer](http://barisgecer.github.io), [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/), [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Code](https://github.com/lattas/AvatarMe)]
 
 **Generalizable One-shot Neural Head Avatar.**<br>
@@ -352,6 +347,10 @@ SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2304.13006)] [[Project](https://lizhe
 **SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction.**<br>
 *[Yukang Cao](https://yukangcao.github.io/), [Kai Han](https://www.kaihan.org/), [Kenneth Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/).*<br> 
 CVPR 2023. [[PDF](https://arxiv.org/abs/2304.00359)] [[Project](https://yukangcao.github.io/SeSDF/)] [[Code](https://yukangcao.github.io/)]
+
+**Structured 3D Features for Reconstructing Relightable and Animatable Avatars.**<br>
+*Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.06820)] [[Project](https://enriccorona.github.io/s3f/)]
 
 **Reconstructing Animatable Categories from Videos.**<br>
 *[Gengshan Yang](https://gengshan-y.github.io/), [Chaoyang Wang](https://mightychaos.github.io/), [N Dinesh Reddy](https://dineshreddy91.github.io/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/).*<br> 
@@ -613,6 +612,30 @@ SIGGRAPH Asia 2021. [[PDF](https://arxiv.org/abs/2106.14879)]
 *Timur Bagautdinov, Chenglei Wu, Tomas Simon, Fabian Prada, Takaaki Shiratori, Shih-En Wei, Weipeng Xu, Yaser Sheikh, Jason Saragih.*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2105.10441)]
 
+**High-Fidelity 3D Digital Human Head Creation from RGB-D Selfies.**<br>
+*Xiangkai Lin, Yajing Chen, Linchao Bao, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Xinwei Jiang, Jue Wang, Dong Yu, Zhengyou Zhang.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2010.05562)] [[Code](https://github.com/tencent-ailab/hifi3dface)] [[Project](https://github.com/tencent-ailab/hifi3dface_projpage)]
+
+**Real-time Deep Dynamic Characters.**<br>
+*Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2105.01794)] [[Project](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-ddc/)]
+
+**Learning Skeletal Articulations with Neural Blend Shapes.**<br>
+*Peizhuo Li, Kfir Aberman, Rana Hanocka, Libin Liu, Olga Sorkine-Hornung, Baoquan Chen.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2105.02451)] [[Video](https://youtu.be/antc20EFh6k)] [[Project](https://peizhuoli.github.io/neural-blend-shapes/)]
+
+**Detailed Avatar Recovery from Single Image.**<br>
+*Hao Zhu, Xinxin Zuo, Haotian Yang, Sen Wang, Xun Cao, Ruigang Yang.*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2108.02931)]
+
+**RSC-Net: 3D Human Pose, Shape and Texture from Low-Resolution Images and Videos.**<br>
+*Xiangyu Xu, Hao Chen, Francesc Moreno-Noguer, Laszlo A. Jeni, Fernando De la Torre.*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.06498)] [[Code](https://github.com/xuxy09/RSC-Net)] [[Project](https://sites.google.com/view/xiangyuxu/3d_eccv20)]
+
+**A Deeper Look into DeepCap.**<br>
+*[Marc Habermann](http://people.mpi-inf.mpg.de/~mhaberma/), [Weipeng Xu](http://people.mpi-inf.mpg.de/~wxu/), [Michael Zollhoefer](https://zollhoefer.com/), [Gerard Pons-Moll](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/gerard-pons-moll/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
+TPAMI 2021. [[PDF](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/data/paper.pdf)] [[Code](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/)] [[Data](https://gvv-assets.mpi-inf.mpg.de/)]
+
 **Learning Implicit 3D Representations of Dressed Humans from Sparse Views.**<br>
 *Pierre Zins, Yuanlu Xu, Edmond Boyer, Stefanie Wuhrer, Tony Tung.*<br>
 3DV 2021. [[PDF](https://arxiv.org/abs/2104.08013)]
@@ -705,29 +728,9 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2108.05126)]
 *[Sida Peng](https://pengsida.net/), Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2105.02872)] [[Project](https://zju3dv.github.io/animatable_nerf/)] [[Code](https://github.com/zju3dv/animatable_nerf)]
 
-**High-Fidelity 3D Digital Human Head Creation from RGB-D Selfies.**<br>
-*Xiangkai Lin, Yajing Chen, Linchao Bao, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Xinwei Jiang, Jue Wang, Dong Yu, Zhengyou Zhang.*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2010.05562)] [[Code](https://github.com/tencent-ailab/hifi3dface)] [[Project](https://github.com/tencent-ailab/hifi3dface_projpage)]
-
-**Real-time Deep Dynamic Characters.**<br>
-*Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2105.01794)] [[Project](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-ddc/)]
-
-**Learning Skeletal Articulations with Neural Blend Shapes.**<br>
-*Peizhuo Li, Kfir Aberman, Rana Hanocka, Libin Liu, Olga Sorkine-Hornung, Baoquan Chen.*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2105.02451)] [[Video](https://youtu.be/antc20EFh6k)] [[Project](https://peizhuoli.github.io/neural-blend-shapes/)]
-
-**Detailed Avatar Recovery from Single Image.**<br>
-*Hao Zhu, Xinxin Zuo, Haotian Yang, Sen Wang, Xun Cao, Ruigang Yang.*<br>
-TPAMI 2021. [[PDF](https://arxiv.org/abs/2108.02931)]
-
-**RSC-Net: 3D Human Pose, Shape and Texture from Low-Resolution Images and Videos.**<br>
-*Xiangyu Xu, Hao Chen, Francesc Moreno-Noguer, Laszlo A. Jeni, Fernando De la Torre.*<br>
-TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.06498)] [[Code](https://github.com/xuxy09/RSC-Net)] [[Project](https://sites.google.com/view/xiangyuxu/3d_eccv20)]
-
-**A Deeper Look into DeepCap.**<br>
-*[Marc Habermann](http://people.mpi-inf.mpg.de/~mhaberma/), [Weipeng Xu](http://people.mpi-inf.mpg.de/~wxu/), [Michael Zollhoefer](https://zollhoefer.com/), [Gerard Pons-Moll](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/gerard-pons-moll/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
-TPAMI 2021. [[PDF](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/data/paper.pdf)] [[Code](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-tpami-deeperdeepcap/)] [[Data](https://gvv-assets.mpi-inf.mpg.de/)]
+**Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies.**<br>
+*Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Xiaowei Zhou, Hujun Bao.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/pdf/2203.08133.pdf)] [[Project](https://zju3dv.github.io/animatable_nerf/)]
 
 **Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors.**<br>
 *Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.*<br>
@@ -929,6 +932,10 @@ CVPR 2020. [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chi
 *Marc Habermann, Weipeng Xu, Michael and Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
 CVPR 2020. [[PDF](https://virtualhumans.mpi-inf.mpg.de/)]
 
+**TetraTSDF: 3D Human Reconstruction from A Single Image with A Tetrahedral Outer Shell.**<br>
+*Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10534)] [[Code](https://github.com/diegothomas/TetraTSDF)]
+
 **Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People.**<br>
 *Akin Caliskan, Adrian Hilton.*<br>
 ACCV 2020. [[PDF](https://arxiv.org/abs/2009.14162)] [[Code](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)]
@@ -1045,10 +1052,6 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.15387)] [[Project](http://taoranyi
 *[Zhedong Zheng](https://www.zdzheng.xyz/), Jiayin Zhu, Wei Ji, Yi Yang, and Tat-Seng Chua.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.13096)] [[Project](https://www.zdzheng.xyz/publication/3D-Magic2022)] [[Code](https://github.com/layumi/3D-Magic-Mirror))] 
 
-**Structured 3D Features for Reconstructing Relightable and Animatable Avatars.**<br>
-*Enric Corona, Mihai Zanfir, Thiemo Alldieck, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2212.06820)] [[Project](https://enriccorona.github.io/s3f/)]
-
 **HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation.**<br>
 *Kaiduo Zhang, Muyi Sun, Jianxin Sun, Binghao Zhao, Kunbo Zhang, Zhenan Sun, Tieniu Tan.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.06235)]
@@ -1057,40 +1060,16 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.06235)]
 *Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.12100)]
 
-**PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images.**<br>
-*Zhangyang Xiong, Dong Du, Yushuang Wu, Jingqi Dong, Di Kang, Linchao Bao, Xiaoguang Han.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2208.10769)]
-
-**AvatarGen: a 3D Generative Model for Animatable Human Avatars.**<br>
-*Jianfeng Zhang, Zihang Jiang, Dingdong Yang, Hongyi Xu, Yichun Shi, Guoxian Song, Zhongcong Xu, Xinchao Wang, Jiashi Feng.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2208.00561)] [[Project](https://github.com/jfzhang95/AvatarGen)] [[Code](https://github.com/jfzhang95/AvatarGen)]
-
 **DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
 *[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
 arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
 
-**Animatable Neural Implicit Surfaces for Creating Avatars from Videos.**<br>
-*Sida Peng, Shangzhan Zhang, Zhen Xu, Chen Geng, Boyi Jiang, Hujun Bao, Xiaowei Zhou.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.08133.pdf)] [[Project](https://zju3dv.github.io/animatable_sdf/)]
-
-**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing.**<br>
-*Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06088)]
-
-**Learning Animatable Avatar with Barycentric Mapping and Variation Mining.**<br>
-*Yihao Zhi, [Shenhan Qian](https://shenhanqian.com/), Xinhao Yan, Shenghua Gao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)]
-
-**Animatable Neural Radiance Fields from Monocular RGB Videos.**<br>
-*Jianchuan Chen, Ying Zhang, Di Kang, Xuefei Zhe, Linchao Bao, Xu Jia, Huchuan Lu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13629)] [[Code](https://github.com/JanaldoChen/Anim-NeRF)]
-
-**TetraTSDF: 3D human reconstruction from a single image with a tetrahedral outer shell.**<br>
-*Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10534)]
-
 
 ## Cloth Modelling, Draping, Simulation, and Dressing
+
+**Towards Multi-Layered 3D Garments Animation.**<br>
+*Yidi Shao, Chen Change Loy, Bo Dai.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/pdf/2305.10418.pdf)] [[Project](https://mmlab-ntu.github.io/project/layersnet/index.html)]
 
 **REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos.**<br>
 *[Lingteng Qiu](https://lingtengqiu.github.io/), [Guanying Chen](https://guanyingc.github.io/), Jiapeng Zhou, [Mutian Xu](https://mutianxu.github.io/), Junle Wang, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/).*<br> 
@@ -1108,10 +1087,6 @@ CGF 2023. [[PDF](https://arxiv.org/abs/2102.11541)]
 *[Meng Zhang](https://mengzephyr.com/), [Duygu Ceylan](https://research.adobe.com/person/duygu-ceylan/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
 SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/pdf/2209.11449.pdf)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2022/MotionDeepGarment/)]
 
-**DIG: Draping Implicit Garment over the Human Body.**<br>
-*Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua.*<br>
-ACCV 2022. [[PDF](https://arxiv.org/abs/2209.10845)]
-
 **Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks.**<br>
 *Xiaoyu Pan, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, Tianjia Shao, Kun Zhou, Xiaogang Jin, Dinesh Manocha.*<br>
 SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2205.01355)] [[Code](https://github.com/non-void/VirtualBones)]
@@ -1119,6 +1094,10 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2205.01355)] [[Code](https://github.
 **DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact.**<br>
 *[Yifei Li](https://people.csail.mit.edu/liyifei/), [Tao Du](https://people.csail.mit.edu/taodu/), [Kui Wu](https://people.csail.mit.edu/kuiwu/), [Jie Xu](http://people.csail.mit.edu/jiex/), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech).*<br>
 TOG 2022. [[PDF](https://arxiv.org/abs/2106.05306)] [[Project](https://people.csail.mit.edu/liyifei/publication/diffcloth-differentiable-cloth-simulator/)] [[Code](https://github.com/omegaiota/DiffCloth)]
+
+**DIG: Draping Implicit Garment over the Human Body.**<br>
+*Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua.*<br>
+ACCV 2022. [[PDF](https://arxiv.org/abs/2209.10845)]
 
 **SNUG: Self-Supervised Neural Dynamic Garments.**<br>
 *Igor Santesteban, Miguel A. Otaduy, Dan Casas.*<br>
@@ -1202,23 +1181,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1908.06903)]
 
 **DRAPE: DRessing Any PErson.**<br>
 *Peng Guan, Loretta Reiss, David A. Hirshberg, Alexander Weiss, Michael J. Black.*<br>
-ACM Transactions on Graphics (TOG) 2012. [[PDF](https://dl.acm.org/citation.cfm?doid=2185520.2185531)] [[Project](https://ps.is.tue.mpg.de/research_projects/drape-dressing-any-person)]
-
-**Towards Multi-Layered 3D Garments Animation.**<br>
-*Yidi Shao, Chen Change Loy, Bo Dai.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/pdf/2305.10418.pdf)] [[Project](https://mmlab-ntu.github.io/project/layersnet/index.html)]
-
-**Garment Avatars: Realistic Cloth Driving using Pattern Registration.**<br>
-*Oshri Halimi, Fabian Prada, Tuur Stuyck, Donglai Xiang, Timur Bagautdinov, He Wen, Ron Kimmel, Takaaki Shiratori, Chenglei Wu, Yaser Sheikh.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03373)]
-
-**Point-Based Modeling of Human Clothing.**<br>
-*Ilya Zakharkin, Kirill Mazur, Artur Grigoriev, Victor Lempitsky.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08230)]
-
-**Neural 3D Clothes Retargeting from a Single Image.**<br>
-*Jae Shin Yoon, Kihwan Kim, Jan Kautz, Hyun Soo Park.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2102.00062)]
+TOG 2012. [[PDF](https://dl.acm.org/citation.cfm?doid=2185520.2185531)] [[Project](https://ps.is.tue.mpg.de/research_projects/drape-dressing-any-person)]
 
 
 ## Human Image and Video Generation
@@ -1345,6 +1308,10 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.15320)] [[Project](https://awesome-
 *[Bin Ren](https://scholar.google.com/citations?user=Md9maLYAAAAJ&hl=en), Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2104.05519)] [[Code](https://github.com/Amazingren/CIT)]
 
+**Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
+*Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07200)]
+
 **WAS-VTON: Warping Architecture Search for Virtual Try-on Network.**<br>
 *Zhenyu Xie, Xujie Zhang, Fuwei Zhao, Haoye Dong, Michael C. Kampffmeyer, Haonan Yan, Xiaodan Liang.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00386)] 
@@ -1429,6 +1396,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1909.06956)]
 *Amir Hossein Raffiee, Michael Sollami.*<br>
 ICPR 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
 
+**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
+*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2001.06265)] [[Code](https://github.com/levindabhi/SieveNet)]
+
+**TailorGAN: Making User-Defined Fashion Designs.**<br>
+*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2001.06427)] [[Code](https://github.com/gli-27/TailorGAN)]
+
 **ClothFlow: A Flow-Based Model for Clothed Person Generation.**<br>
 *Xintong Han, Xiaojun Hu, Weilin Huang, Matthew R. Scott.*<br>
 ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)]
@@ -1443,39 +1418,15 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1807.07688)]
 
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
-Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
+ICCV Workshop on Computer Vision for Fashion, Art and Design 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
 **Dress Code: High-Resolution Multi-Category Virtual Try-On.**<br>
 *Davide Morelli, Matteo Fincato, Marcella Cornia, Federico Landi, Fabio Cesari, Rita Cucchiara.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2112.07200)] [[Code](https://github.com/aimagelab/dress-code)] [[Dress Code Dataset](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform?usp=send_form)]
-
-**Weakly Supervised High-Fidelity Clothing Model Generation.**<br>
-*Ruili Feng, Cheng Ma, Chengji Shen, Xin Gao, Zhenjiang Liu, Xiaobo Li, Kairi Ou, Zhengjun Zha.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.07200)]
+CVPR 2022 Workshop. [[PDF](https://arxiv.org/abs/2112.07200)] [[Code](https://github.com/aimagelab/dress-code)] [[Data](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform?usp=send_form)]
 
 **Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
 *[Kripasindhu Sarkar](https://people.mpi-inf.mpg.de/~ksarkar/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Lingjie Liu](https://lingjie0206.github.io/), Christian Theobalt.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11263)] [[Project](http://gvv.mpi-inf.mpg.de/projects/Styleposegan/)]
-
-**Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation.**<br>
-*Shizhu Liu, Shanglin Yang, Hui Zhou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06229)]
-
-**Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
-*Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
-
-**Learning Color Compatibility in Fashion Outfits.**<br>
-*Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02388)]
-
-**TailorGAN: Making User-Defined Fashion Designs.**<br>
-*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06427)] [[Code](https://github.com/gli-27/TailorGAN)]
-
-**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
-*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)] [[Code](https://github.com/levindabhi/SieveNet)]
 
 ## Human Body Reshaping
 
@@ -1563,7 +1514,7 @@ TOG 2021. [[PDF](https://1drv.ms/b/s!AsZuzkRqeoh6gsUNhZKQ0bRp-BDaJQ?e=XIegdJ)] [
 
 **Garment Design with Generative Adversarial Networks.**<br>
 *Chenxi Yuan, Mohsen Moghaddam.*<br>
-AdvML 2020, KDD workshop. [[PDF](https://arxiv.org/abs/2007.10947)] 
+KDD workshop on AdvML 2020. [[PDF](https://arxiv.org/abs/2007.10947)] 
 
 ## Fashion Style Influences
 
@@ -1573,7 +1524,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 
 **From Culture to Clothing: Discovering the World Events Behind A Century of Fashion Images.**<br>
 *Wei-Lin Hsiao, Kristen Grauman.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
+ICCV 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Team and People 
 
@@ -1589,7 +1540,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
 - `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) is a 3D real-world human model dataset containing approximately 7000 models.
 
-- ` AGORA`. AGORA, proposed at CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.pdf), consists of 4240 scans spanning more than 350 unique subjects, all paired with SMPL-X fits.
+- `AGORA`. AGORA, proposed at CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.pdf), consists of 4240 scans spanning more than 350 unique subjects, all paired with SMPL-X fits.
 
 ## Applications
 
