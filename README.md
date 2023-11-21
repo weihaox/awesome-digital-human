@@ -98,6 +98,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Code](https://github.com/hongfz16/AvatarCLIP)] 
 
+**Drivable 3D Gaussian Avatars.**<br>
+*Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2311.08581)] [[Project](https://zielon.github.io/d3ga/)]
+
 **DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis.**<br>
 *Youngjoong Kwon, Lingjie Liu, Henry Fuchs, Marc Habermann, Christian Theobalt.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2310.11449)]
@@ -318,7 +322,11 @@ TPAMI 2023. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.
 
 **Mirror-Aware Neural Humans.**<br>
 *Daniel Ajisafe, James Tang, Shih-Yang Su, Bastian Wandt, Helge Rhodin.*<br> 
-3DV 2024. [[PDF](http://arxiv.org/abs/2309.04750)] [[Project](https://danielajisafe.github.io/mirror-aware-neural-humans/)]
+3DV 2024. [[PDF](https://arxiv.org/abs/2311.09221)] [[Project](https://danielajisafe.github.io/mirror-aware-neural-humans/)]
+
+**Single-Image 3D Human Digitization with Shape-Guided Diffusion.**<br>
+*Badour AlBahar, Shunsuke Saito, Hung-Yu Tseng, Changil Kim, Johannes Kopf, Jia-Bin Huang.*<br>
+SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://human-sgd.github.io/)]
 
 **Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction.**<br>
 *Zechuan Zhang, Li Sun, Zongxin Yang, Ling Chen, Yi Yang.*<br>
@@ -1066,6 +1074,10 @@ arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Proj
 
 
 ## Cloth Modelling, Draping, Simulation, and Dressing
+
+**A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping.**<br>
+*Hunor Laczkó, Meysam Madadi, Sergio Escalera, Jordi Gonzalez.*<br>
+WACV 2024. [[PDF](https://arxiv.org/abs/2311.02700)]
 
 **Towards Multi-Layered 3D Garments Animation.**<br>
 *Yidi Shao, Chen Change Loy, Bo Dai.*<br>
