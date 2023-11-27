@@ -50,6 +50,10 @@ Highavenue: Turn yourself into a 3D model.
 *Yinghao Xu, Wang Yifan, Alexander W. Bergman, Menglei Chai, Bolei Zhou, Gordon Wetzstein.*<br> 
 3DV 2024. [[PDF](https://arxiv.org/abs/2307.05462)] [[Project](https://www.computationalimaging.org/publications/lsv/)]
 
+**XAGen: 3D Expressive Human Avatars Generation.**<br>
+*Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Jiashi Feng, Mike Zheng Shou.*<br>
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2311.13574)] [[Project](https://showlab.github.io/xagen/)] [[Code](https://github.com/magic-research/xagen)]
+
 **FLARE: Fast Learning of Animatable and Relightable Mesh Avatars.**<br>
 *Shrisha Bharadwaj, Yufeng Zheng, Otmar Hilliges, Michael J. Black, Victoria Fernandez-Abrevaya.*<br>
 SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2310.17519)]
@@ -151,6 +155,10 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[Project](https://avatar-
 arxiv 2023. [[PDF](https://arxiv.org/abs/2304.00916)] [[Project](https://yukangcao.github.io/DreamAvatar/)] [[Code](https://yukangcao.github.io/DreamAvatar/)]
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
+
+**GAN-Avatar: Controllable Personalized GAN-based Human Head Avatar.**<br>
+*Berna Kabadayi, Wojciech Zielonka, Bharat Lal Bhatnagar, Gerard Pons-Moll, Justus Thies.*<br>
+3DV 2024. [[PDF](https://arxiv.org/abs/2311.13655)] [[Project](https://ganavatar.github.io/)] 
 
 **AlbedoGAN: Towards Realistic Generative 3D Face Models.**<br>
 *[Aashish Rai](https://aashishrai3799.github.io/), [Hiresh Gupta](https://hireshgupta1997.github.io/), Ayush Pandey, Francisco Vicente Carrasco, Shingo Jason Takagi, Amaury Aubel, Daeil Kim, [Aayush Prakash](https://aayushp.github.io/), [Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/).*<br>
@@ -324,6 +332,10 @@ TPAMI 2023. [[PDF](https://arxiv.org/abs/2203.01923)] [[Project](https://github.
 *Daniel Ajisafe, James Tang, Shih-Yang Su, Bastian Wandt, Helge Rhodin.*<br> 
 3DV 2024. [[PDF](https://arxiv.org/abs/2311.09221)] [[Project](https://danielajisafe.github.io/mirror-aware-neural-humans/)]
 
+**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans.**<br>
+*[Yangyi Huang](https://huangyangyi.github.io/), [Hongwei Yi](https://xyyhw.top/), [Yuliang Xiu](https://xiuyuliang.cn/), [Tingting Liao](https://github.com/tingtingliao), [Jiaxiang Tang](https://me.kiui.moe/), [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/), [Justus Thies](http://justusthies.github.io/).*<br>
+3DV 2024. [[PDF](https://arxiv.org/abs/2308.08545)] [[Project](https://huangyangyi.github.io/TeCH/)]
+
 **Single-Image 3D Human Digitization with Shape-Guided Diffusion.**<br>
 *Badour AlBahar, Shunsuke Saito, Hung-Yu Tseng, Changil Kim, Johannes Kopf, Jia-Bin Huang.*<br>
 SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://human-sgd.github.io/)]
@@ -335,6 +347,22 @@ NeurIPS 2023. [[PDF](https://arxiv.org/abs/2309.13524)]
 **ISP: Multi-Layered Garment Draping with Implicit Sewing Patterns.**<br>
 *Ren Li, Benoît Guillard, Pascal Fua.*<br> 
 NeurIPS 2023. [[PDF](http://arxiv.org/abs/2305.14100)]
+
+**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects.**<br>
+*[Taeksoo Kim](https://taeksuu.github.io/), [Shunsuke Saito](https://shunsukesaito.github.io/), [Hanbyul Joo](https://jhugestar.github.io/).*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2305.14345)] [[Project](https://taeksuu.github.io/ncho/)]
+
+**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models.**<br>
+*[Byungjun Kim](https://bjkim95.github.io/), Patrick Kwon, Kwangho Lee, Myunggi Lee, Sookwan Han, Daesik Kim, Hanbyul Joo.*<br>
+ICCV 2023 (Oral). [[PDF](https://arxiv.org/abs/2305.11870)] [[Project](https://snuvclab.github.io/chupa)]
+
+**SHERF: Generalizable Human NeRF from a Single Image.**<br>
+*[Shoukang Hu](https://skhu101.github.io/), [Fangzhou Hong](https://hongfz16.github.io/), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ), Haiyi Mei, [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.12791)] [[Project](https://skhu101.github.io/SHERF/)] [[Code](https://github.com/skhu101/SHERF)]
+
+**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling.**<br>
+*Zhitao Yang, Zhongang Cai, Haiyi Mei, Shuai Liu, Zhaoxi Chen, Weiye Xiao, Yukun Wei, Zhongfei Qing, Chen Wei, Bo Dai, Wayne Wu, Chen Qian, Dahua Lin, Ziwei Liu, Lei Yang.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.17368)] [[Project](https://maoxie.github.io/SynBody/)]
 
 **Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction.**<br>
 *Hyeongjin Nam, Daniel Sungho Jung, Yeonguk Oh, Kyoung Mu Lee.*<br>
@@ -351,6 +379,10 @@ SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2305.04789)] [[Project](https://liuye
 **PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu.*<br>
 SIGGRAPH 2023 [[PDF](https://arxiv.org/abs/2304.13006)] [[Project](https://lizhe00.github.io/projects/posevocab)]
+
+**High-Fidelity Clothed Avatar Reconstruction from a Single Image.**<br>
+*Tingting Liao, Xiaomei Zhang, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2304.03903)] [[Code](https://github.com/TingtingLiao/CAR)]
 
 **SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction.**<br>
 *[Yukang Cao](https://yukangcao.github.io/), [Kai Han](https://www.kaihan.org/), [Kenneth Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/).*<br> 
@@ -1028,29 +1060,9 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 *[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
 ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pdf)] [[Project]()]
 
-**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans.**<br>
-*[Yangyi Huang](https://huangyangyi.github.io/), [Hongwei Yi](https://xyyhw.top/), [Yuliang Xiu](https://xiuyuliang.cn/), [Tingting Liao](https://github.com/tingtingliao), [Jiaxiang Tang](https://me.kiui.moe/), [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/), [Justus Thies](http://justusthies.github.io/).*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2308.08545)] [[Project](https://huangyangyi.github.io/tech/)]
-
-**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects.**<br>
-*[Taeksoo Kim](https://taeksuu.github.io/), [Shunsuke Saito](https://shunsukesaito.github.io/), [Hanbyul Joo](https://jhugestar.github.io/).*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2305.14345)] [[Project](https://taeksuu.github.io/ncho/)]
-
-**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models.**<br>
-*[Byungjun Kim](https://bjkim95.github.io/), Patrick Kwon, Kwangho Lee, Myunggi Lee, Sookwan Han, Daesik Kim, Hanbyul Joo.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2305.11870)] [[Project](https://snuvclab.github.io/chupa)]
-
-**SHERF: Generalizable Human NeRF from a Single Image.**<br>
-*[Shoukang Hu](https://skhu101.github.io/), [Fangzhou Hong](https://hongfz16.github.io/), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ), Haiyi Mei, [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2303.12791)] [[Project](https://skhu101.github.io/SHERF/)] [[Code](https://github.com/skhu101/SHERF)]
-
-**High-Fidelity Clothed Avatar Reconstruction from a Single Image.**<br>
-*Tingting Liao, Xiaomei Zhang, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2304.03903)] 
-
-**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling.**<br>
-*Zhitao Yang, Zhongang Cai, Haiyi Mei, Shuai Liu, Zhaoxi Chen, Weiye Xiao, Yukun Wei, Zhongfei Qing, Chen Wei, Bo Dai, Wayne Wu, Chen Qian, Dahua Lin, Ziwei Liu, Lei Yang.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2303.17368)] [[Project](https://maoxie.github.io/SynBody/)]
+**Binarized 3D Whole-body Human Mesh Recovery.**<br>
+*Zhiteng Li, Yulun Zhang, Jing Lin, Haotong Qin, Jinjin Gu, Xin Yuan, Linghe Kong, Xiaokang Yang.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2311.14323)] [[Code](https://github.com/ZHITENGLI/BiDRN)]
 
 **GNeuVox: Generalizable Neural Voxels for Fast Human Radiance Fields.**<br>
 *[Taoran Yi](https://taoranyi.com/), [Jiemin Fang](https://jaminfong.cn/), [Xinggang Wang](https://xinggangw.info/), [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/).*<br>
@@ -1071,7 +1083,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.12100)]
 **DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
 *[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
 arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
-
 
 ## Cloth Modelling, Draping, Simulation, and Dressing
 
