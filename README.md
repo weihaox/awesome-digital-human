@@ -102,6 +102,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Code](https://github.com/hongfz16/AvatarCLIP)] 
 
+**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting.**<br>
+*Xian Liu, Xiaohang Zhan, Jiaxiang Tang, Ying Shan, Gang Zeng, Dahua Lin, Xihui Liu, Ziwei Liu.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.17061)] [[Project](https://alvinliu0.github.io/projects/HumanGaussian)]
+
 **Drivable 3D Gaussian Avatars.**<br>
 *Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero.*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2311.08581)] [[Project](https://zielon.github.io/d3ga/)]
@@ -235,6 +239,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com
 **AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs.**<br>
 *[Alexandros Lattas](https://www.imperial.ac.uk/people/a.lattas), [Stylianos Moschoglou](https://www.doc.ic.ac.uk/~sm3515/), [Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis), [Baris Gecer](http://barisgecer.github.io), [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/), [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Code](https://github.com/lattas/AvatarMe)]
+
+**GAIA: Zero-shot Talking Avatar Generation.**<br>
+*Tianyu He, Junliang Guo, Runyi Yu, Yuchi Wang, Jialiang Zhu, Kaikai An, Leyi Li, Xu Tan, Chunyu Wang, Han Hu, HsiangTao Wu, Sheng Zhao, Jiang Bian.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.15230)] [[Project](https://microsoft.github.io/GAIA/)]
 
 **Generalizable One-shot Neural Head Avatar.**<br>
 *[Xueting Li](https://sunshineatnoon.github.io/), [Shalini De Mello](https://research.nvidia.com/person/shalini-de-mello), [Sifei Liu](https://www.sifeiliu.net/), [Koki Nagano](https://luminohope.org/), [Umar Iqbal](https://research.nvidia.com/person/umar-iqbal), [Jan Kautz](https://jankautz.com/).*<br> 
@@ -760,10 +768,6 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2108.10842)]
 *[Yang Zheng](https://y-zheng18.github.io/zy.github.io/), Ruizhi Shao, [Yuxiang Zhang](https://zhangyux15.github.io/), [Zerong Zheng](https://zhengzerong.github.io/), [Tao Yu](https://ytrock.com/), [Yebin Liu](http://www.liuyebin.com/student.html).*<br>
 ICCV 2021. [[PDF](http://www.liuyebin.com/dmc/assets/main.pdf)] [[Project](http://www.liuyebin.com/dmc/dmc.html)]
 
-**M3D-VTON: A Monocular-to-3D Virtual Try-On Network.**<br>
-*Fuwei Zhao, Zhenyu Xie, Michael Kampffmeyer, Haoye Dong, Songfang Han, Tianxiang Zheng, Tao Zhang, Xiaodan Liang.*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2108.05126)]
-
 **Animatable Neural Radiance Fields for Human Body Modeling.**<br>
 *[Sida Peng](https://pengsida.net/), Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2105.02872)] [[Project](https://zju3dv.github.io/animatable_nerf/)] [[Code](https://github.com/zju3dv/animatable_nerf)]
@@ -1060,9 +1064,13 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 *[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
 ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pdf)] [[Project]()]
 
-**Binarized 3D Whole-body Human Mesh Recovery.**<br>
-*Zhiteng Li, Yulun Zhang, Jing Lin, Haotong Qin, Jinjin Gu, Xin Yuan, Linghe Kong, Xiaokang Yang.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2311.14323)] [[Code](https://github.com/ZHITENGLI/BiDRN)]
+**Weakly-Supervised 3D Reconstruction of Clothed Humans Via Normal Maps.**<br>
+*Jane Wu, Diego Thomas, Ronald Fedkiw.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16042)]
+
+**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.**<br>
+*Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16096)] [[Project](https://animatable-gaussians.github.io/,)] [[Code](https://github.com/lizhe00/AnimatableGaussians)]
 
 **GNeuVox: Generalizable Neural Voxels for Fast Human Radiance Fields.**<br>
 *[Taoran Yi](https://taoranyi.com/), [Jiemin Fang](https://jaminfong.cn/), [Xinggang Wang](https://xinggangw.info/), [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/).*<br>
@@ -1355,6 +1363,10 @@ ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Cui_Dressi
 *Chieh-Yun Chen, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, Wen-Huang Cheng.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.html)]
 
+**M3D-VTON: A Monocular-to-3D Virtual Try-On Network.**<br>
+*Fuwei Zhao, Zhenyu Xie, Michael Kampffmeyer, Haoye Dong, Songfang Han, Tianxiang Zheng, Tao Zhang, Xiaodan Liang.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.05126)]
+
 **Shape Controllable Virtual Try-on for Underwear Models.**<br>
 *Xin Gao, Zhenjiang Liu, Zunlei Feng, Chengji Shen, Kairi Ou, Haihong Tang, Mingli Song.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.13156)]
@@ -1446,6 +1458,10 @@ ICCV Workshop on Computer Vision for Fashion, Art and Design 2019. [[PDF](https:
 **Dress Code: High-Resolution Multi-Category Virtual Try-On.**<br>
 *Davide Morelli, Matteo Fincato, Marcella Cornia, Federico Landi, Fabio Cesari, Rita Cucchiara.*<br>
 CVPR 2022 Workshop. [[PDF](https://arxiv.org/abs/2112.07200)] [[Code](https://github.com/aimagelab/dress-code)] [[Data](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform?usp=send_form)]
+
+**Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images.**<br>
+*Aiyu Cui, Jay Mahajan, Viraj Shah, Preeti Gomathinayagam, Svetlana Lazebnik.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16094)]
 
 **Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
 *[Kripasindhu Sarkar](https://people.mpi-inf.mpg.de/~ksarkar/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Lingjie Liu](https://lingjie0206.github.io/), Christian Theobalt.*<br>
