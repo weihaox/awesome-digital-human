@@ -272,6 +272,18 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.03848)] [[Project](https://chuny1.
 *Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu.*<br>
 arXiv 2022. [[PDF](https://arxiv.org/pdf/2211.13206.pdf)] [[Project](https://www.liuyebin.com/manvatar/manvatar.html)]
 
+**Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video.**<br>
+*Xuan Gao, ChengLai Zhong, Jun Xiang, Yang Hong, Yudong Guo, Juyong Zhang.*<br>
+TOG 2022. [[PDF](https://arxiv.org/abs/2210.06108)] [[Project](https://ustc3dv.github.io/NeRFBlendShape/)] [[Code](https://github.com/USTC3DV/NeRFBlendShape-code)]
+
+**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar.**<br>
+*Yuelang Xu, Hongwen Zhang, Lizhen Wang, Xiaochen Zhao, Han Huang, Guojun Qi, Yebin Liu.*<br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.01190)], [[Project](https://www.liuyebin.com/latentavatar/)],[[Code](https://github.com/YuelangX/LatentAvatar)]
+
+**GaussianHead: Impressive 3D Gaussian-based Head Avatars with Dynamic Hybrid Neural Field.**<br>
+*Jie Wang, XianYan Li, Jiucheng Xie, Feng Xu, Hao Gao.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2312.01632)], [[Code](https://github.com/chiehwangs/gaussian-head)]
+
 ## (Clothed) Human Motion Generation
 
 **HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion.**<br>
