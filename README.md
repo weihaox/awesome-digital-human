@@ -50,6 +50,10 @@ Highavenue: Turn yourself into a 3D model.
 *Yinghao Xu, Wang Yifan, Alexander W. Bergman, Menglei Chai, Bolei Zhou, Gordon Wetzstein.*<br> 
 3DV 2024. [[PDF](https://arxiv.org/abs/2307.05462)] [[Project](https://www.computationalimaging.org/publications/lsv/)]
 
+**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation.**<br>
+*Zhaoxi Chen, Fangzhou Hong, Haiyi Mei, Guangcong Wang, Lei Yang, Ziwei Liu.*<br> 
+NeurIPS 2023. [[PDF](http://arxiv.org/abs/2312.04559)] [[Project](https://frozenburning.github.io/projects/primdiffusion/)] [[Code](https://github.com/FrozenBurning/PrimDiffusion)]
+
 **XAGen: 3D Expressive Human Avatars Generation.**<br>
 *Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Jiashi Feng, Mike Zheng Shou.*<br>
 NeurIPS 2023. [[PDF](https://arxiv.org/abs/2311.13574)] [[Project](https://showlab.github.io/xagen/)] [[Code](https://github.com/magic-research/xagen)]
@@ -101,6 +105,11 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Code](https://github.com/hongfz16/AvatarCLIP)] 
+
+**Emotional Speech-driven 3D Body Animation Via Disentangled Latent Diffusion.**<br>
+*Kiran Chhatre, Radek Daněček, Nikos Athanasiou, Giorgio Becherini, Christopher Peters, Michael J. Black, Timo Bolkart.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04466)]
+
 **GauHuman: Articulated Gaussian Splatting from Monocular Human Videos.**<br>
 *Shoukang Hu, Ziwei Liu.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2312.02973v1)] [[Project](https://skhu101.github.io/GauHuman/)] [[Code](https://github.com/skhu101/GauHuman)]
@@ -254,6 +263,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com
 **AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs.**<br>
 *[Alexandros Lattas](https://www.imperial.ac.uk/people/a.lattas), [Stylianos Moschoglou](https://www.doc.ic.ac.uk/~sm3515/), [Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis), [Baris Gecer](http://barisgecer.github.io), [Abhijeet Ghosh](https://www.doc.ic.ac.uk/~ghosh/), [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/).*<br>
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Code](https://github.com/lattas/AvatarMe)]
+
+**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar.**<br>
+*Yufan Chen, Lizhen Wang, Qijing Li, Hongjiang Xiao, Shengping Zhang, Hongxun Yao, Yebin Liu.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04558)] [[Project](https://yufan1012.github.io/MonoGaussianAvatar)]
 
 **InvertAvatar: Incremental GAN Inversion for Generalized Head Avatars.**<br>
 *Xiaochen Zhao, Jingxiang Sun, Lizhen Wang, Yebin Liu.*<br> 
@@ -1090,6 +1103,14 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 *[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
 ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pdf)] [[Project]()]
 
+**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos Via Explicit Ray Tracing.**<br>
+*Shaofei Wang, Božidar Antić, Andreas Geiger, Siyu Tang.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.05210)] [[Project](https://neuralbodies.github.io/IntrinsicAvatar)]
+
+**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video.**<br>
+*Yuchen Rao, Eduardo Perez Pellitero, Benjamin Busam, Yiren Zhou, Jifei Song.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04784)] [[Video](https://youtu.be/Oz83z1es2J4)]
+
 **GaussianAvatar: Towards Realistic Human Avatar Modeling from A Single Video Via Animatable 3D Gaussians.**<br>
 *Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2312.02134)] [[Project](https://huliangxiao.github.io/GaussianAvatar)]
@@ -1495,6 +1516,10 @@ ICCV Workshop on Computer Vision for Fashion, Art and Design 2019. [[PDF](https:
 **Dress Code: High-Resolution Multi-Category Virtual Try-On.**<br>
 *Davide Morelli, Matteo Fincato, Marcella Cornia, Federico Landi, Fabio Cesari, Rita Cucchiara.*<br>
 CVPR 2022 Workshop. [[PDF](https://arxiv.org/abs/2112.07200)] [[Code](https://github.com/aimagelab/dress-code)] [[Data](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform?usp=send_form)]
+
+**PICTURE: PhotorealistIC Virtual Try-on from UnconstRained dEsigns.**<br>
+*Shuliang Ning, Duomin Wang, Yipeng Qin, Zirong Jin, Baoyuan Wang, Xiaoguang Han.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04534)] [[Project](https://ningshuliang.github.io/2023/Arxiv/index.html)]
 
 **Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images.**<br>
 *Aiyu Cui, Jay Mahajan, Viraj Shah, Preeti Gomathinayagam, Svetlana Lazebnik.*<br> 
