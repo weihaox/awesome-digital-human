@@ -104,7 +104,15 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
-SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)]  [[Code](https://github.com/hongfz16/AvatarCLIP)] 
+SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] [[Code](https://github.com/hongfz16/AvatarCLIP)] 
+
+**Relightable Neural Actor with Intrinsic Decomposition and Pose Control.**<br>
+*Diogo Luvizon, Vladislav Golyanik, Adam Kortylewski, Marc Habermann, Christian Theobalt.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.11587)] [[Project](https://people.mpi-inf.mpg.de/~dluvizon/relightable-neural-actor)] 
+
+**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting.**<br>
+*Zhiyin Qian, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.09228)]
 
 **Disentangled Clothed Avatar Generation from Text Descriptions.**<br>
 *Jionghao Wang, Yuan Liu, Zhiyang Dou, Zhengming Yu, Yongqing Liang, Xin Li, Wenping Wang, Rong Xie, Li Song.*<br> 
@@ -275,6 +283,10 @@ TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Code](https://github.co
 **AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild".**<br>
 *Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com/lattas/AvatarMe)]
+
+**HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation.**<br>
+*Hongyu Liu, Xuan Wang, Ziyu Wan, Yujun Shen, Yibing Song, Jing Liao, Qifeng Chen.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.07539)] [[Project](https://kumapowerliu.github.io/HeadArtist)]
 
 **MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar.**<br>
 *Yufan Chen, Lizhen Wang, Qijing Li, Hongjiang Xiao, Shengping Zhang, Hongxun Yao, Yebin Liu.*<br> 
@@ -1118,6 +1130,10 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 **BodyFusion: Real-time Capture of Human Motion and Surface Geometry Using a Single Depth Camera.**<br>
 *[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
 ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pdf)] [[Project]()]
+
+**SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.**<br>
+*[Hsuan-I Ho](https://azuxmioy.github.io/), [Jie Song](https://ait.ethz.ch/people/song), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2311.15855)] [[Project](https://sith-diffusion.github.io/)]
 
 **360° Volumetric Portrait Avatar.**<br>
 *Jalees Nehvi, Berna Kabadayi, Julien Valentin, Justus Thies.*<br> 
