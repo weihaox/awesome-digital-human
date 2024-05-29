@@ -379,6 +379,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyua
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models.**<br>
+*Yifan Yang, Dong Liu, Shuhai Zhang, Zeshuai Deng, Zixiong Huang, Mingkui Tan.*<br> 
+CVPR 2024. [[PDF](https://arxiv.org/abs/2404.04876)] [[Github](git@github.com:YifYang993/HiLo.git)]
+
 **IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos Via Explicit Ray Tracing.**<br>
 *Shaofei Wang, Božidar Antić, Andreas Geiger, Siyu Tang.*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2312.05210)] [[Project](https://neuralbodies.github.io/IntrinsicAvatar)]
