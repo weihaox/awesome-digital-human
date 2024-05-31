@@ -374,10 +374,13 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.10417)] [[Project](https://sinc.is
 *[Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Zhongang Cai](https://caizhongang.github.io/), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io/), [Xinying Guo](https://gxyes.github.io/), [Lei Yang](https://yanglei.me/), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 arXiv 2022. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] [[Code](https://github.com/mingyuan-zhang/MotionDiffuse)]
 
-
 ## Clothed Human Digitalization
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
+
+**PuzzleAvatar: Assembling 3D Avatars from Personal Albums.**<br>
+*Yuliang Xiu, Yufei Ye, Zhen Liu, Dimitrios Tzionas, Michael J. Black.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2405.14869)]
 
 **IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos Via Explicit Ray Tracing.**<br>
 *Shaofei Wang, Božidar Antić, Andreas Geiger, Siyu Tang.*<br> 
@@ -1136,6 +1139,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2204.13096)] [[Project](https://www.zdz
 arXiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
 
 ## Cloth Modelling, Draping, Simulation, and Dressing
+
+**4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations.**<br>
+*[Wenbo Wang](https://wenbwa.github.io), [Hsuan-I Ho](https://ait.ethz.ch/people/hohs), [Chen Guo](https://ait.ethz.ch/people/cheguo), [Boxiang Rong](https://ribosome-rbx.github.io), [Artur Grigorev](https://ait.ethz.ch/people/agrigorev), [Jie Song](https://ait.ethz.ch/people/song), [Juan Jose Zarate](https://ait.ethz.ch/people/jzarate), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
+CVPR 2024 (Highlight). [[PDF](https://arxiv.org/abs/2404.18630)] [[Project](https://eth-ait.github.io/4d-dress/)] [[Data](https://4d-dress.ait.ethz.ch/)] [[Code](https://github.com/eth-ait/4d-dress)]
 
 **A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping.**<br>
 *Hunor Laczkó, Meysam Madadi, Sergio Escalera, Jordi Gonzalez.*<br>
