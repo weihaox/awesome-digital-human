@@ -378,6 +378,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyua
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models.**<br>
+*Yifan Yang, Dong Liu, Shuhai Zhang, Zeshuai Deng, Zixiong Huang, Mingkui Tan.*<br> 
+CVPR 2024. [[PDF](https://arxiv.org/abs/2404.04876)] [[Github](https://github.com/YifYang993/HiLo)]
+
 **PuzzleAvatar: Assembling 3D Avatars from Personal Albums.**<br>
 *Yuliang Xiu, Yufei Ye, Zhen Liu, Dimitrios Tzionas, Michael J. Black.*<br>
 arxiv 2024. [[PDF](https://arxiv.org/abs/2405.14869)]
