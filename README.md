@@ -166,6 +166,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] [[Code](https://github.com/hongfz16/AvatarCLIP)] 
 
+**WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation.**<br>
+*Zihao Huang, ShouKang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.*<br> 
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02165)] 
+
 **Drivable 3D Gaussian Avatars.**<br>
 *Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero.*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2311.08581)] [[Project](https://zielon.github.io/d3ga/)]
@@ -1534,6 +1538,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13815)] [[Code](https://github.com/
 - DeepFashion2 Challenge. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/deepfashion2?authuser=0) [[ICCV 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
 
 ### Datasets
+- WildAvatar (2024). [[Website]](https://arxiv.org/pdf/2407.02165)
 - Fashionpedia. [[Website]](https://fashionpedia.github.io/home/index.html)
 - DeepFashion2 Dataset. [[Website]](<https://github.com/switchablenorms/DeepFashion2>)
 - DeepFashion Dataset. [[Website]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
