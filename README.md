@@ -42,6 +42,10 @@ Highavenue: Turn yourself into a 3D model.
 
 ## 3D Human Avatar Generation and Animation
 
+**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models.**<br>
+*Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.06938)] [[Project](https://rodinhd.github.io/;)] [[Code]()]
+
 **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu..*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2311.16096)] [[Project](https://animatable-gaussians.github.io)] [[Code](https://github.com/lizhe00/AnimatableGaussians)]
@@ -196,9 +200,13 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09864)] [[Project](https://zeng-yi
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
 
+**PAV: Personalized Head Avatar from Unstructured Video Collection.**<br>
+*Akin Caliskan, Berkay Kicanaoglu, Hyeongwoo Kim.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.21047)] [[Project](https://akincaliskan3d.github.io/PAV/)] 
+
 **Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians.**<br>
 *Yuelang Xu, Benwang Chen, Zhe Li, Hongwen Zhang, Lizhen Wang, Zerong Zheng, Yebin Liu.*<br>
-CVPR 2024. [[PDF]()] [[Project](https://yuelangx.github.io/gaussianheadavatar/)] 
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.03029)] [[Project](https://yuelangx.github.io/gaussianheadavatar/)] 
 
 **HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation.**<br>
 *Hongyu Liu, Xuan Wang, Ziyu Wan, Yujun Shen, Yibing Song, Jing Liao, Qifeng Chen.*<br> 
@@ -368,7 +376,11 @@ arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14740)] [[Project](https://homes.cs
 
 **PuzzleAvatar: Assembling 3D Avatars from Personal Albums.**<br>
 *Yuliang Xiu, Yufei Ye, Zhen Liu, Dimitrios Tzionas, Michael J. Black.*<br>
-arxiv 2024. [[PDF](https://arxiv.org/abs/2405.14869)]
+SIGGRAPH Asia (TOG) 2024. [[PDF](https://arxiv.org/abs/2405.14869)]
+
+**iHuman: Instant Animatable Digital Humans From Monocular Videos.**<br> 
+*Pramish Paudel, Anubhav Khanal, Ajad Chhatkuli, Danda Pani Paudel, Jyoti Tandukar.*<br> 
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.11174)]
 
 **HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models.**<br>
 *Yifan Yang, Dong Liu, Shuhai Zhang, Zeshuai Deng, Zixiong Huang, Mingkui Tan.*<br> 
