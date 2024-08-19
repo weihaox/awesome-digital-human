@@ -86,6 +86,10 @@ CVPR 2024. [[PDF](http://arxiv.org/abs/2312.02973v1)] [[Project](https://skhu101
 *Jun Xiang, Xuan Gao, Yudong Guo, Juyong Zhang.*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2312.02214v1)] [[Project](https://ustc3dv.github.io/FlashAvatar/)]
 
+**PEGASUS: Personalized Generative 3D Avatars with Composable Attributes.**<br>
+*[Hyunsoo Cha](https://research.hyunsoocha.com/), [Byungjun Kim](https://bjkim95.github.io/), [Hanbyul Joo](https://jhugestar.github.io/).*<br>
+CVPR 2024. [[PDF](https://arxiv.org/pdf/2402.10636)] [[Project](https://snuvclab.github.io/pegasus/)] [[Code](https://github.com/snuvclab/pegasus)]
+
 **TADA! Text to Animatable Digital Avatars.**<br>
 *[Tingting Liao](https://github.com/TingtingLiao), [Hongwei Yi](https://xyyhw.top/), [Yuliang Xiu](http://xiuyuliang.cn/), [Jiaxiang Tang](https://me.kiui.moe/), [Yangyi Huang](https://github.com/huangyangyi/), [Justus Thies](https://justusthies.github.io/), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
 3DV 2024. [[PDF](https://arxiv.org)] [[Project](https://tada.is.tue.mpg.de/)] [[Code](https://github.com/TingtingLiao/TADA)]
