@@ -70,6 +70,10 @@ CVPR 2024. [[PDF](http://arxiv.org/abs/2311.17061)] [[Project](https://alvinliu0
 *[Yukang Cao](https://yukangcao.github.io/), [Yan-Pei Cao](https://yanpei.me/), [Kai Han](https://www.kaihan.org/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN), [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/).*<br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2304.00916)] [[Project](https://yukangcao.github.io/DreamAvatar/)] [[Code](https://yukangcao.github.io/DreamAvatar/)]
 
+**SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes.**<br>
+*Soubhik Sanyal, Partha Ghosh, Jinlong Yang, Michael J. Black, Justus Thies, Timo Bolkart.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2308.10638)] [[Project](https://huangyangyi.github.io/tech/)]
+
 **3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting.**<br>
 *Zhiyin Qian, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang.*<br> 
 CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09228)] [[Project](https://neuralbodies.github.io/3DGS-Avatar/)]
@@ -176,7 +180,7 @@ SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https:
 
 **WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation.**<br>
 *Zihao Huang, ShouKang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.*<br> 
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02165)] 
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02165)] [[Project](https://wildavatar.github.io/)]
 
 **Drivable 3D Gaussian Avatars.**<br>
 *Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero.*<br> 
@@ -186,17 +190,9 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2311.08581)] [[Project](https://zielon.
 *Jianfeng Zhang, Hanshu Yan, Zhongcong Xu, Jiashi Feng, Jun Hao Liew.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)] [[Project](https://magic-avatar.github.io/)]
 
-**Learning Disentangled Avatars with Hybrid 3D Representations.**<br>
+**DELTA: Learning Disentangled Avatars with Hybrid 3D Representations.**<br>
 *[Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Weiyang Liu](https://wyliu.com/), [Timo Bolkart](https://sites.google.com/site/bolkartt/), [Jinlong Yang](https://is.mpg.de/~jyang), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06441)] [[Project](https://yfeng95.github.io/delta/)] [[Code](https://github.com/yfeng95/DELTA)]
-
-**SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes.**<br>
-*Soubhik Sanyal, Partha Ghosh, Jinlong Yang, Michael J. Black, Justus Thies, Timo Bolkart.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10638)] [[Project](https://huangyangyi.github.io/tech/)]
-
-**Guide3D: Create 3D Avatars from Text and Image Guidance.**<br>
-*Yukang Cao, Yan-Pei Cao, Kai Han, Ying Shan, Kwan-Yee K. Wong.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.09705)]
 
 **AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation.**<br>
 *[Yifei Zeng](https://github.com/zeng-yifei), [Yuanxun Lu](https://github.com/YuanxunLu), [Xinya Ji](https://github.com/jixinya), [Yao Yao](https://yoyo000.github.io/), [Hao Zhu](http://zhuhao.cc/), [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html).*<br> 
@@ -322,6 +318,22 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com
 
 ## (Clothed) Human Motion Generation
 
+**TLControl: Trajectory and Language Control for Human Motion Synthesis.**<br>
+*Weilin Wan, Zhiyang Dou, Taku Komura, Wenping Wang, Dinesh Jayaraman, Lingjie Liu.*<br> 
+ECCV 2024. [[PDF](http://arxiv.org/abs/2311.17135)] [[Project](https://tlcontrol.weilinwl.com/)]
+
+**CoMo: Controllable Motion Generation through Language Guided Pose Code Editing.**<br>
+*Yiming Huang, Weilin Wan, Yue Yang, Chris Callison-Burch, Mark Yatskar, Lingjie Liu.*<br> 
+ECCV 2024. [[PDF](https://arxiv.org/abs/2403.13900)] [[Project](https://yh2371.github.io/como/)]
+
+**Total Selfie: Generating Full-Body Selfies.**<br>
+*Bowei Chen, Brian Curless, Ira Kemelmacher-Shlizerman, Steve Seitz.*<br> 
+CVPR 2024 (Highlight). [[PDF](http://arxiv.org/abs/2308.14740)] [[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)]
+
+**OmniControl: Control Any Joint at Any Time for Human Motion Generation.**<br>
+*Yiming Xie, Varun Jampani, Lei Zhong, Deqing Sun, Huaizu Jiang.*<br> 
+ICLR 2024. [[PDF](http://arxiv.org/abs/2310.08580)] [[Project](https://neu-vi.github.io/omnicontrol/)]
+
 **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.**<br>
 *[Mingyuan Zhang](https://mingyuan-zhang.github.io/), [Zhongang Cai](https://caizhongang.github.io/), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io/), [Xinying Guo](https://gxyes.github.io/), [Lei Yang](https://yanglei.me/), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 TPAMI 2024. [[PDF](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] [[Code](https://github.com/mingyuan-zhang/MotionDiffuse)]
@@ -361,18 +373,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.p
 **TEACH: Temporal Action Composition for 3D Human.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
 3DV 2022. [[PDF](https://arxiv.org/abs/2209.04066)] [[Project](https://teach.is.tue.mpg.de/)] [[Code](https://github.com/athn-nik/teach)]
-
-**TLControl: Trajectory and Language Control for Human Motion Synthesis.**<br>
-*Weilin Wan, Zhiyang Dou, Taku Komura, Wenping Wang, Dinesh Jayaraman, Lingjie Liu.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2311.17135)]
-
-**OmniControl: Control Any Joint at Any Time for Human Motion Generation.**<br>
-*Yiming Xie, Varun Jampani, Lei Zhong, Deqing Sun, Huaizu Jiang.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2310.08580)] [[Project](https://neu-vi.github.io/omnicontrol/)]
-
-**Total Selfie: Generating Full-Body Selfies.**<br>
-*Bowei Chen, Brian Curless, Ira Kemelmacher-Shlizerman, Steve Seitz.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14740)] [[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)]
 
 ## Clothed Human Digitalization
 
