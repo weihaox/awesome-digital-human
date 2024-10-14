@@ -40,11 +40,19 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 Highavenue: Turn yourself into a 3D model.
 
-## 3D Human Avatar Generation and Animation
+## 3D/4D Human Avatar Generation and Animation
+
+**DressRecon: Freeform 4D Human Reconstruction from Monocular Video.**<br>
+*Jeff Tan, Donglai Xiang, Shubham Tulsiani, Deva Ramanan, Gengshan Yang.*<br>
+arxiv 2024.  [[PDF](https://arxiv.org/abs/2409.20563)] [[Project](https://jefftan969.github.io/dressrecon/)] [[Code](https://github.com/jefftan969/dressrecon)]
+
+**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image.**<br>
+*Hui En Pang, Shuai Liu, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu.*<br>
+arxiv 2024.  [[PDF](https://arxiv.org/abs/2409.17280)] [[Project](https://disco-4d.github.io/)]
 
 **RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models.**<br>
 *Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo.*<br>
-ECCV 2024. [[PDF](https://arxiv.org/abs/2407.06938)] [[Project](https://rodinhd.github.io/;)] [[Code]()]
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.06938)] [[Project](https://rodinhd.github.io)] [[Code]()]
 
 **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu..*<br> 
@@ -188,7 +196,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2311.08581)] [[Project](https://zielon.
 
 **MagicAvatar: Multimodal Avatar Generation and Animation.**<br>
 *Jianfeng Zhang, Hanshu Yan, Zhongcong Xu, Jiashi Feng, Jun Hao Liew.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)] [[Project](https://magic-avatar.github.io/)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)] [[Project](https://magic-avatar.github.io/)] [[Code](https://github.com/magic-research/magic-avatar)]
 
 **DELTA: Learning Disentangled Avatars with Hybrid 3D Representations.**<br>
 *[Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Weiyang Liu](https://wyliu.com/), [Timo Bolkart](https://sites.google.com/site/bolkartt/), [Jinlong Yang](https://is.mpg.de/~jyang), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
@@ -317,6 +325,10 @@ TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Code](https://github.co
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com/lattas/AvatarMe)]
 
 ## (Clothed) Human Motion Generation
+
+**ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild.**<br>
+*Chen Guo, Tianjian Jiang, Manuel Kaufmann, Chengwei Zheng, Julien Valentin, Jie Song, Otmar Hilliges.*<br> 
+ECCV 2024. [[PDF](https://arxiv.org/abs/2409.15269)] [[Project](https://moygcc.github.io/ReLoo/)]
 
 **TLControl: Trajectory and Language Control for Human Motion Synthesis.**<br>
 *Weilin Wan, Zhiyang Dou, Taku Komura, Wenping Wang, Dinesh Jayaraman, Lingjie Liu.*<br> 
