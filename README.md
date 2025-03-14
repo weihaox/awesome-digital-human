@@ -398,6 +398,14 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.p
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
+**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
+*Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.10625)] [[Project](https://lingtengqiu.github.io/LHM/)] [[Github](https://github.com/aigc3d/LHM)]
+
+**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
+*Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/abs/2503.10624)] [[Project](https://boqian-li.github.io/ETCH/)] [[Github](https://github.com/boqian-li/ETCH)]
+
 **Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior.**<br>
 *Chen Guo, Junxuan Li, Yash Kant, Yaser Sheikh, Shunsuke Saito, Chen Cao.*<br>
 CVPR 2025. [[PDF](https://arxiv.org/abs/2503.01610)] [[Project](https://moygcc.github.io/vid2avatar-pro)]
