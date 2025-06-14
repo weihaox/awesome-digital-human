@@ -46,6 +46,30 @@ Highavenue: Turn yourself into a 3D model.
 *Xiangjun Tang, Biao Zhang, Peter Wonka.*<br>
 arxiv 2025.  [[PDF](https://arxiv.org/abs/2503.01448] 
 
+**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**<br>
+*Lingteng Qiu, Shenhao Zhu, Qi Zuo, Xiaodong Gu, Yuan Dong, Junfei Zhang, Chao Xu, Zhe Li, Weihao Yuan, Liefeng Bo, Guanying Chen, Zilong Dong.*<br>
+CVPR2025. [[Project page](https://lingtengqiu.github.io/2024/AniGS/)] [[Paper](https://arxiv.org/pdf/2412.02684)]
+
+**PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion**<br>
+*Peng Li, Wangguandong Zheng, Yuan Liu, Tao Yu, Yangguang Li, Siyu Xia, Yan-Pei Cao, Yike Guo.*<br>
+CVPR2025. [[Project Page](https://penghtyx.github.io/PSHuman/)]  [[Paper](https://arxiv.org/pdf/2409.10141)] [[Code](https://github.com/pengHTYX/PSHuman/)] [[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
+
+**Pippo : High-Resolution Multi-View Humans from a Single Image**<br>
+*Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, Timur Bagautdinov*<br>
+CVPR2025. [[Project page](https://yashkant.github.io/pippo/)] [[Paper](https://yashkant.github.io/pippo/pippo.pdf)] [[Code](https://github.com/facebookresearch/pippo)]
+
+**DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image**<br>
+*Hyeongjin Nam, Donghwan Kim, Jeongtaek Oh, Kyoung Mu Lee*</br>
+CVPR2025. [[Page](https://hygenie1228.github.io/DeClotH/)] [[Paper](https://hygenie1228.github.io/DeClotH/static/DeClotH_CVPR2025.pdf)]
+
+**FreeCloth: Free-form Generation Enhances Challenging Clothed Human Modeling**<br>
+*Hang Ye, Xiaoxuan Ma, Hai Ci, Wentao Zhu, Yizhou Wang*<br>
+CVPR2025. [[Page](https://alvinyh.github.io/FreeCloth/)] [[Paper](https://arxiv.org/abs/2411.19942)] [[Code](https://github.com/AlvinYH/FreeCloth)]
+
+**Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**<br>
+*Youyi Zhan, Tianjia Shao, Yin Yang, Kun Zhou*<br>
+CVPR2025. [[Page](https://gapszju.github.io/mmlphuman/)] [[Paper](https://gapszju.github.io/mmlphuman/static/paper/zhan2025realtime.pdf)] [[Code](https://github.com/1231234zhan/mmlphuman)]
+
 **SimAvatar: Simulation-Ready Clothed Gaussian Avatars from Text.**<br>
 *Xueting Li, Ye Yuan, Shalini De Mello, Miles Macklin, Jonathan Leaf, Gilles Daviet, Jan Kautz, Umar Iqbal.*<br>
 CVPR 2025.  [[PDF](https://nvlabs.github.io/SimAvatar/static/paper.pdf)] [[Project](https://nvlabs.github.io/SimAvatar)]
