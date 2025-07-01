@@ -36,39 +36,39 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 </p></details><p></p>
 
-## Industry Demo or Product
-
-Highavenue: Turn yourself into a 3D model.
-
 ## 3D/4D Human Avatar Generation and Animation
 
 **Generative Human Geometry Distribution.**<br>
 *Xiangjun Tang, Biao Zhang, Peter Wonka.*<br>
 arxiv 2025.  [[PDF](https://arxiv.org/abs/2503.01448] 
 
+**WildAvatar: Learning In-the-wild 3D Avatars from the Web.**<br>
+*Zihao Huang, Shoukang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.*<br> 
+CVPR 2025. [[PDF](https://arxiv.org/abs/2407.02165)] [[Project](https://wildavatar.github.io)]
+
 **AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**<br>
 *Lingteng Qiu, Shenhao Zhu, Qi Zuo, Xiaodong Gu, Yuan Dong, Junfei Zhang, Chao Xu, Zhe Li, Weihao Yuan, Liefeng Bo, Guanying Chen, Zilong Dong.*<br>
-CVPR2025. [[Project page](https://lingtengqiu.github.io/2024/AniGS/)] [[Paper](https://arxiv.org/pdf/2412.02684)]
+CVPR 2025. [[Project page](https://lingtengqiu.github.io/2024/AniGS/)] [[Paper](https://arxiv.org/pdf/2412.02684)]
 
 **PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion**<br>
 *Peng Li, Wangguandong Zheng, Yuan Liu, Tao Yu, Yangguang Li, Siyu Xia, Yan-Pei Cao, Yike Guo.*<br>
-CVPR2025. [[Project Page](https://penghtyx.github.io/PSHuman/)]  [[Paper](https://arxiv.org/pdf/2409.10141)] [[Code](https://github.com/pengHTYX/PSHuman/)] [[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
+CVPR 2025. [[Project Page](https://penghtyx.github.io/PSHuman/)]  [[Paper](https://arxiv.org/pdf/2409.10141)] [[Code](https://github.com/pengHTYX/PSHuman/)] [[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
 
-**Pippo : High-Resolution Multi-View Humans from a Single Image**<br>
+**Pippo: High-Resolution Multi-View Humans from a Single Image**<br>
 *Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, Timur Bagautdinov*<br>
-CVPR2025. [[Project page](https://yashkant.github.io/pippo/)] [[Paper](https://yashkant.github.io/pippo/pippo.pdf)] [[Code](https://github.com/facebookresearch/pippo)]
+CVPR 2025. [[Project page](https://yashkant.github.io/pippo/)] [[Paper](https://yashkant.github.io/pippo/pippo.pdf)] [[Code](https://github.com/facebookresearch/pippo)]
 
 **DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image**<br>
 *Hyeongjin Nam, Donghwan Kim, Jeongtaek Oh, Kyoung Mu Lee*</br>
-CVPR2025. [[Page](https://hygenie1228.github.io/DeClotH/)] [[Paper](https://hygenie1228.github.io/DeClotH/static/DeClotH_CVPR2025.pdf)]
+CVPR 2025. [[Page](https://hygenie1228.github.io/DeClotH/)] [[Paper](https://hygenie1228.github.io/DeClotH/static/DeClotH_CVPR2025.pdf)]
 
 **FreeCloth: Free-form Generation Enhances Challenging Clothed Human Modeling**<br>
 *Hang Ye, Xiaoxuan Ma, Hai Ci, Wentao Zhu, Yizhou Wang*<br>
-CVPR2025. [[Page](https://alvinyh.github.io/FreeCloth/)] [[Paper](https://arxiv.org/abs/2411.19942)] [[Code](https://github.com/AlvinYH/FreeCloth)]
+CVPR 2025. [[Page](https://alvinyh.github.io/FreeCloth/)] [[Paper](https://arxiv.org/abs/2411.19942)] [[Code](https://github.com/AlvinYH/FreeCloth)]
 
 **Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**<br>
 *Youyi Zhan, Tianjia Shao, Yin Yang, Kun Zhou*<br>
-CVPR2025. [[Page](https://gapszju.github.io/mmlphuman/)] [[Paper](https://gapszju.github.io/mmlphuman/static/paper/zhan2025realtime.pdf)] [[Code](https://github.com/1231234zhan/mmlphuman)]
+CVPR 2025. [[Page](https://gapszju.github.io/mmlphuman/)] [[Paper](https://gapszju.github.io/mmlphuman/static/paper/zhan2025realtime.pdf)] [[Code](https://github.com/1231234zhan/mmlphuman)]
 
 **SimAvatar: Simulation-Ready Clothed Gaussian Avatars from Text.**<br>
 *Xueting Li, Ye Yuan, Shalini De Mello, Miles Macklin, Jonathan Leaf, Gilles Daviet, Jan Kautz, Umar Iqbal.*<br>
@@ -110,7 +110,7 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2310.01406)] [[Project](https://humannor
 *Xiang Deng, Zerong Zheng, Yuxiang Zhang, Jingxiang Sun, Chao Xu, XiaoDong Yang, Lizhen Wang, Yebin Liu.*<br> 
 CVPR 2024. [[PDF](https://cloud.tsinghua.edu.cn/f/6b7a88c3b4ac43b0b506/?dl=1)] [[Project](https://github.com/Xiang-Deng00/RAM-Avatar)] [[Code](https://github.com/Xiang-Deng00/RAM-Avatar)]
 
-**TexVocab:Texture Vocabulary-conditioned Human Avatars.**<br>
+**TexVocab: Texture Vocabulary-conditioned Human Avatars.**<br>
 *Yuxiao Liu, Zhe Li, Yebin Liu, Haoqian Wang.*<br> 
 CVPR 2024. [[PDF](https://arxiv.org/abs/2404.00524)] [[Project](https://texvocab.github.io)]
 
@@ -229,14 +229,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] [[Code](https://github.com/hongfz16/AvatarCLIP)] 
-
-**WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation.**<br>
-*Zihao Huang, ShouKang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.*<br> 
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02165)] [[Project](https://wildavatar.github.io)]
-
-**MagicAvatar: Multimodal Avatar Generation and Animation.**<br>
-*Jianfeng Zhang, Hanshu Yan, Zhongcong Xu, Jiashi Feng, Jun Hao Liew.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)] [[Project](https://magic-avatar.github.io)] [[Code](https://github.com/magic-research/magic-avatar)]
 
 **DELTA: Learning Disentangled Avatars with Hybrid 3D Representations.**<br>
 *[Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Weiyang Liu](https://wyliu.com), [Timo Bolkart](https://sites.google.com/site/bolkartt), [Jinlong Yang](https://is.mpg.de/~jyang), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
@@ -436,11 +428,11 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.p
 
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
-arxiv 2025. [[PDF](https://arxiv.org/abs/2503.10625)] [[Project](https://lingtengqiu.github.io/LHM)] [[Github](https://github.com/aigc3d/LHM)]
+ICCV 2025. [[PDF](https://arxiv.org/abs/2503.10625)] [[Project](https://lingtengqiu.github.io/LHM)] [[Github](https://github.com/aigc3d/LHM)]
 
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
-arxiv 2025. [[PDF](https://arxiv.org/abs/2503.10624)] [[Project](https://boqian-li.github.io/ETCH)] [[Github](https://github.com/boqian-li/ETCH)]
+ICCV 2025. [[PDF](https://arxiv.org/abs/2503.10624)] [[Project](https://boqian-li.github.io/ETCH)] [[Github](https://github.com/boqian-li/ETCH)]
 
 **MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction.**<br>
 *Gangjian Zhang, Nanjie Yao, Shunsi Zhang, hanfeng Zhao, Guoliang Pang, Jian Shu, Hao Wan.*<br>
