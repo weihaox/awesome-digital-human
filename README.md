@@ -240,6 +240,18 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09864)] [[Project](https://zeng-yi
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
 
+**HHAvatar: Gaussian Head Avatar with Dynamic Hairs.**<br>
+*Zhanfeng Liao, Yuelang Xu, Zhe Li, Qijing Li, Boyao Zhou, Ruifeng Bai, Di Xu, Hongwen Zhang, Yebin Liu..*<br>
+TPAMI 2025. [[PDF](https://arxiv.org/abs/2312.03029)]
+
+**Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads.**<br>
+*Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai.*<br>
+ICCV 2025. [[PDF](https://www.arxiv.org/abs/2507.23343)] [[Project](https://github.com/zyj-2000/Talker)] 
+
+**Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars.**<br>
+*Tobias Kirschstein, Javier Romero, Artem Sevastopolsky, Matthias Nießner, Shunsuke Saito.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2502.20220)] [[Project](https://tobias-kirschstein.github.io/avat3r/)] 
+
 **PAV: Personalized Head Avatar from Unstructured Video Collection.**<br>
 *Akin Caliskan, Berkay Kicanaoglu, Hyeongwoo Kim.*<br>
 ECCV 2024. [[PDF](https://arxiv.org/abs/2407.21047)] [[Project](https://akincaliskan3d.github.io/PAV)] 
@@ -358,6 +370,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com
 
 ## (Clothed) Human Motion Generation
 
+**Morph: A Motion-free Physics Optimization Framework for Human Motion Generation.**<br>
+*Zhuo Li, Mingshuang Luo, Ruibing Hou, Xin Zhao, Hao Liu, Hong Chang, Zimo Liu, Chen Li.*<br> 
+ICCV 2025. [[PDF](https://arxiv.org/abs/2411.14951)]
+
 **SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance.**<br>
 *Peishan Cong, Ziyi Wang, Yuexin Ma, Xiangyu Yue.*<br> 
 CVPR 2025. [[PDF](https://arxiv.org/abs/2503.01291)] [[Project](https://4dvlab.github.io/project_page/semgeomo)]
@@ -426,6 +442,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.p
 
 [Project Splinter](https://project-splinter.github.io): Human Digitalization with Implicit Representation.
 
+**HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis.**<br>
+*Timo Teufel, Pulkit Gera, Xilong Zhou, Umar Iqbal, Pramod Rao, Jan Kautz, Vladislav Golyanik, Christian Theobalt.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2508.09137)] [[Project](https://vcai.mpi-inf.mpg.de/projects/HumanOLAT/)] [[Github](https://github.com/TMT22/HumanOLAT)]
+
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2503.10625)] [[Project](https://lingtengqiu.github.io/LHM)] [[Github](https://github.com/aigc3d/LHM)]
@@ -433,6 +453,14 @@ ICCV 2025. [[PDF](https://arxiv.org/abs/2503.10625)] [[Project](https://lingteng
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2503.10624)] [[Project](https://boqian-li.github.io/ETCH)] [[Github](https://github.com/boqian-li/ETCH)]
+
+**PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image.**<br>
+*Hyeongjin Nam, Donghwan Kim, Gyeongsik Moon, Kyoung Mu Lee.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2507.17332)] [[Project](https://hygenie1228.github.io/PARTE/)] [[Github](https://github.com/KimDonghwan06/PARTE_RELEASE)]
+
+**Learning Efficient and Generalizable Human Representation with Human Gaussian Model.**<br>
+*Yifan Li, Shengjun Zhang, Chensheng Dai, Yang Chen, Hao Liu, Chen Li, Yueqi Duan.*<br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2507.18758)]
 
 **MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction.**<br>
 *Gangjian Zhang, Nanjie Yao, Shunsi Zhang, hanfeng Zhao, Guoliang Pang, Jian Shu, Hao Wan.*<br>
