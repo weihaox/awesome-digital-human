@@ -44,6 +44,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
+**NanoAvatar: Real-Time Talking Avatars on Android.**<br>
+*[wpydcr](https://github.com/wpydcr).*<br>
+2026. [[Code](https://github.com/wpydcr/NanoAvatar)] [[Models](https://huggingface.co/wpydcr/NanoAvatar)] [[Demo](https://github.com/wpydcr/NanoAvatar#demo)] [[Android APK](https://github.com/wpydcr/NanoAvatar/releases/latest)]
+
+Audio-driven talking avatars rendered locally on Android, with streaming generation and an offline voice-recording demo. Also includes a local NVIDIA GPU runtime.
+
 ## 3D/4D Human Avatar Generation and Animation
 
 **Generative Human Geometry Distribution.**<br>
