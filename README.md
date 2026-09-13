@@ -38,6 +38,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 ## Industry Demo or Product
 
+**Lucidpic — AI Person Generator for Consistent Photos and Videos.**<br>
+*Lucidpic Team.*<br>
+2026. [[Website](https://lucidpic.com/)]
+
+AI person generator: describe a person or upload photos to train a custom character model, then generate unlimited realistic images and video clips of the same person with a consistent face and style. Freemium, browser-based.
+
 **SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
 *SpatialReal Team.*<br>
 2025. [[Website](https://spatialreal.ai/)] [[Docs](https://docs.spatialreal.ai/overview/introduction)] [[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal)]
