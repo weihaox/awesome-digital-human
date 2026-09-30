@@ -44,6 +44,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
+**three.ws: Open-Source Browser Platform for Talking 3D Avatars.**<br>
+*nirholas.*<br>
+2026. [[Website](https://three.ws)] [[Code](https://github.com/nirholas/three.ws)] [[Docs](https://three.ws/docs)]
+
+Generates rigged, animatable 3D avatars (GLB) from a text prompt or reference images, retargets one animation library onto Mixamo, VRM, Unreal, Daz and other skeleton conventions, and drives ARKit-52 blendshape lip-sync from speech audio with emotion morphs blended on top. Avatars embed in any web page as an `<agent-3d>` web component and can be connected to an LLM for real-time voice conversation. Apache-2.0 licensed.
+
 ## 3D/4D Human Avatar Generation and Animation
 
 **Generative Human Geometry Distribution.**<br>
