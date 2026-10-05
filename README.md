@@ -44,6 +44,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
+**bitHuman — Real-time Avatars Rendered on the Device.**<br>
+*bitHuman Team.*<br>
+2026. [[Website](https://www.bithuman.ai)] [[Docs](https://docs.bithuman.ai)] [[Examples](https://gitlab.com/bithuman/sdk/bithuman-examples)]
+
+Two models, each from one portrait: Essence 2 renders a photoreal person; Expression 2 renders any character (people, animals, cartoons). Expression 2 renders live on iPhone, iPad, Android, Mac, Linux or in a browser tab with WebGPU. Swift and Android SDKs, a Python SDK, a CLI with an MCP server, and a LiveKit Agents plugin.
+
 ## 3D/4D Human Avatar Generation and Animation
 
 **Generative Human Geometry Distribution.**<br>
