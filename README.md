@@ -46,7 +46,7 @@ Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with L
 
 **bitHuman — Real-time Avatars Rendered on the Device.**<br>
 *bitHuman Team.*<br>
-2026. [[Website](https://www.bithuman.ai)] [[Docs](https://docs.bithuman.ai)] [[Examples](https://github.com/bithuman-product/bithuman-examples)]
+2026. [[Website](https://www.bithuman.ai)] [[Docs](https://docs.bithuman.ai)] [[Examples](https://gitlab.com/bithuman/sdk/bithuman-examples)]
 
 Two models, each from one portrait: Essence 2 renders a photoreal person; Expression 2 renders any character (people, animals, cartoons). Expression 2 renders live on iPhone, iPad, Android, Mac, Linux or in a browser tab with WebGPU. Swift and Android SDKs, a Python SDK, a CLI with an MCP server, and a LiveKit Agents plugin.
 
