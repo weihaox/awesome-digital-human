@@ -1366,6 +1366,10 @@ TOG 2012. [[PDF](https://dl.acm.org/citation.cfm?doid=2185520.2185531)] [[Projec
 
 ## Human Image and Video Generation
 
+**PVSync: A Unified Lip-Sync Expert for Timing and Articulation.**<br>
+*Kevin Stephen, Varun Menon, Timo Mertens, Nikita Drobyshev.*<br> 
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.09223)]
+
 **FaceShot: Bring Any Character into Life.**<br>
 *Junyao Gao, Yanan Sun, Fei Shen, Xin Jiang, Zhening Xing, Kai Chen, Cairong Zhao.*<br> 
 ICLR 2025. [[PDF](https://arxiv.org/abs/2503.00740)] [[Project](https://faceshot2024.github.io/faceshot)]
