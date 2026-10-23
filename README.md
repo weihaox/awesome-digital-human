@@ -1366,6 +1366,10 @@ TOG 2012. [[PDF](https://dl.acm.org/citation.cfm?doid=2185520.2185531)] [[Projec
 
 ## Human Image and Video Generation
 
+**HairPort: In-context 3D-aware Hair Import and Transfer for Images.**<br>
+*Alireza Heidari, Amir Alimohammadi, Ali Mahdavi-Amiri.*<br> 
+SIGGRAPH 2026. [[PDF](https://arxiv.org/abs/2606.12562)] [[Project](https://deepmancer.github.io/HairPort/)] [[Code](https://github.com/deepmancer/HairPort)] [[Data](https://huggingface.co/datasets/deepmancer/baldy)]
+
 **FaceShot: Bring Any Character into Life.**<br>
 *Junyao Gao, Yanan Sun, Fei Shen, Xin Jiang, Zhening Xing, Kai Chen, Cairong Zhao.*<br> 
 ICLR 2025. [[PDF](https://arxiv.org/abs/2503.00740)] [[Project](https://faceshot2024.github.io/faceshot)]
