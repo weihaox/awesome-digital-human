@@ -44,6 +44,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
+**TalkPix — Talking-Photo Video API.**<br>
+*TalkPix Team.*<br>
+2026. [[Website](https://www.talkpix.ai/)] [[API Docs](https://www.talkpix.ai/developers)] [[Examples](https://github.com/TalkPix-AI/talkpix-api-examples)] [[MCP Server](https://github.com/TalkPix-AI/talkpix-mcp)]
+
+Commercial REST API and web app that animate a single portrait photo into a lip-synced talking video from a text script or uploaded audio. Async jobs with webhooks, Python and Node clients, and a remote MCP server for use from Claude or ChatGPT.
+
 ## 3D/4D Human Avatar Generation and Animation
 
 **Generative Human Geometry Distribution.**<br>
