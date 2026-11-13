@@ -44,6 +44,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
+**ActLike AI — Put a Person from One Photo into a Short Video or Trend Clip.**<br>
+*ActLike AI Team.*<br>
+2026. [[Website](https://actlikeai.video/)] [[Trends](https://actlikeai.video/trends)]
+
+Web studio and iPhone app that places a person from a single photo into a short video clip while keeping the original motion, camera movement and audio. Works with preset one-person trend clips or user-uploaded MP4/MOV clips with up to two people; only the user's own photos or people who consented, no public figures.
+
 ## 3D/4D Human Avatar Generation and Animation
 
 **Generative Human Geometry Distribution.**<br>
